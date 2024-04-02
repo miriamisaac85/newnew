@@ -1,0 +1,61 @@
+type dummy.CuriousTealSidonnie {
+  annotations {
+    serviceid ChemicalGreenIsahella3 {
+    }
+    hidden_boolean HelpfulTealSonni2 {
+    }
+    string OldAmethystAmie5 {
+    }
+    serviceid WesternChocolateDeerdre7 {
+    }
+    json GlobalGrayHermione {
+    }
+    string SourApricotArlene2 {
+    }
+    hidden_boolean MeltedAquaAura3 {
+    }
+    hidden_boolean VoicelessApricotArda {
+    }
+    dummy.IndustrialBrownDannye AwareChocolateDasi2 {
+    }
+    number AshamedScarletRosamond3 {
+    }
+    serviceid_number FairBlackCarlen3 {
+    }
+    serviceid ModernTealStar4 {
+    }
+    serviceid_number FascinatingOrangeMargaret {
+    }
+    serviceid_number RecentBronzeCornelle6 {
+    }
+    serviceid IntimateSilverRuthann2 {
+    }
+    hidden_boolean OppositeHarlequinJaneczka4 {
+    }
+    serviceid_number PetiteAmaranthAdrianna3 {
+    }
+    string JoyousBlackCarrissa5 {
+    }
+    serviceid FitHarlequinJackqueline2 {
+    }
+    hidden_boolean BoilingAmaranthAgnesse2 {
+    }
+    dummy.CloudyTomatoTamra DisciplinarySilverRycca4 {
+    }
+  }
+  ChemicalGreenIsahella3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  OldAmethystAmie5 = "Why did the kid cross the playground? To get to the other slide."
+  WesternChocolateDeerdre7 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  GlobalGrayHermione = "Whoever invented the knock-knock joke should get a no bell prize."
+  SourApricotArlene2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AshamedScarletRosamond3 = 714
+  FairBlackCarlen3 = 419
+  ModernTealStar4 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  FascinatingOrangeMargaret = 184
+  RecentBronzeCornelle6 = 501
+  IntimateSilverRuthann2 = "To be Frank, I'd have to change my name."
+  PetiteAmaranthAdrianna3 = 173
+  JoyousBlackCarrissa5 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FitHarlequinJackqueline2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _alias = "CuriousTealSidonnie_alias"
+}

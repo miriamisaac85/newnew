@@ -1,0 +1,112 @@
+type dummy.GlobalGrayHermine3 {
+  annotations {
+    json ComprehensiveGreenHyacintha {
+    }
+    json SlightGoldGwenny {
+    }
+    string MusicalIndigoJoanne4 {
+    }
+    hidden_boolean ImaginativeTanSeline5 {
+    }
+    json ThenSalmonPhoebe2 {
+    }
+  }
+  boolean EmotionalGrayHerta2 {
+    _hidden_value = true
+  }
+  dummy.FarBlushChristin ProudBlueCathee {
+    _hidden_value = true
+  }
+  number WastefulYellowZia3 {
+    _hidden_value = true
+  }
+  boolean VictoriousBlueCayla {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LiveIndigoJodi2 {
+    _hidden_value = true
+  }
+  json ControversialLimeKyla {
+    _hidden_value = true
+  }
+  serviceid PoisedTurquoiseThomasa4 {
+    _hidden_value = true
+  }
+  hidden_boolean ForthcomingPeachMarquita {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = false
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = true
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = true
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = false
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = true
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = false
+      },
+    ]
+  }
+  dummy.DEFAULT ExcessiveOliveMadelena3 {
+    _hidden_value = true
+  }
+  ComprehensiveGreenHyacintha = "How come the stadium got hot after the game? Because all of the fans left."
+  SlightGoldGwenny = "What do you do on a remote island? Try and find the TV island it belongs to."
+  MusicalIndigoJoanne4 = "Dad Im hungry  Hi hungry Im dad"
+  ThenSalmonPhoebe2 = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

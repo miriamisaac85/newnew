@@ -1,0 +1,67 @@
+dummy.HungryAzureBlithe4 ColouredMaroonLivvie3 {
+  AncientEmeraldFlore2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ShakyAquaAvril2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  RoundAmberAlmeria3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  MilitaryChocolateDarline5 = true
+  BrownFuchsiaGelya3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  LegalBrownDagmar2 = [
+    "Why did the tomato blush? Because it saw the salad dressing.",
+    "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...",
+    "Did you know that protons have mass? I didn't even know they were catholic.",
+    "Why didnt the skeleton cross the road? Because he had no guts.",
+    "Why is Peter Pan always flying? Because he Neverlands.",
+  ]
+  DeliciousScarletRodi3 = true
+  WastefulYellowZilvia2 = "To be Frank, I'd have to change my name."
+  RichCoffeeDorelia4 = 720
+  SouthernCyanEvey5 = 61
+  SmallBlueCharla = "Why did the tomato blush? Because it saw the salad dressing."
+  TypicalEmeraldFrancesca3 = [
+    744,
+    783,
+    945,
+    224,
+    726,
+    980,
+    227,
+    350,
+    737,
+    821,
+    585,
+    165,
+    815,
+  ]
+  TallAmaranthAgna2 = "A steak pun is a rare medium well done."
+  HuskyApricotAnnabel3 = 388
+  UsedFuchsiaGeorgeanne3 = 729
+  CruelPlumMichaelina6 = 123
+  DirtyIvoryJosepha5 = 700
+  UnconsciousSapphireRaven4 = 516
+  YoungBlueCheri5 = true
+  LiteraryGreenIrina2 = 391
+  CloudyTomatoTamra2 = '''
+Why did the tomato blush? Because it saw the salad dressing.
+My first time using an elevator was an uplifting experience. The second time let me down.
+'''
+  UnhappyMaroonLicha6 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  LabourBrownDael2 = false
+  BlondeTomatoTallie2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  AttractiveCyanFiann2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  GladGoldGlyn4 = false
+  MeaningfulTealSheree6 = [
+    "Im only familiar with 25 letters in the English language. I dont know why.",
+    "Why is Peter Pan always flying? Because he Neverlands.",
+    "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.",
+    "What did one nut say as he chased another nut?  I'm a cashew!",
+    "Why did the tomato blush? Because it saw the salad dressing.",
+    "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face.",
+    "Dad Im hungry  Hi hungry Im dad",
+    "Why is Peter Pan always flying? Because he Neverlands.",
+    "Why is Peter Pan always flying? Because he Neverlands.",
+    "I'll tell you what often gets over looked... garden fences.",
+    "Chances are if you' ve seen one shopping center, you've seen a mall.",
+    "Why do birds fly south for the winter? Because it's too far to walk.",
+  ]
+  _parent = dummy.CuteTomatoTansy3
+  _alias = "ColouredMaroonLivvie3_alias"
+}

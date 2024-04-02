@@ -1,0 +1,59 @@
+type dummy.DeliciousApricotArdis4 {
+  annotations {
+    string WickedBeigeBryana3 {
+    }
+    number HappyBlackCarola5 {
+    }
+    dummy.RoastedWhiteWenonah PricklyWhiteViv2 {
+    }
+    string OverallCrimsonEmmalynn5 {
+    }
+    serviceid_number CrazyVioletTracy3 {
+    }
+    number SpottyYellowWrennie2 {
+    }
+    json RainyAquaAustin3 {
+    }
+    hidden_boolean UltimateJadeKamilah3 {
+    }
+    hidden_boolean RisingScarletRoselle4 {
+    }
+    hidden_boolean SupremeGreenIsabella3 {
+    }
+    dummy.RidiculousMoccasinLiz2 LiableLimeKimmie2 {
+    }
+    boolean SteadyJadeKailey2 {
+    }
+    json LateAmethystAmata6 {
+    }
+    serviceid CostlySapphireReggi3 {
+    }
+    number AdvancedHarlequinJacinta4 {
+    }
+    number UptightBeigeBrook4 {
+    }
+    json GracefulTurquoiseTerrie5 {
+    }
+    dummy.UnacceptableSalmonPenelope GeneralBlushChristan6 {
+    }
+    serviceid_number WeakAquamarineBelicia2 {
+    }
+    hidden_boolean SimpleBronzeCorissa4 {
+    }
+  }
+  WickedBeigeBryana3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  HappyBlackCarola5 = 461
+  PricklyWhiteViv2 = file("WonderfulYellowZonda2.txt")
+  OverallCrimsonEmmalynn5 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  CrazyVioletTracy3 = 391
+  SpottyYellowWrennie2 = 236
+  RainyAquaAustin3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SteadyJadeKailey2 = false
+  LateAmethystAmata6 = "Why is Peter Pan always flying? Because he Neverlands."
+  CostlySapphireReggi3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  AdvancedHarlequinJacinta4 = 396
+  UptightBeigeBrook4 = 534
+  GracefulTurquoiseTerrie5 = "Dad Im hungry  Hi hungry Im dad"
+  WeakAquamarineBelicia2 = 833
+  _alias = "DeliciousApricotArdis4_alias"
+}

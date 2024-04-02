@@ -1,0 +1,111 @@
+type dummy.RainyAquaAurore {
+  annotations {
+    dummy.OccasionalIvoryJuliette SteadyAquamarineBatsheva2 {
+    }
+    number MildOliveMaddalena {
+    }
+    hidden_boolean GreyEmeraldFrankie {
+    }
+    number BoringPeachMarnie2 {
+    }
+  }
+  serviceid_number SkilledMoccasinLuce3 {
+    _hidden_value = true
+  }
+  boolean ExtremeHarlequinJacinthe2 {
+    _hidden_value = true
+  }
+  json PlannedPlumMiran3 {
+    _hidden_value = true
+  }
+  number GreenChocolateDebra2 {
+    _hidden_value = true
+  }
+  number SuperTomatoSusanetta2 {
+    _hidden_value = true
+  }
+  boolean RubberSilverSarena3 {
+    _hidden_value = true
+  }
+  hidden_boolean TerribleEmeraldFredrika3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = true
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = false
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = true
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = true
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = false
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = true
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = false
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = false
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = true
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = true
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = false
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = false
+      },
+    ]
+  }
+  SteadyAquamarineBatsheva2 = 148
+  MildOliveMaddalena = 892
+  BoringPeachMarnie2 = 523
+  _hidden_value = true
+}

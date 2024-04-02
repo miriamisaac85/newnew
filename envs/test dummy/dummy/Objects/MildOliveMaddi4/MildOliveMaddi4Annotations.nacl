@@ -1,0 +1,50 @@
+type dummy.MildOliveMaddi4 {
+  annotations {
+    dummy.DiplomaticMagentaLenore3 OutstandingTealSteffane4 {
+    }
+    serviceid LightCopperDulcinea2 {
+    }
+    boolean AmericanBronzeCorrianne5 {
+    }
+    number ReliableLavenderKiley2 {
+    }
+    boolean ActualCopperEbonee3 {
+    }
+    serviceid MarkedMagentaLaura2 {
+    }
+    serviceid ExtraCoffeeDiana {
+    }
+    boolean CertainBronzeClemmy {
+    }
+    json ModestLavenderKellyann {
+    }
+    dummy.ProfoundPinkMerlina3 BrokenIndigoJocelyne3 {
+    }
+    hidden_boolean HelpfulTealSonni4 {
+    }
+    serviceid_number UnconsciousSapphireRaychel5 {
+    }
+    serviceid_number DirtyAmberAleta2 {
+    }
+    serviceid_number RigidPinkMerrily5 {
+    }
+    boolean RegisteredPurpleNadya2 {
+    }
+    string PleasantBlackCatha3 {
+    }
+  }
+  LightCopperDulcinea2 = "A steak pun is a rare medium well done."
+  AmericanBronzeCorrianne5 = false
+  ReliableLavenderKiley2 = 748
+  ActualCopperEbonee3 = true
+  MarkedMagentaLaura2 = "What creature is smarter than a talking parrot? A spelling bee."
+  ExtraCoffeeDiana = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  CertainBronzeClemmy = true
+  ModestLavenderKellyann = "Why didnt the skeleton cross the road? Because he had no guts."
+  UnconsciousSapphireRaychel5 = 614
+  DirtyAmberAleta2 = 225
+  RigidPinkMerrily5 = 601
+  RegisteredPurpleNadya2 = true
+  PleasantBlackCatha3 = "What creature is smarter than a talking parrot? A spelling bee."
+  _alias = "MildOliveMaddi4_alias"
+}

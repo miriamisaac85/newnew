@@ -1,0 +1,267 @@
+type dummy.RequiredMaroonLetisha {
+  annotations {
+    serviceid BoredAquamarineBerri {
+    }
+    dummy.DEFAULT LegitimatePinkMaybelle {
+    }
+    boolean YummyYellowZorina2 {
+    }
+    hidden_boolean ForwardSapphireRica {
+    }
+    hidden_boolean FantasticSapphireRegine2 {
+    }
+    boolean ShiveringAquaBabita2 {
+    }
+  }
+  json ContinuedLimeLanae {
+    _hidden_value = true
+  }
+  string JoyousBlackCarrissa3 {
+    _hidden_value = true
+  }
+  serviceid ControlledTanSheilah2 {
+    _hidden_value = true
+  }
+  boolean StuckRoseOphelie2 {
+    _hidden_value = true
+  }
+  number BigVioletTony {
+    _hidden_value = true
+  }
+  number CautiousScarletRivi {
+    _hidden_value = true
+  }
+  number ComparableMoccasinLoella {
+    _hidden_value = true
+  }
+  string StraightforwardMaroonLezlie {
+    _hidden_value = true
+  }
+  string LonelyOliveLyn {
+    _hidden_value = true
+  }
+  number HandicappedTanShantee {
+    _hidden_value = true
+  }
+  boolean NavalPinkMelamie {
+    _hidden_value = true
+  }
+  hidden_boolean WearyBeigeBrook3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = false
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = false
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = true
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = false
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+    ]
+  }
+  dummy.AcuteLavenderKeri ProtestantScarletRobinett {
+    TerribleBeigeBrinna = 970
+    ShrillApricotAntonetta = 612
+    FineBrownCourtenay = "I'll tell you what often gets over looked... garden fences."
+    HelpfulBlackCarolin = true
+    ConsiderableChocolateDemetra = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ThoughtfulBlueCaye = "Why did the tomato blush? Because it saw the salad dressing."
+    LiveIndigoJody = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    PoorBronzeCorene = "What creature is smarter than a talking parrot? A spelling bee."
+    ShallowAmberAlmire = 268
+    ClosedMagentaLela = "A steak pun is a rare medium well done."
+    _hidden_value = true
+  }
+  number AwakeRedNolie {
+    _hidden_value = true
+  }
+  string GentleBlackCarmelle {
+    _hidden_value = true
+  }
+  number HugeAmaranthAdelaida2 {
+    _hidden_value = true
+  }
+  number ElegantMoccasinLucina {
+    _hidden_value = true
+  }
+  string BriefEmeraldFlory3 {
+    _hidden_value = true
+  }
+  serviceid UsualCoralEllynn3 {
+    _hidden_value = true
+  }
+  serviceid_number InternalCoralEdythe {
+    _hidden_value = true
+  }
+  number FundamentalFuchsiaGenevieve4 {
+    _hidden_value = true
+  }
+  "List<number>" ImpossibleCopperDulcea3 {
+    _hidden_value = true
+  }
+  hidden_boolean MarvellousMoccasinLorrayne2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = true
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = true
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = false
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = false
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = false
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = false
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = false
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = false
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = false
+      },
+    ]
+  }
+  number ControlledTanSheilakathryn {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FinancialBronzeCorette2 {
+    _hidden_value = true
+  }
+  serviceid_number CasualOliveLurlene4 {
+    _hidden_value = true
+  }
+  serviceid_number LegislativeMaroonLinell4 {
+    _hidden_value = true
+  }
+  serviceid AcuteLavenderKenna {
+    _hidden_value = true
+  }
+  string FrontCopperEadie {
+    _hidden_value = true
+  }
+  number FoolishAzureBinni3 {
+    _hidden_value = true
+  }
+  BoredAquamarineBerri = "What do you do on a remote island? Try and find the TV island it belongs to."
+  LegitimatePinkMaybelle = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  YummyYellowZorina2 = true
+  ShiveringAquaBabita2 = true
+  _hidden_value = true
+}

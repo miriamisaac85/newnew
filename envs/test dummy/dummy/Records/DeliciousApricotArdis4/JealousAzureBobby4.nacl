@@ -1,0 +1,6 @@
+dummy.DeliciousApricotArdis4 JealousAzureBobby4 {
+  ExplicitMaroonLisette2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  BigAmaranthAbagail3 = "What do you call two barracuda fish?  A Pairacuda!"
+  _parent = dummy.DampMoccasinLory
+  _alias = "JealousAzureBobby4_alias"
+}

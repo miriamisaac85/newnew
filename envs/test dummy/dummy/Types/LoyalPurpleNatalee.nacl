@@ -1,0 +1,230 @@
+type dummy.LoyalPurpleNatalee {
+  annotations {
+    json UnconsciousSapphireRaychel2 {
+    }
+    string DefensiveRoseOndrea {
+    }
+    boolean UpsetBeigeBrittani {
+    }
+    json OrganisationalTanShari {
+    }
+  }
+  serviceid ChosenSilverSari {
+    _hidden_value = true
+  }
+  boolean UglyYellowYvonne {
+    _hidden_value = true
+  }
+  number ChubbyAmberAlina {
+    _hidden_value = true
+  }
+  string TartYellowWynnie2 {
+    _hidden_value = true
+  }
+  serviceid_number CuteTomatoTanitansy {
+    _hidden_value = true
+  }
+  hidden_boolean HotAquaAudry {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = false
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = false
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = true
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+    ]
+  }
+  dummy.DEFAULT ElegantMoccasinLucila3 {
+    _hidden_value = true
+  }
+  hidden_boolean WildTomatoSuzie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = true
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = true
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = true
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = true
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = false
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = true
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = true
+      },
+    ]
+  }
+  hidden_boolean CombativeAquamarineBert {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = true
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = false
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = true
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = true
+      },
+    ]
+  }
+  UnconsciousSapphireRaychel2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  DefensiveRoseOndrea = "What do you call two barracuda fish?  A Pairacuda!"
+  UpsetBeigeBrittani = false
+  OrganisationalTanShari = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

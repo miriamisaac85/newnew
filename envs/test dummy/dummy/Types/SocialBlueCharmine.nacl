@@ -1,0 +1,85 @@
+type dummy.SocialBlueCharmine {
+  annotations {
+    number RemainingGoldGodiva {
+    }
+    json HarshApricotAnjela {
+    }
+    boolean DangerousAzureBetsey {
+    }
+    hidden_boolean ContinentalOliveMagdalena {
+    }
+    serviceid_number EncouragingBlackCaressa {
+    }
+    serviceid_number FashionableSapphireRenata2 {
+    }
+  }
+  serviceid_number LeftCoffeeDenys {
+    _hidden_value = true
+  }
+  string DevotedRosePauletta {
+    _hidden_value = true
+  }
+  dummy.OrdinaryCopperEdi FiscalRedNike {
+    SillyYellowWini = 11
+    CruelAquamarineBessy = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    TameYellowYalonda = 418
+    RareWhiteWanda = 594
+    SpareMaroonLillis = "What do you call two barracuda fish?  A Pairacuda!"
+    StupidGreenIzabel = 844
+    MaximumGreenIlyssa = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    TerritorialSalmonPriscella = "Whoever invented the knock-knock joke should get a no bell prize."
+    VariedRedNoreen = 154
+    DangerousCrimsonEssie = true
+    UselessRedNinetta = 733
+    IntenseLavenderKatuscha = 971
+    SubtleMoccasinLucie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    _hidden_value = true
+  }
+  json RelativeGoldGui2 {
+    _hidden_value = true
+  }
+  serviceid_number RottenApricotAriella {
+    _hidden_value = true
+  }
+  string ChubbyAmberAlisa {
+    _hidden_value = true
+  }
+  string EqualCrimsonEmilia {
+    _hidden_value = true
+  }
+  json AnonymousSapphireRayshell {
+    _hidden_value = true
+  }
+  number RequiredMaroonLethia {
+    _hidden_value = true
+  }
+  serviceid SadGrayHestia {
+    _hidden_value = true
+  }
+  json MightyWhiteVeriee {
+    _hidden_value = true
+  }
+  serviceid CheerfulBeigeCally {
+    _hidden_value = true
+  }
+  boolean FlatGrayHanny {
+    _hidden_value = true
+  }
+  json DryCyanEvaleen {
+    _hidden_value = true
+  }
+  boolean CurlyAmberAlbertine {
+    _hidden_value = true
+  }
+  "List<serviceid>" BrightVioletTove {
+    _hidden_value = true
+  }
+  RemainingGoldGodiva = 327
+  HarshApricotAnjela = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  DangerousAzureBetsey = true
+  EncouragingBlackCaressa = 969
+  FashionableSapphireRenata2 = 569
+  _hidden_value = true
+}

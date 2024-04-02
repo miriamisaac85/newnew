@@ -1,0 +1,93 @@
+type dummy.UnacceptableSalmonPen2 {
+  annotations {
+    hidden_boolean TypicalEmeraldFranciska {
+    }
+    json AfraidAquamarineBelva {
+    }
+    serviceid NaughtyAzureBonni2 {
+    }
+    hidden_boolean PopularChocolateDavina {
+    }
+    json AcceptableGrayHelsa2 {
+    }
+    serviceid ShortAmethystAnabel2 {
+    }
+  }
+  number LinguisticJadeKarin {
+    _hidden_value = true
+  }
+  boolean DisturbingTealSherill2 {
+    _hidden_value = true
+  }
+  hidden_boolean UninterestedTomatoSusy2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = false
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = false
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = false
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = false
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = false
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = true
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+    ]
+  }
+  serviceid_number ClumsyVioletTracee2 {
+    _hidden_value = true
+  }
+  json WiseLavenderKatharyn2 {
+    _hidden_value = true
+  }
+  json SourApricotArlena2 {
+    _hidden_value = true
+  }
+  AfraidAquamarineBelva = "Why didnt the skeleton cross the road? Because he had no guts."
+  NaughtyAzureBonni2 = "Why is Peter Pan always flying? Because he Neverlands."
+  AcceptableGrayHelsa2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ShortAmethystAnabel2 = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

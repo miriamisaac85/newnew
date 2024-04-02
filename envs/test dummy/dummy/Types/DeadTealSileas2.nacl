@@ -1,0 +1,25 @@
+type dummy.DeadTealSileas2 {
+  annotations {
+    dummy.DEFAULT MistyTurquoiseTheda5 {
+    }
+    json SafeCopperDorey {
+    }
+    dummy.BindingSalmonPeta CoastalPlumMichel2 {
+    }
+    boolean OutstandingIndigoJenna3 {
+    }
+    serviceid ConfusedMaroonLil2 {
+    }
+  }
+  json ScornfulBeigeBrianne {
+    _hidden_value = true
+  }
+  MistyTurquoiseTheda5 = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  SafeCopperDorey = "A steak pun is a rare medium well done."
+  CoastalPlumMichel2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  OutstandingIndigoJenna3 = true
+  ConfusedMaroonLil2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

@@ -1,0 +1,136 @@
+type dummy.EnthusiasticBlackCarilyn2 {
+  annotations {
+    serviceid_number SpareMaroonLilli3 {
+    }
+    hidden_boolean DeafIvoryJoya4 {
+    }
+    dummy.OccasionalIvoryJuliette SlimRoseOlva2 {
+    }
+    number EvilAzureBill {
+    }
+  }
+  string DisturbingTealSheree {
+    _hidden_value = true
+  }
+  boolean CarefulCyanFeodora2 {
+    _hidden_value = true
+  }
+  dummy.FarBlushChristin FemaleCrimsonEmmey2 {
+    _hidden_value = true
+  }
+  serviceid_number DistinguishedPurpleNatalya {
+    _hidden_value = true
+  }
+  json UglyPlumMicky2 {
+    _hidden_value = true
+  }
+  json CentralBronzeConny {
+    _hidden_value = true
+  }
+  number UnusualGoldGladi2 {
+    _hidden_value = true
+  }
+  serviceid CarefulTealShirline2 {
+    _hidden_value = true
+  }
+  hidden_boolean CloseBrownCosette {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = true
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = false
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = true
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = true
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = true
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = true
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = false
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+    ]
+  }
+  serviceid PurpleScarletRivalee2 {
+    _hidden_value = true
+  }
+  json WeeklyLavenderKesley2 {
+    _hidden_value = true
+  }
+  boolean RelievedBlueCathie3 {
+    _hidden_value = true
+  }
+  json RelievedSalmonPetronella {
+    _hidden_value = true
+  }
+  string PurpleWhiteVivia {
+    _hidden_value = true
+  }
+  SpareMaroonLilli3 = 967
+  SlimRoseOlva2 = 443
+  EvilAzureBill = 568
+  _hidden_value = true
+}

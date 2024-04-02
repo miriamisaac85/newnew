@@ -1,0 +1,113 @@
+type dummy.AllegedOliveLynna {
+  number ModernTealStar5 {
+  }
+  number CuriousTealSidonia {
+  }
+  serviceid OriginalChocolateDarsey5 {
+  }
+  serviceid_number DangerousCrimsonEssy4 {
+  }
+  number MarineMagentaLeone3 {
+  }
+  json PureGrayHenryetta6 {
+  }
+  dummy.ExcitedOrangeMarinna WetAquamarineBelita2 {
+    BritishBlushCherilyn2 = "How come the stadium got hot after the game? Because all of the fans left."
+    ImaginativeTanSeline6 = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    SillyBlueCathlene2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ElectricalLavenderKerrie2 = "Why is Peter Pan always flying? Because he Neverlands."
+    WorryingSilverRozalie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    AmazingMoccasinLizbeth2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+    CooingAmethystAngelle2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ShockedPinkMelisande2 = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+  }
+  json PuzzledTomatoStephi3 {
+  }
+  serviceid GivenHarlequinJaney5 {
+  }
+  boolean EncouragingBlackCaressa3 {
+  }
+  serviceid_number ExcitedOrangeMarinna4 {
+  }
+  number AlrightGoldGoldy3 {
+  }
+  serviceid_number ImmediateCrimsonEmeline5 {
+  }
+  number ColourfulScarletRosaleen3 {
+  }
+  hidden_boolean IntermediateRoseOla {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = true
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = true
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = true
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = true
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = false
+      },
+    ]
+  }
+  serviceid_number PuzzledTanShanie2 {
+  }
+}

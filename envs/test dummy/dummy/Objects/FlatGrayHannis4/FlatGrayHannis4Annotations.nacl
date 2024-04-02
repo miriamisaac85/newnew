@@ -1,0 +1,59 @@
+type dummy.FlatGrayHannis4 {
+  annotations {
+    json VariousBrownCorry2 {
+    }
+    serviceid UnchangedSilverRozina3 {
+    }
+    serviceid_number ManualRosePat {
+    }
+    string DistinctiveLimeKristel3 {
+    }
+    boolean WarmCopperDulcinea4 {
+    }
+    hidden_boolean RoyalBrownCristina4 {
+    }
+    hidden_boolean HarshApricotAnjela3 {
+    }
+    number UnevenAquamarineBekki4 {
+    }
+    hidden_boolean RemainingGoldGolda3 {
+    }
+    dummy.GiantAmaranthAbra IsolatedPeachMarketa {
+    }
+    serviceid_number PremierOrangeMarguerite2 {
+    }
+    string UsedFuchsiaGeorgeanna3 {
+    }
+    json MoaningApricotAnne5 {
+    }
+    number WorriedGrayHarrie3 {
+    }
+    hidden_boolean AloneCyanEzmeralda2 {
+    }
+    string CoolAmaranthAindrea3 {
+    }
+    string ExceptionalOliveMadlen3 {
+    }
+    hidden_boolean BoredPlumMonika3 {
+    }
+    json NavalPinkMela4 {
+    }
+    serviceid_number BizarreTanSean5 {
+    }
+  }
+  VariousBrownCorry2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  UnchangedSilverRozina3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ManualRosePat = 944
+  DistinctiveLimeKristel3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  WarmCopperDulcinea4 = false
+  UnevenAquamarineBekki4 = 736
+  PremierOrangeMarguerite2 = 945
+  UsedFuchsiaGeorgeanna3 = "Dad Im hungry  Hi hungry Im dad"
+  MoaningApricotAnne5 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  WorriedGrayHarrie3 = 625
+  CoolAmaranthAindrea3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ExceptionalOliveMadlen3 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  NavalPinkMela4 = "I'll tell you what often gets over looked... garden fences."
+  BizarreTanSean5 = 306
+  _alias = "FlatGrayHannis4_alias"
+}

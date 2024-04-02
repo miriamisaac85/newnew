@@ -1,0 +1,250 @@
+type dummy.FrontCopperEalasaid3 {
+  number LightTurquoiseThalia3 {
+  }
+  serviceid_number SilentApricotAntonina {
+  }
+  boolean EthnicLavenderKayla3 {
+  }
+  boolean MainBlushCindelyn2 {
+  }
+  number SlowCyanEugenia2 {
+  }
+  dummy.ArbitrarySilverRoxane2 SurroundingOrangeMargette5 {
+    ExcellentCoralEffie = true
+    JuniorIvoryJonis = 486
+    LittleBlushChlo2 = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  boolean PracticalCopperDorine {
+  }
+  serviceid GothicSapphireRana5 {
+  }
+  number ProfoundPinkMerl3 {
+  }
+  boolean MechanicalMagentaLeonelle2 {
+  }
+  "List<serviceid>" PrimitiveOrangeMargalo4 {
+  }
+  hidden_boolean OddFuchsiaGenna3 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+    _important_values = [
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = true
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = false
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = true
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = false
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = true
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = false
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = false
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = true
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = true
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = true
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = true
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = false
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = true
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+    ]
+  }
+  hidden_boolean GlobalGrayHermine5 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = true
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = true
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+    ]
+  }
+  string MajorBlushClara2 {
+  }
+  string PoorBronzeCorenda4 {
+  }
+  hidden_boolean FaithfulTanShayne4 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+    _important_values = [
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = false
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = false
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = true
+      },
+    ]
+  }
+  string DemocraticCrimsonEmyle {
+  }
+  boolean ThenSalmonPhylis4 {
+  }
+}

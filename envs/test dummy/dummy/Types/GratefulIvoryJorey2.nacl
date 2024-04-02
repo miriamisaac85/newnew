@@ -1,0 +1,397 @@
+type dummy.GratefulIvoryJorey2 {
+  annotations {
+    json YellowGoldGiulietta {
+    }
+    string TopChocolateDareen {
+    }
+    string CasualOliveLusa {
+    }
+    boolean RegularCopperDorris {
+    }
+    boolean GiganticAmaranthAdda2 {
+    }
+    hidden_boolean WorthyRoseOdille {
+    }
+  }
+  dummy.DEFAULT UnknownFuchsiaGilberte {
+    _hidden_value = true
+  }
+  boolean RationalLavenderKatusha {
+    _hidden_value = true
+  }
+  dummy.ExtraCoffeeDianemarie CreepyAmberAlaine2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AestheticSapphireReba {
+    _hidden_value = true
+  }
+  serviceid_number ProvincialPeachMarissa2 {
+    _hidden_value = true
+  }
+  hidden_boolean ExtraordinaryIndigoJessica {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = false
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = false
+      },
+      {
+        value = '''
+Did you hear the joke about the wandering nun? She was a roman catholic.
+Did you hear about the guy whose whole left side was cut off? He's all right now.
+'''
+        indexed = true
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = false
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = true
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+    ]
+  }
+  number PuzzledTanShandy {
+    _hidden_value = true
+  }
+  hidden_boolean UnusualTurquoiseTobey {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = true
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = false
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = false
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = true
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = true
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = false
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = false
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = false
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = false
+      },
+      {
+        value = '''
+Why is Peter Pan always flying? Because he Neverlands.
+I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
+Why did the tomato blush? Because it saw the salad dressing.
+'''
+        indexed = false
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = false
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = false
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = false
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = true
+      },
+    ]
+  }
+  json MarriedCyanFanni {
+    _hidden_value = true
+  }
+  hidden_boolean HelpfulTealSonnnie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = false
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = false
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = false
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = true
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = false
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = false
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = true
+      },
+    ]
+  }
+  number SlowAmethystAnaliese2 {
+    _hidden_value = true
+  }
+  serviceid FinancialBronzeCori {
+    _hidden_value = true
+  }
+  serviceid_number MainBlushCinda {
+    _hidden_value = true
+  }
+  serviceid VulnerableJadeKarola {
+    _hidden_value = true
+  }
+  string NeighbouringPurpleNananne {
+    _hidden_value = true
+  }
+  hidden_boolean TeenageScarletRobinett {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = false
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = false
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+    ]
+  }
+  YellowGoldGiulietta = "To be Frank, I'd have to change my name."
+  TopChocolateDareen = "Why did the tomato blush? Because it saw the salad dressing."
+  CasualOliveLusa = "Did you know that protons have mass? I didn't even know they were catholic."
+  RegularCopperDorris = true
+  GiganticAmaranthAdda2 = true
+  _hidden_value = true
+}

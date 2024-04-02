@@ -1,0 +1,82 @@
+type dummy.OrganicLimeLadonna {
+  annotations {
+    json ImperialJadeKaterina {
+    }
+    json ConservationPlumMoira {
+    }
+    dummy.OccupationalOliveMadel CrazyVioletTrescha2 {
+    }
+    string ModeratePurpleNatalie {
+    }
+    json AverageCoralElysha5 {
+    }
+    serviceid PoliteSalmonRafaela {
+    }
+    string GrievingAzureBlanca {
+    }
+  }
+  serviceid SuddenGoldGwen {
+    _hidden_value = true
+  }
+  boolean JealousAzureBobby {
+    _hidden_value = true
+  }
+  json DirectChocolateDeane4 {
+    _hidden_value = true
+  }
+  json CalmPurpleNancey2 {
+    _hidden_value = true
+  }
+  boolean SpanishGreenIrena3 {
+    _hidden_value = true
+  }
+  boolean ValidLavenderKerstin2 {
+    _hidden_value = true
+  }
+  serviceid_number JollyBlackCarri2 {
+    _hidden_value = true
+  }
+  json LocalBlueCharmane2 {
+    _hidden_value = true
+  }
+  serviceid ParentalRedNichol {
+    _hidden_value = true
+  }
+  dummy.ImmenseAmaranthAdelice ReliableLavenderKiley {
+    PoliteSalmonRafa = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    FrightenedAzureBlaire = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    AlertTomatoSydney = 275
+    AwakeRedNolana = "What did one nut say as he chased another nut?  I'm a cashew!"
+    SteepAmberAlvira = false
+    InnocentTealStacey = false
+    GladGoldGlynnis = 267
+    ComingSilverSammy = "Did you know that protons have mass? I didn't even know they were catholic."
+    UltimateJadeKandace = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ScatteredAquaAvie = 36
+    ConceptualTanShelbi = "What creature is smarter than a talking parrot? A spelling bee."
+    KindOrangeMaribelle = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  boolean GlobalGrayHermine2 {
+    _hidden_value = true
+  }
+  string ScaryBeigeBriana2 {
+    _hidden_value = true
+  }
+  serviceid_number FamousCoralElfrieda4 {
+    _hidden_value = true
+  }
+  serviceid_number ProspectiveRedNettie2 {
+    _hidden_value = true
+  }
+  ImperialJadeKaterina = "What do you call two barracuda fish?  A Pairacuda!"
+  ConservationPlumMoira = "Slept like a log last night  woke up in the fireplace."
+  CrazyVioletTrescha2 = true
+  ModeratePurpleNatalie = "Why is Peter Pan always flying? Because he Neverlands."
+  AverageCoralElysha5 = "Why didnt the skeleton cross the road? Because he had no guts."
+  PoliteSalmonRafaela = "Why did the tomato blush? Because it saw the salad dressing."
+  GrievingAzureBlanca = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

@@ -1,0 +1,146 @@
+type dummy.SupportingSilverSamara2 {
+  annotations {
+    serviceid BeautifulVioletToni {
+    }
+    string ItalianGoldGrayce {
+    }
+    boolean OddWhiteVinita5 {
+    }
+    serviceid FellowJadeJustinn4 {
+    }
+    dummy.DEFAULT SingleBronzeCorabella3 {
+    }
+  }
+  serviceid PremierOrangeMaria2 {
+    _hidden_value = true
+  }
+  json PublicBlushChristyna2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SubtleMoccasinLuciana2 {
+    _hidden_value = true
+  }
+  hidden_boolean ScaryBeigeBria4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = false
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = false
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = false
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = false
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = true
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = false
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = true
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = true
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = false
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+    ]
+  }
+  serviceid CoherentScarletRoseline2 {
+    _hidden_value = true
+  }
+  serviceid_number ArchitecturalRosePatience3 {
+    _hidden_value = true
+  }
+  json KindOrangeMarice4 {
+    _hidden_value = true
+  }
+  string WeeklyLavenderKessiah3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OddFuchsiaGenevra2 {
+    _hidden_value = true
+  }
+  boolean AngryAquamarineBenedicta3 {
+    _hidden_value = true
+  }
+  number PreciousWhiteVitia {
+    _hidden_value = true
+  }
+  serviceid_number RemoteIndigoJenelle2 {
+    _hidden_value = true
+  }
+  number FinalBrownDalenna2 {
+    _hidden_value = true
+  }
+  serviceid_number FiscalRedNiki4 {
+    _hidden_value = true
+  }
+  BeautifulVioletToni = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ItalianGoldGrayce = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  OddWhiteVinita5 = true
+  FellowJadeJustinn4 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SingleBronzeCorabella3 = {
+    legit = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  _hidden_value = true
+}

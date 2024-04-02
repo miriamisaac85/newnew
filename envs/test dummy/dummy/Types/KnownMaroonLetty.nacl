@@ -1,0 +1,237 @@
+type dummy.KnownMaroonLetty {
+  annotations {
+    serviceid DisastrousScarletRochella {
+    }
+    string WeakFuchsiaGayla {
+    }
+    hidden_boolean WetAquamarineBell {
+    }
+    number StickyAquamarineBeatrisa {
+    }
+    number FollowingBrownCyndie {
+    }
+  }
+  json WetGrayHedi3 {
+    _hidden_value = true
+  }
+  serviceid_number FunOrangeMarcille {
+    _hidden_value = true
+  }
+  dummy.ExistingCoffeeDeva FaintMaroonLiva {
+    PetiteAmaranthAdrianna = "Did you know that protons have mass? I didn't even know they were catholic."
+    ExtraordinaryIndigoJessy = "A steak pun is a rare medium well done."
+    HonChocolateDaveen = false
+    ProfoundPinkMerla = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    UpperCyanFaunie = "Why did the tomato blush? Because it saw the salad dressing."
+    LegalBrownDahlia = 897
+    FeministPlumMina = "Whoever invented the knock-knock joke should get a no bell prize."
+    RelaxedPlumMinni = 68
+    FilthyTurquoiseTera2 = "What do you call two barracuda fish?  A Pairacuda!"
+    RareEmeraldFlorentia = 856
+    EducationalCrimsonEryn = 676
+    _hidden_value = true
+  }
+  number WeirdSilverRozele2 {
+    _hidden_value = true
+  }
+  serviceid_number OpenTealStarlin {
+    _hidden_value = true
+  }
+  hidden_boolean ImperialLavenderKaterine2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = false
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = true
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = false
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = false
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = false
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = false
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = false
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = true
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = false
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+    ]
+  }
+  "Map<serviceid>" WiseLavenderKathe {
+    _hidden_value = true
+  }
+  number ConservationPlumMolli {
+    _hidden_value = true
+  }
+  json MathematicalRoseOrsola {
+    _hidden_value = true
+  }
+  hidden_boolean SovietChocolateDarell2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = true
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = true
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = true
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = true
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = true
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+    ]
+  }
+  serviceid FairCoffeeDinny2 {
+    _hidden_value = true
+  }
+  json TiredGoldGretchen2 {
+    _hidden_value = true
+  }
+  number ClearBlushCindy {
+    _hidden_value = true
+  }
+  DisastrousScarletRochella = "I'll tell you what often gets over looked... garden fences."
+  WeakFuchsiaGayla = "I'll tell you what often gets over looked... garden fences."
+  StickyAquamarineBeatrisa = 786
+  FollowingBrownCyndie = 253
+  _hidden_value = true
+}

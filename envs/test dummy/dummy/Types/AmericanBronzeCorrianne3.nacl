@@ -1,0 +1,102 @@
+type dummy.AmericanBronzeCorrianne3 {
+  annotations {
+    json MysteriousPurpleNelie {
+    }
+    serviceid_number VisibleIndigoJillane {
+    }
+    json FrequentLavenderKati2 {
+    }
+    serviceid SympatheticPinkMeade2 {
+    }
+  }
+  number GratefulIvoryJorey5 {
+    _hidden_value = true
+  }
+  boolean RomanticMagentaLea {
+    _hidden_value = true
+  }
+  boolean TurkishPurpleMoyna3 {
+    _hidden_value = true
+  }
+  serviceid CleanTomatoTamiko {
+    _hidden_value = true
+  }
+  serviceid SecondaryFuchsiaGertrud2 {
+    _hidden_value = true
+  }
+  number ShortAmethystAnabel3 {
+    _hidden_value = true
+  }
+  hidden_boolean RipeApricotAridatha3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = false
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = true
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+    ]
+  }
+  string AlrightGoldGoldie2 {
+    _hidden_value = true
+  }
+  "List<number>" OutstandingIndigoJenn2 {
+    _hidden_value = true
+  }
+  MysteriousPurpleNelie = "What do you call two barracuda fish?  A Pairacuda!"
+  VisibleIndigoJillane = 214
+  FrequentLavenderKati2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  SympatheticPinkMeade2 = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

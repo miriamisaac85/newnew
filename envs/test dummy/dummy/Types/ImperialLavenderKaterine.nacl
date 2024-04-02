@@ -1,0 +1,29 @@
+type dummy.ImperialLavenderKaterine {
+  annotations {
+    hidden_boolean ItalianGoldGray2 {
+    }
+    boolean EnchantingBlackCaresa {
+    }
+    serviceid_number TerritorialSalmonPriscilla {
+    }
+    boolean IllAzureBobbee2 {
+    }
+    dummy.DEFAULT JapaneseEmeraldFidelity {
+    }
+    hidden_boolean ConsistentHarlequinJanith {
+    }
+    json WonderfulYellowZoe5 {
+    }
+  }
+  string CoherentScarletRoseline {
+    _hidden_value = true
+  }
+  EnchantingBlackCaresa = true
+  TerritorialSalmonPriscilla = 363
+  IllAzureBobbee2 = false
+  JapaneseEmeraldFidelity = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  WonderfulYellowZoe5 = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

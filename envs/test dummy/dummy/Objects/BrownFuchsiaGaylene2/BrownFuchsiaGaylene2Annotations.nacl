@@ -1,0 +1,59 @@
+type dummy.BrownFuchsiaGaylene2 {
+  annotations {
+    string SafeCopperDori {
+    }
+    hidden_boolean AdorableTomatoSybyl4 {
+    }
+    boolean DivineRoseOpaline3 {
+    }
+    number ScaryYellowWilli5 {
+    }
+    string SeparateCopperDorolice {
+    }
+    boolean AsianMaroonLindi2 {
+    }
+    serviceid IncreasingCyanEvita2 {
+    }
+    boolean IncreasingCyanEvvie3 {
+    }
+    string VividTanShay {
+    }
+    serviceid_number SensitiveGrayHelyn2 {
+    }
+    number AbleBlushChrista2 {
+    }
+    string DisappointedMagentaLauryn5 {
+    }
+    string ConvincedJadeKariotta {
+    }
+    json AnxiousAquamarineBenny {
+    }
+    boolean UsualCoralEllynn5 {
+    }
+    dummy.GratefulIvoryJorey2 CommunistGoldGisella2 {
+    }
+    boolean FatalPurpleMyrtice3 {
+    }
+    serviceid_number NorthernCoralElectra4 {
+    }
+    hidden_boolean AbsentPinkMelony6 {
+    }
+  }
+  SafeCopperDori = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  DivineRoseOpaline3 = false
+  ScaryYellowWilli5 = 69
+  SeparateCopperDorolice = "Why did the kid cross the playground? To get to the other slide."
+  AsianMaroonLindi2 = false
+  IncreasingCyanEvita2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  IncreasingCyanEvvie3 = false
+  VividTanShay = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SensitiveGrayHelyn2 = 986
+  AbleBlushChrista2 = 281
+  DisappointedMagentaLauryn5 = "Why is Peter Pan always flying? Because he Neverlands."
+  ConvincedJadeKariotta = "Whoever invented the knock-knock joke should get a no bell prize."
+  AnxiousAquamarineBenny = "What do you do on a remote island? Try and find the TV island it belongs to."
+  UsualCoralEllynn5 = true
+  FatalPurpleMyrtice3 = true
+  NorthernCoralElectra4 = 613
+  _alias = "BrownFuchsiaGaylene2_alias"
+}

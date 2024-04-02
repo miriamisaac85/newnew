@@ -1,0 +1,81 @@
+type dummy.AmateurSalmonPier {
+  annotations {
+    boolean OutstandingIndigoJenna2 {
+    }
+    hidden_boolean CompatibleSapphireRennie {
+    }
+    serviceid StupidHarlequinJacenta {
+    }
+    serviceid_number GreenChocolateDebra {
+    }
+    string ReliableLavenderKimberlee {
+    }
+    string EducationalCrimsonErtha {
+    }
+  }
+  number WorkingCrimsonEmmaline {
+    _hidden_value = true
+  }
+  string StandardCopperDrusie {
+    _hidden_value = true
+  }
+  boolean AmbitiousPeachMaureene {
+    _hidden_value = true
+  }
+  serviceid_number JudicialJadeKarisa {
+    _hidden_value = true
+  }
+  serviceid ProspectiveRedNetty {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ExclusiveMagentaLatia {
+    _hidden_value = true
+  }
+  hidden_boolean FoolishSapphireReina2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = true
+      },
+      {
+        value = '''
+I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
+Why didnt the skeleton cross the road? Because he had no guts.
+What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+To be Frank, I'd have to change my name.
+'''
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+    ]
+  }
+  serviceid WonderfulBlueCeleste {
+    _hidden_value = true
+  }
+  OutstandingIndigoJenna2 = true
+  StupidHarlequinJacenta = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  GreenChocolateDebra = 0
+  ReliableLavenderKimberlee = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  EducationalCrimsonErtha = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

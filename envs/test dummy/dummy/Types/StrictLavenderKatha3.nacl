@@ -1,0 +1,117 @@
+type dummy.StrictLavenderKatha3 {
+  annotations {
+    serviceid EntitledIvoryJuliane2 {
+    }
+    json DampMoccasinLotta2 {
+    }
+    dummy.DEFAULT BadTurquoiseToby {
+    }
+    dummy.ExtremeHarlequinJackelyn MeaningfulTealSheree {
+    }
+    serviceid OccupationalOliveMaddie {
+    }
+  }
+  "List<serviceid>" ThoroughScarletRona {
+    _hidden_value = true
+  }
+  hidden_boolean DifferentTealSilvia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = false
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = false
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = false
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = true
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = true
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = false
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = false
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = false
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = false
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = true
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = true
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+    ]
+  }
+  serviceid FarBlushChristiane {
+    _hidden_value = true
+  }
+  EntitledIvoryJuliane2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  DampMoccasinLotta2 = "Why was it called the dark ages? Because of all the knights. "
+  BadTurquoiseToby = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  MeaningfulTealSheree = true
+  OccupationalOliveMaddie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

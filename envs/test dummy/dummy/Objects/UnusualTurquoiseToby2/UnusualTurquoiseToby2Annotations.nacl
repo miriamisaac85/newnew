@@ -1,0 +1,58 @@
+type dummy.UnusualTurquoiseToby2 {
+  annotations {
+    number PinkIndigoJennette5 {
+    }
+    serviceid_number RespectableRosePavla2 {
+    }
+    json ProvincialPeachMarissa3 {
+    }
+    hidden_boolean AlrightGoldGoldie3 {
+    }
+    string RequiredMaroonLethia5 {
+    }
+    boolean DisabledHarlequinJanie5 {
+    }
+    serviceid FantasticBlackCarlita3 {
+    }
+    string GreekIndigoJoan2 {
+    }
+    serviceid_number NoisySilverSal4 {
+    }
+    serviceid DailyCyanEve {
+    }
+    dummy.LivelyPeachMarylynne SuddenGoldGwendolen2 {
+    }
+    serviceid ClosedMagentaLeilah4 {
+    }
+    serviceid_number JointCoralElissa2 {
+    }
+    dummy.DangerousAzureBethena2 GenuineGreenIssi4 {
+    }
+    string MiniatureAmaranthAdrian {
+    }
+    string PreliminaryOliveLyndsie2 {
+    }
+    string CharmingBeigeCalli3 {
+    }
+    hidden_boolean NationalBlueCherice4 {
+    }
+    boolean FunnyEmeraldGabbey2 {
+    }
+  }
+  PinkIndigoJennette5 = 111
+  RespectableRosePavla2 = 984
+  ProvincialPeachMarissa3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  RequiredMaroonLethia5 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DisabledHarlequinJanie5 = true
+  FantasticBlackCarlita3 = "Why is Peter Pan always flying? Because he Neverlands."
+  GreekIndigoJoan2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  NoisySilverSal4 = 375
+  DailyCyanEve = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ClosedMagentaLeilah4 = "Why do birds fly south for the winter? Because it's too far to walk."
+  JointCoralElissa2 = 128
+  MiniatureAmaranthAdrian = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  PreliminaryOliveLyndsie2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CharmingBeigeCalli3 = "Slept like a log last night  woke up in the fireplace."
+  FunnyEmeraldGabbey2 = false
+  _alias = "UnusualTurquoiseToby2_alias"
+}

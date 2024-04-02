@@ -1,0 +1,48 @@
+type dummy.AllegedOliveLynna {
+  annotations {
+    serviceid HomelessAzureBlisse {
+    }
+    string OpenTealStarr2 {
+    }
+    json KeyCopperDorothee3 {
+    }
+    json WoodenAquamarineBellanca5 {
+    }
+    string AdorableTomatoSybyl3 {
+    }
+    dummy.GrubbyAquaAudi ExcitedOrangeMarinna3 {
+    }
+    serviceid ComplicatedIndigoJoanie2 {
+    }
+    serviceid_number RuralCoralElsbeth4 {
+    }
+    serviceid RoastedWhiteWenonah3 {
+    }
+    number LateAmethystAmber4 {
+    }
+    dummy.ExtremeHarlequinJackelyn ExactLimeKoralle {
+    }
+    boolean WiseLavenderKatherina4 {
+    }
+    serviceid PreferredTanSavina2 {
+    }
+    number RomanticMagentaLeandra4 {
+    }
+    hidden_boolean PaleGrayHarriett5 {
+    }
+  }
+  HomelessAzureBlisse = "Whoever invented the knock-knock joke should get a no bell prize."
+  OpenTealStarr2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  KeyCopperDorothee3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  WoodenAquamarineBellanca5 = "What creature is smarter than a talking parrot? A spelling bee."
+  AdorableTomatoSybyl3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ComplicatedIndigoJoanie2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  RuralCoralElsbeth4 = 519
+  RoastedWhiteWenonah3 = "How come the stadium got hot after the game? Because all of the fans left."
+  LateAmethystAmber4 = 261
+  ExactLimeKoralle = false
+  WiseLavenderKatherina4 = true
+  PreferredTanSavina2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  RomanticMagentaLeandra4 = 218
+  _alias = "AllegedOliveLynna_alias"
+}

@@ -1,0 +1,61 @@
+type dummy.PurringApricotAnnie2 {
+  annotations {
+    json SimpleBronzeCorliss3 {
+    }
+    dummy.DeliciousApricotArdine2 PoliteSalmonRaf2 {
+    }
+    number SurprisingGreenHynda2 {
+    }
+    serviceid OkayOliveMaggie5 {
+    }
+    string HotAquaAudrie {
+    }
+    number FlatAmberAllianora2 {
+    }
+    json IndustrialBrownDannie2 {
+    }
+    serviceid_number DesperateIvoryJunette {
+    }
+    dummy.FaintAmethystAnica AlertTomatoSylvia2 {
+    }
+    json YoungBlueCheri4 {
+    }
+    string RubberSilverSarene2 {
+    }
+    hidden_boolean DryAmberAlex3 {
+    }
+    string ProudBlueCathe2 {
+    }
+    hidden_boolean AwareChocolateDasha3 {
+    }
+    json MolecularRedNerte3 {
+    }
+    number IrrelevantPurpleNanette4 {
+    }
+    json JewishLimeKissee {
+    }
+    number FreshApricotArdyce2 {
+    }
+    number DifferentTealSilvia5 {
+    }
+    boolean WoodenAquamarineBellanca4 {
+    }
+  }
+  SimpleBronzeCorliss3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  SurprisingGreenHynda2 = 285
+  OkayOliveMaggie5 = "What creature is smarter than a talking parrot? A spelling bee."
+  HotAquaAudrie = "Why was it called the dark ages? Because of all the knights. "
+  FlatAmberAllianora2 = 742
+  IndustrialBrownDannie2 = "How come the stadium got hot after the game? Because all of the fans left."
+  DesperateIvoryJunette = 848
+  YoungBlueCheri4 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  RubberSilverSarene2 = "Slept like a log last night  woke up in the fireplace."
+  ProudBlueCathe2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  MolecularRedNerte3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  IrrelevantPurpleNanette4 = 501
+  JewishLimeKissee = "Why was it called the dark ages? Because of all the knights. "
+  FreshApricotArdyce2 = 774
+  DifferentTealSilvia5 = 507
+  WoodenAquamarineBellanca4 = false
+  _alias = "PurringApricotAnnie2_alias"
+}

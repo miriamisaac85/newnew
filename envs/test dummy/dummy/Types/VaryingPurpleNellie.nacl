@@ -1,0 +1,125 @@
+type dummy.VaryingPurpleNellie {
+  annotations {
+    number GrubbyAquaAubry4 {
+    }
+    hidden_boolean NastyMaroonLisha3 {
+    }
+    boolean ThinCyanEvangeline2 {
+    }
+    number FancyTurquoiseTedi {
+    }
+    string BetterVioletTomasine2 {
+    }
+  }
+  serviceid SplendidOrangeManda {
+    _hidden_value = true
+  }
+  "List<string>" UnevenAquamarineBeitris2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CrookedAmberAlanah {
+    _hidden_value = true
+  }
+  serviceid UnemployedIvoryJoline3 {
+    _hidden_value = true
+  }
+  number FaithfulTanShayna3 {
+    _hidden_value = true
+  }
+  "List<json>" BewilderedAquamarineBernita4 {
+    _hidden_value = true
+  }
+  dummy.EntitledIvoryJuliann BlondeTomatoTalia2 {
+    _hidden_value = true
+  }
+  hidden_boolean OpenBronzeCleopatra2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = true
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = false
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = false
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = false
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = true
+      },
+      {
+        value = '''
+What do you call two barracuda fish?  A Pairacuda!
+Chances are if you' ve seen one shopping center, you've seen a mall.
+What do you do on a remote island? Try and find the TV island it belongs to.
+To be Frank, I'd have to change my name.
+'''
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = false
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = true
+      },
+    ]
+  }
+  serviceid MysteriousPurpleNelle {
+    _hidden_value = true
+  }
+  GrubbyAquaAubry4 = 119
+  ThinCyanEvangeline2 = true
+  FancyTurquoiseTedi = 185
+  BetterVioletTomasine2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

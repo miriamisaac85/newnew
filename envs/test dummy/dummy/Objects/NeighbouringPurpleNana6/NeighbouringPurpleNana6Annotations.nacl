@@ -1,0 +1,52 @@
+type dummy.NeighbouringPurpleNana6 {
+  annotations {
+    number EnglishBrownCris {
+    }
+    serviceid LightCopperDulcia2 {
+    }
+    serviceid_number ForthcomingPeachMarrilee3 {
+    }
+    json NiceBrownCyb2 {
+    }
+    serviceid_number SelfishBeigeBridgette4 {
+    }
+    boolean SwissPlumMiguelita3 {
+    }
+    serviceid_number ShakyAquaBab2 {
+    }
+    string PositiveCoffeeDona2 {
+    }
+    serviceid ApparentCyanFay6 {
+    }
+    dummy.MinimumIndigoJeri ScornfulBeigeBriana {
+    }
+    string FirmGrayHeddie2 {
+    }
+    number SpiritualLavenderKatrine5 {
+    }
+    json ChubbyAmberAline2 {
+    }
+    boolean HotAquaAudrye2 {
+    }
+    serviceid JudicialJadeKarissa3 {
+    }
+    string AssociatedMaroonLindsay2 {
+    }
+  }
+  EnglishBrownCris = 282
+  LightCopperDulcia2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ForthcomingPeachMarrilee3 = 437
+  NiceBrownCyb2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SelfishBeigeBridgette4 = 200
+  SwissPlumMiguelita3 = true
+  ShakyAquaBab2 = 957
+  PositiveCoffeeDona2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ApparentCyanFay6 = "What creature is smarter than a talking parrot? A spelling bee."
+  FirmGrayHeddie2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  SpiritualLavenderKatrine5 = 930
+  ChubbyAmberAline2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  HotAquaAudrye2 = false
+  JudicialJadeKarissa3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  AssociatedMaroonLindsay2 = "What do you call two barracuda fish?  A Pairacuda!"
+  _alias = "NeighbouringPurpleNana6_alias"
+}

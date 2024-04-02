@@ -1,0 +1,25 @@
+type dummy.CloudyTomatoTamra {
+  annotations {
+    dummy.DEFAULT CondemnedAquamarineBertha {
+    }
+    serviceid_number IntensiveMoccasinLulu {
+    }
+    json CorporateEmeraldGarland {
+    }
+    number OuterJadeKarrie {
+    }
+    serviceid BraveBeigeCal {
+    }
+  }
+  number ConcernedTealSibilla {
+    _hidden_value = true
+  }
+  CondemnedAquamarineBertha = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  IntensiveMoccasinLulu = 66
+  CorporateEmeraldGarland = "What creature is smarter than a talking parrot? A spelling bee."
+  OuterJadeKarrie = 5
+  BraveBeigeCal = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

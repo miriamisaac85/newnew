@@ -1,0 +1,53 @@
+type dummy.LiberalCyanFarra5 {
+  annotations {
+    json SoundAmethystAngelika6 {
+    }
+    serviceid AgreedTanSelia6 {
+    }
+    boolean ModeratePurpleNataline2 {
+    }
+    boolean LivingGrayHenrie3 {
+    }
+    serviceid_number CanadianPlumMinerva8 {
+    }
+    number CuriousLimeKirbee2 {
+    }
+    number SuddenGoldGwen3 {
+    }
+    json ChiefCopperDorrie3 {
+    }
+    hidden_boolean StableHarlequinJayme {
+    }
+    hidden_boolean NoblePurpleNedda2 {
+    }
+    serviceid_number DryAmberAlexandra4 {
+    }
+    dummy.UrbanCyanFan ExcessiveOliveMadeleine4 {
+    }
+    boolean ProvincialPeachMaritsa3 {
+    }
+    string CarefulTealShoshanna2 {
+    }
+    json RunningPlumMirabel7 {
+    }
+    dummy.ComplexCopperDrucie2 YoungAmethystAnastassia3 {
+    }
+    boolean StupidTomatoSunny2 {
+    }
+  }
+  SoundAmethystAngelika6 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  AgreedTanSelia6 = "What do you call two barracuda fish?  A Pairacuda!"
+  ModeratePurpleNataline2 = true
+  LivingGrayHenrie3 = false
+  CanadianPlumMinerva8 = 598
+  CuriousLimeKirbee2 = 872
+  SuddenGoldGwen3 = 870
+  ChiefCopperDorrie3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DryAmberAlexandra4 = 773
+  ExcessiveOliveMadeleine4 = file("OverseasIvoryJuditha3.txt")
+  ProvincialPeachMaritsa3 = true
+  CarefulTealShoshanna2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  RunningPlumMirabel7 = "To be Frank, I'd have to change my name."
+  StupidTomatoSunny2 = true
+  _alias = "LiberalCyanFarra5_alias"
+}

@@ -1,0 +1,292 @@
+type dummy.SparklingTurquoiseTilda {
+  dummy.ShortAmethystAnabella DeafeningAmethystAngie {
+    CanadianPlumMinerva3 = true
+    PreciousOrangeMariele4 = "Im only familiar with 25 letters in the English language. I dont know why."
+    ExactLimeKore2 = "Why was it called the dark ages? Because of all the knights. "
+    DisgustedAzureBettye = "Did you know that protons have mass? I didn't even know they were catholic."
+    VulnerableJadeKarola2 = "Why was it called the dark ages? Because of all the knights. "
+  }
+  serviceid_number WanderingTomatoSuzette2 {
+  }
+  number ExoticScarletRikki5 {
+  }
+  hidden_boolean HeavyChocolateDavita4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = false
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = true
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = false
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = true
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = true
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = true
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = false
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = false
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = false
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = true
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = true
+      },
+    ]
+  }
+  dummy.UrbanCyanFan SafeCopperDorette2 {
+    KindBlackCaryl = "My first time using an elevator was an uplifting experience. The second time let me down."
+    PremierOrangeMargy = "Im only familiar with 25 letters in the English language. I dont know why."
+    LtdCoralElnora = "Why do birds fly south for the winter? Because it's too far to walk."
+    SheerMagentaLauri = 885
+    FullBlushChristian = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    BroadAmberAlikee = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    AutomaticLavenderKi = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    WesternChocolateDeerdre = 671
+    ExtraordinaryIndigoJessie = false
+    LittleBlushChlo = "Dad Im hungry  Hi hungry Im dad"
+    SurprisingGreenIbbie = 877
+    GloriousScarletRose = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ThickEmeraldFilippa = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    WeirdSilverRozanne = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ExplicitMaroonLisetta = "Dad Im hungry  Hi hungry Im dad"
+    GayOrangeMarietta = 714
+    DevotedRosePaulette = "What creature is smarter than a talking parrot? A spelling bee."
+    LimitedCoralElke = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  boolean ChronicOliveMallissa3 {
+  }
+  hidden_boolean ToxicSalmonPhebe {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+    _important_values = [
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = true
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = true
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = false
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = false
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+    ]
+  }
+  number TallCyanFayette {
+  }
+  serviceid ManagerialPurpleNerita6 {
+  }
+  serviceid FierceAzureBillie3 {
+  }
+  serviceid HugeCoffeeDoralynn4 {
+  }
+  number MaturePeachMattie4 {
+  }
+  serviceid HighBlueCharissa {
+  }
+  hidden_boolean DoubtfulRosePansie3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = true
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = false
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = false
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = false
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = true
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = false
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = false
+      },
+    ]
+  }
+  json GrumpyVioletUrsuline2 {
+  }
+  string HistoricalCyanEvaleen {
+  }
+  serviceid SpicyAquaArliene2 {
+  }
+  string CivicTanShell {
+  }
+  serviceid RetailMaroonLeora2 {
+  }
+}

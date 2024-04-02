@@ -1,0 +1,57 @@
+type dummy.CharmingPlumMoreen {
+  annotations {
+    dummy.ExactLimeKordula SharpFuchsiaGeralda3 {
+    }
+    number EvidentIvoryJune3 {
+    }
+    boolean LiveIndigoJodi5 {
+    }
+    number SpottyYellowWynn5 {
+    }
+    boolean ScrawnyYellowWilmette2 {
+    }
+    json SevereEmeraldGabrila2 {
+    }
+    dummy.OrganicLimeLainey KeenGrayHana2 {
+    }
+    hidden_boolean ParliamentaryFuchsiaGerty6 {
+    }
+    serviceid_number WeirdSilverRozele3 {
+    }
+    hidden_boolean BrightTomatoTamarah3 {
+    }
+    json WeeklyLavenderKessia4 {
+    }
+    number RecentBronzeCornelle7 {
+    }
+    serviceid_number InherentRedNixie3 {
+    }
+    serviceid RearPurpleMuriel5 {
+    }
+    json WastefulYellowZita3 {
+    }
+    serviceid ElectricalLavenderKerrie5 {
+    }
+    hidden_boolean OrangePurpleMufinella3 {
+    }
+    serviceid_number FamiliarCrimsonEstrella {
+    }
+    dummy.FlutteringAquaAthena ComfortableBeigeCamella4 {
+    }
+  }
+  SharpFuchsiaGeralda3 = 520
+  EvidentIvoryJune3 = 201
+  LiveIndigoJodi5 = true
+  SpottyYellowWynn5 = 780
+  ScrawnyYellowWilmette2 = true
+  SevereEmeraldGabrila2 = "What creature is smarter than a talking parrot? A spelling bee."
+  WeirdSilverRozele3 = 234
+  WeeklyLavenderKessia4 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  RecentBronzeCornelle7 = 344
+  InherentRedNixie3 = 225
+  RearPurpleMuriel5 = "Why do birds fly south for the winter? Because it's too far to walk."
+  WastefulYellowZita3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ElectricalLavenderKerrie5 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  FamiliarCrimsonEstrella = 689
+  _alias = "CharmingPlumMoreen_alias"
+}

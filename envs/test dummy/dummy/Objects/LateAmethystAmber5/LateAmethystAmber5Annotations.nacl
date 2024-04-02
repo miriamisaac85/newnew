@@ -1,0 +1,70 @@
+type dummy.LateAmethystAmber5 {
+  annotations {
+    dummy.FoolishSapphireReina UnpleasantRedNonna2 {
+    }
+    dummy.BindingSalmonPeta KnownMaroonLetti2 {
+    }
+    boolean ShallowAmberAloise2 {
+    }
+    dummy.ArbitrarySilverRoxane2 CharmingPlumMorgan3 {
+    }
+    serviceid_number UnableCoralElora2 {
+    }
+    dummy.YellowGoldGiustina HeadPinkMegan6 {
+    }
+    serviceid AshamedAquamarineBernadette2 {
+    }
+    hidden_boolean CompleteCoffeeDevinne3 {
+    }
+    boolean FoolishSapphireReina5 {
+    }
+    serviceid ClassicJadeKaitlyn6 {
+    }
+    number ConstitutionalHarlequinJaynell2 {
+    }
+    serviceid_number RetailMagentaLeonore {
+    }
+    number RoughAquaAva3 {
+    }
+    string CrowdedTomatoTani6 {
+    }
+    serviceid_number DeliciousScarletRodie3 {
+    }
+    hidden_boolean YummyYellowZorina3 {
+    }
+    boolean FantasticSapphireReggie2 {
+    }
+    serviceid_number MinimalPlumMorgen5 {
+    }
+    hidden_boolean PrettyWhiteVirginia {
+    }
+    json ZanyYellowZsazsa6 {
+    }
+    dummy.QuickAmethystAmmamaria3 DrabTurquoiseTasha4 {
+    }
+    boolean LatinLimeKoo2 {
+    }
+    serviceid_number ModernTealStafani2 {
+    }
+    serviceid AshamedScarletRosana2 {
+    }
+  }
+  KnownMaroonLetti2 = file("SemanticRedNinnette2.txt")
+  ShallowAmberAloise2 = false
+  UnableCoralElora2 = 461
+  AshamedAquamarineBernadette2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  FoolishSapphireReina5 = false
+  ClassicJadeKaitlyn6 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ConstitutionalHarlequinJaynell2 = 145
+  RetailMagentaLeonore = 706
+  RoughAquaAva3 = 382
+  CrowdedTomatoTani6 = "A steak pun is a rare medium well done."
+  DeliciousScarletRodie3 = 81
+  FantasticSapphireReggie2 = false
+  MinimalPlumMorgen5 = 62
+  ZanyYellowZsazsa6 = "Why did the tomato blush? Because it saw the salad dressing."
+  LatinLimeKoo2 = false
+  ModernTealStafani2 = 220
+  AshamedScarletRosana2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _alias = "LateAmethystAmber5_alias"
+}

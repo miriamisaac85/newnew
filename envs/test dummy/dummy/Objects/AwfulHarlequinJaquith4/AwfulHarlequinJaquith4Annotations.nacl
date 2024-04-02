@@ -1,0 +1,59 @@
+type dummy.AwfulHarlequinJaquith4 {
+  annotations {
+    serviceid RelievedSalmonPetrina {
+    }
+    serviceid_number BlueVioletTorrie {
+    }
+    dummy.ExistingCoffeeDeva RespectiveSalmonPersis6 {
+    }
+    hidden_boolean BrightTomatoTamara3 {
+    }
+    json AustralianJadeKat8 {
+    }
+    string InvisibleRoseOrel3 {
+    }
+    string AwakeRedNolana3 {
+    }
+    number CleanTomatoTami5 {
+    }
+    json PleasantIvoryJorrie3 {
+    }
+    serviceid SlightGoldGwenny2 {
+    }
+    number StupidGreenIzabel3 {
+    }
+    string NosyWhiteVicky2 {
+    }
+    dummy.AccusedSilverSally3 IntenseLavenderKatti2 {
+    }
+    string AverageTomatoTabbi4 {
+    }
+    hidden_boolean SymbolicPurpleNadine2 {
+    }
+    serviceid AmusedBeigeCacilia2 {
+    }
+    serviceid FascinatingOrangeMargaretha2 {
+    }
+    dummy.BindingSalmonPeta LeadingCrimsonElyssa3 {
+    }
+    boolean ShrillApricotAntoinette3 {
+    }
+  }
+  RelievedSalmonPetrina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  BlueVioletTorrie = 965
+  RespectiveSalmonPersis6 = false
+  AustralianJadeKat8 = "Why is Peter Pan always flying? Because he Neverlands."
+  InvisibleRoseOrel3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  AwakeRedNolana3 = "How come the stadium got hot after the game? Because all of the fans left."
+  CleanTomatoTami5 = 165
+  PleasantIvoryJorrie3 = "Slept like a log last night  woke up in the fireplace."
+  SlightGoldGwenny2 = "Why was it called the dark ages? Because of all the knights. "
+  StupidGreenIzabel3 = 136
+  NosyWhiteVicky2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  AverageTomatoTabbi4 = "How come the stadium got hot after the game? Because all of the fans left."
+  AmusedBeigeCacilia2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  FascinatingOrangeMargaretha2 = "To be Frank, I'd have to change my name."
+  LeadingCrimsonElyssa3 = file("ArmedGrayHelaina4.txt")
+  ShrillApricotAntoinette3 = false
+  _alias = "AwfulHarlequinJaquith4_alias"
+}

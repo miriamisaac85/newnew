@@ -1,0 +1,127 @@
+type dummy.GreekIndigoJoana2 {
+  annotations {
+    dummy.DEFAULT HotAquaAudry4 {
+    }
+    boolean SillyIvoryJoelie2 {
+    }
+    number SlimyAquamarineBarbara3 {
+    }
+    serviceid_number FancyTurquoiseTedi3 {
+    }
+    serviceid DueCopperDot {
+    }
+    json PlainIndigoJewel2 {
+    }
+    boolean PreciseIndigoJobi {
+    }
+  }
+  string YellowGoldGiulietta2 {
+    _hidden_value = true
+  }
+  number HollowAmberAllx2 {
+    _hidden_value = true
+  }
+  json ExpectedLimeLaney2 {
+    _hidden_value = true
+  }
+  json CoolAmaranthAinsley4 {
+    _hidden_value = true
+  }
+  string PleasantBlueCathe {
+    _hidden_value = true
+  }
+  boolean GlamorousTurquoiseTeressa {
+    _hidden_value = true
+  }
+  hidden_boolean DrabTurquoiseTasia3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = false
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = true
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = true
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = false
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = true
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = false
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = true
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = true
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+    ]
+  }
+  HotAquaAudry4 = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  SillyIvoryJoelie2 = true
+  SlimyAquamarineBarbara3 = 902
+  FancyTurquoiseTedi3 = 128
+  DueCopperDot = "What creature is smarter than a talking parrot? A spelling bee."
+  PlainIndigoJewel2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  PreciseIndigoJobi = true
+  _hidden_value = true
+}

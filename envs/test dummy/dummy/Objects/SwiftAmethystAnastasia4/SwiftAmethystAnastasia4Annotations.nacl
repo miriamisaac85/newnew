@@ -1,0 +1,62 @@
+type dummy.SwiftAmethystAnastasia4 {
+  annotations {
+    serviceid DramaticGoldHadria5 {
+    }
+    string DizzyVioletTrescha {
+    }
+    json NetGoldGleda6 {
+    }
+    number VerbalPinkMaxi4 {
+    }
+    serviceid DifficultTealSimonette3 {
+    }
+    hidden_boolean InappropriateRoseOthella {
+    }
+    boolean CooingAmethystAngelita3 {
+    }
+    boolean SeparateCopperDoroteya2 {
+    }
+    hidden_boolean StaticSapphireRebekkah4 {
+    }
+    json ShaggyAquaAviva4 {
+    }
+    boolean TurkishPurpleMoyna4 {
+    }
+    string MolecularRedNerti2 {
+    }
+    serviceid ScaryBeigeBriana4 {
+    }
+    json BreezyAmaranthAidan6 {
+    }
+    dummy.EldestTanSharlene WildTomatoSuzie3 {
+    }
+    string CompulsoryOrangeMalorie3 {
+    }
+    serviceid_number LateAmethystAmberly2 {
+    }
+    dummy.RussianCyanFelicity MobilePurpleMorna3 {
+    }
+    json FlyingMoccasinLoree3 {
+    }
+    json SillyIvoryJoell2 {
+    }
+  }
+  DramaticGoldHadria5 = "Did you know that protons have mass? I didn't even know they were catholic."
+  DizzyVioletTrescha = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  NetGoldGleda6 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  VerbalPinkMaxi4 = 723
+  DifficultTealSimonette3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  CooingAmethystAngelita3 = true
+  SeparateCopperDoroteya2 = true
+  ShaggyAquaAviva4 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  TurkishPurpleMoyna4 = true
+  MolecularRedNerti2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ScaryBeigeBriana4 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  BreezyAmaranthAidan6 = "Slept like a log last night  woke up in the fireplace."
+  CompulsoryOrangeMalorie3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  LateAmethystAmberly2 = 372
+  MobilePurpleMorna3 = file("MedievalJadeKaren4.txt")
+  FlyingMoccasinLoree3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SillyIvoryJoell2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _alias = "SwiftAmethystAnastasia4_alias"
+}

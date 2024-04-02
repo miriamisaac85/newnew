@@ -1,0 +1,55 @@
+type dummy.HandsomeVioletUta2 {
+  annotations {
+    hidden_boolean FatalPurpleMyrtle4 {
+    }
+    serviceid StormyTurquoiseTim4 {
+    }
+    json SecureMoccasinLou3 {
+    }
+    number CheerfulSapphireRhona2 {
+    }
+    hidden_boolean StickyAquaArly4 {
+    }
+    dummy.RussianCyanFelicity AdvisoryOrangeMarieann3 {
+    }
+    dummy.ImmenseAmaranthAdelice FewAmethystAndria3 {
+    }
+    json IslamicRoseOlympia2 {
+    }
+    serviceid AwakeRedNola4 {
+    }
+    boolean CautiousTealSibbie4 {
+    }
+    boolean DangerousCrimsonEsta4 {
+    }
+    hidden_boolean PrimitiveOrangeMaressa {
+    }
+    serviceid_number MightyWhiteVeriee4 {
+    }
+    dummy.OccasionalIvoryJuliette CrazyMoccasinLorri {
+    }
+    boolean LargeAmaranthAdelina {
+    }
+    hidden_boolean ClassicJadeKaitlynn3 {
+    }
+    serviceid_number DesirableMagentaLanny3 {
+    }
+    boolean BewilderedAquamarineBernita7 {
+    }
+  }
+  StormyTurquoiseTim4 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SecureMoccasinLou3 = "Why did the kid cross the playground? To get to the other slide."
+  CheerfulSapphireRhona2 = 32
+  AdvisoryOrangeMarieann3 = file("SubstantialCoralElsinore2.txt")
+  FewAmethystAndria3 = 698
+  IslamicRoseOlympia2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  AwakeRedNola4 = "I'll tell you what often gets over looked... garden fences."
+  CautiousTealSibbie4 = false
+  DangerousCrimsonEsta4 = true
+  MightyWhiteVeriee4 = 877
+  CrazyMoccasinLorri = 302
+  LargeAmaranthAdelina = true
+  DesirableMagentaLanny3 = 461
+  BewilderedAquamarineBernita7 = true
+  _alias = "HandsomeVioletUta2_alias"
+}

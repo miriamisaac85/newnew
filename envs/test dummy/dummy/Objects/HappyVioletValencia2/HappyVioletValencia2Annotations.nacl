@@ -1,0 +1,50 @@
+type dummy.HappyVioletValencia2 {
+  annotations {
+    serviceid_number ImaginativeTanSella5 {
+    }
+    number AbsentPinkMelony5 {
+    }
+    string EssentialCoffeeDion3 {
+    }
+    serviceid CalmPurpleNancee6 {
+    }
+    boolean UncomfortablePlumModesty4 {
+    }
+    serviceid_number GrotesqueTurquoiseTerza3 {
+    }
+    serviceid_number AsianMaroonLindi {
+    }
+    string GoodBlackCaro2 {
+    }
+    dummy.SoundAmethystAngelina2 CertainBronzeClemmie4 {
+    }
+    dummy.VaryingPurpleNellie InquisitiveTealStacy4 {
+    }
+    dummy.KoreanSapphireRasla FilthyAmberAlexine3 {
+    }
+    json CapableEmeraldFloris {
+    }
+    number ShaggyAquaAvivah2 {
+    }
+    number FundamentalFuchsiaGeneva {
+    }
+    string CivicTanShelli5 {
+    }
+    serviceid_number ChemicalGreenIseabal {
+    }
+  }
+  ImaginativeTanSella5 = 340
+  AbsentPinkMelony5 = 330
+  EssentialCoffeeDion3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CalmPurpleNancee6 = "To be Frank, I'd have to change my name."
+  UncomfortablePlumModesty4 = false
+  GrotesqueTurquoiseTerza3 = 484
+  AsianMaroonLindi = 344
+  GoodBlackCaro2 = "What creature is smarter than a talking parrot? A spelling bee."
+  CapableEmeraldFloris = "Slept like a log last night  woke up in the fireplace."
+  ShaggyAquaAvivah2 = 613
+  FundamentalFuchsiaGeneva = 674
+  CivicTanShelli5 = "Whoever invented the knock-knock joke should get a no bell prize."
+  ChemicalGreenIseabal = 398
+  _alias = "HappyVioletValencia2_alias"
+}

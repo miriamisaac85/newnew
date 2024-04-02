@@ -1,0 +1,60 @@
+type dummy.ElegantTurquoiseTeddie5 {
+  annotations {
+    string GrievingAzureBlanch2 {
+    }
+    number HugeAmaranthAdela2 {
+    }
+    number AnxiousAquamarineBerenice4 {
+    }
+    serviceid EncouragingBlackCaressa4 {
+    }
+    number ThinCyanEvania5 {
+    }
+    json InclinedRedNyssa3 {
+    }
+    string ImperialLavenderKath3 {
+    }
+    json AppropriateChocolateDarcee3 {
+    }
+    boolean CuteTomatoTansy4 {
+    }
+    dummy.LongAmaranthAdina MutualLimeKimberley4 {
+    }
+    serviceid_number LongBlueChelsey4 {
+    }
+    serviceid BetterVioletTomasina4 {
+    }
+    dummy.FaithfulTanShayna IsraeliPinkMeridith3 {
+    }
+    boolean ScaryYellowWillie {
+    }
+    number RepulsiveBeigeBrenn6 {
+    }
+    json AmazingMoccasinLizbeth5 {
+    }
+    serviceid MildOliveMaddi3 {
+    }
+    dummy.WoodenGreenHortense DueCopperDot4 {
+    }
+    json ApparentCyanFawnia3 {
+    }
+  }
+  GrievingAzureBlanch2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  HugeAmaranthAdela2 = 339
+  AnxiousAquamarineBerenice4 = 905
+  EncouragingBlackCaressa4 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ThinCyanEvania5 = 751
+  InclinedRedNyssa3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ImperialLavenderKath3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  AppropriateChocolateDarcee3 = "Why didnt the skeleton cross the road? Because he had no guts."
+  CuteTomatoTansy4 = true
+  MutualLimeKimberley4 = file("HelplessTealSonny2.txt")
+  LongBlueChelsey4 = 492
+  BetterVioletTomasina4 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ScaryYellowWillie = true
+  RepulsiveBeigeBrenn6 = 552
+  AmazingMoccasinLizbeth5 = "Why didnt the skeleton cross the road? Because he had no guts."
+  MildOliveMaddi3 = "How come the stadium got hot after the game? Because all of the fans left."
+  ApparentCyanFawnia3 = "Slept like a log last night  woke up in the fireplace."
+  _alias = "ElegantTurquoiseTeddie5_alias"
+}

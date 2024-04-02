@@ -1,0 +1,153 @@
+type dummy.CoolAmaranthAinsley2 {
+  annotations {
+    hidden_boolean ModernAmethystAmeline2 {
+    }
+    json HilariousBlackCarolynn2 {
+    }
+    dummy.NumerousHarlequinJandy PrettyIndigoJennie3 {
+    }
+    serviceid_number OverwhelmingPurpleMyrta3 {
+    }
+    boolean ThickEmeraldFilippa2 {
+    }
+    json PoorTealSteffie {
+    }
+  }
+  json BadVioletToma2 {
+    _hidden_value = true
+  }
+  number ArtificialMagentaLenette {
+    _hidden_value = true
+  }
+  serviceid_number SolidAquamarineBarry {
+    _hidden_value = true
+  }
+  number SpecialBlushClaudine {
+    _hidden_value = true
+  }
+  hidden_boolean ReluctantMagentaLeeann {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = false
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = true
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = false
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = true
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = false
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = true
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = false
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = false
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = false
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = false
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = true
+      },
+    ]
+  }
+  number WittyBlueCele2 {
+    _hidden_value = true
+  }
+  string HostileOrangeMariel2 {
+    _hidden_value = true
+  }
+  number LooseAquaAugustina2 {
+    _hidden_value = true
+  }
+  dummy.UrbanCyanFan InherentRedNixie {
+    KindBlackCaryl = "My first time using an elevator was an uplifting experience. The second time let me down."
+    PremierOrangeMargy = "How come the stadium got hot after the game? Because all of the fans left."
+    LtdCoralElnora = "Why did the kid cross the playground? To get to the other slide."
+    SheerMagentaLauri = 108
+    FullBlushChristian = "A steak pun is a rare medium well done."
+    BroadAmberAlikee = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    AutomaticLavenderKi = "Did you know that protons have mass? I didn't even know they were catholic."
+    WesternChocolateDeerdre = 191
+    ExtraordinaryIndigoJessie = false
+    LittleBlushChlo = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    SurprisingGreenIbbie = 652
+    GloriousScarletRose = "Slept like a log last night  woke up in the fireplace."
+    ThickEmeraldFilippa = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    WeirdSilverRozanne = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ExplicitMaroonLisetta = "What do you call two barracuda fish?  A Pairacuda!"
+    GayOrangeMarietta = 827
+    DevotedRosePaulette = "Im only familiar with 25 letters in the English language. I dont know why."
+    LimitedCoralElke = "Slept like a log last night  woke up in the fireplace."
+    _hidden_value = true
+  }
+  HilariousBlackCarolynn2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PrettyIndigoJennie3 = 83
+  OverwhelmingPurpleMyrta3 = 59
+  ThickEmeraldFilippa2 = false
+  PoorTealSteffie = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

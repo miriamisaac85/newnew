@@ -1,0 +1,54 @@
+type dummy.HandsomeVioletVal2 {
+  annotations {
+    dummy.AcademicEmeraldFrieda RespectableRosePavla {
+    }
+    hidden_boolean ExpectedLimeLani {
+    }
+    boolean FrenchBrownCynde2 {
+    }
+    boolean UnawareSapphireReeba3 {
+    }
+    json IcyAquaAudy2 {
+    }
+    json FrailVioletTruda {
+    }
+    json PleasantBlackCatharine3 {
+    }
+    number CasualOliveLusa4 {
+    }
+    json ScreechingApricotAnthiathia {
+    }
+    hidden_boolean LiveIndigoJodi4 {
+    }
+    serviceid_number ShaggyAquaAviva2 {
+    }
+    hidden_boolean NotablePeachMartina {
+    }
+    serviceid ThenSalmonPhylis3 {
+    }
+    hidden_boolean BetterVioletTomasine4 {
+    }
+    serviceid VictorianJadeKalindi2 {
+    }
+    number ConsistentHarlequinJanis4 {
+    }
+    serviceid SpicyAquaArlie4 {
+    }
+    boolean CoastalPlumMichaeline {
+    }
+  }
+  FrenchBrownCynde2 = false
+  UnawareSapphireReeba3 = false
+  IcyAquaAudy2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  FrailVioletTruda = "Slept like a log last night  woke up in the fireplace."
+  PleasantBlackCatharine3 = "Dad Im hungry  Hi hungry Im dad"
+  CasualOliveLusa4 = 48
+  ScreechingApricotAnthiathia = "Slept like a log last night  woke up in the fireplace."
+  ShaggyAquaAviva2 = 526
+  ThenSalmonPhylis3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  VictorianJadeKalindi2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ConsistentHarlequinJanis4 = 710
+  SpicyAquaArlie4 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  CoastalPlumMichaeline = true
+  _alias = "HandsomeVioletVal2_alias"
+}

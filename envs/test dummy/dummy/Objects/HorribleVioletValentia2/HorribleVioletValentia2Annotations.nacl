@@ -1,0 +1,49 @@
+type dummy.HorribleVioletValentia2 {
+  annotations {
+    serviceid_number ItalianGoldGrayce2 {
+    }
+    serviceid_number OppositeHarlequinJanel3 {
+    }
+    string OlympicRedNerty {
+    }
+    string FlakyAmberAlfreda2 {
+    }
+    serviceid StupidHarlequinJacenta2 {
+    }
+    string SimpleBronzeCorissa2 {
+    }
+    string CompulsoryOliveMallorie3 {
+    }
+    serviceid_number AnxiousAquamarineBenoite5 {
+    }
+    json QuietCoralEkaterina2 {
+    }
+    string DefeatedAzureBette4 {
+    }
+    number SilentGrayHarley4 {
+    }
+    dummy.BewilderedAquamarineBernita2 SharedPinkMelicent3 {
+    }
+    boolean SweetAquaAshla4 {
+    }
+    string CondemnedAquamarineBertie3 {
+    }
+    number RidiculousMoccasinLiz3 {
+    }
+  }
+  ItalianGoldGrayce2 = 123
+  OppositeHarlequinJanel3 = 440
+  OlympicRedNerty = "What did one nut say as he chased another nut?  I'm a cashew!"
+  FlakyAmberAlfreda2 = "What do you call two barracuda fish?  A Pairacuda!"
+  StupidHarlequinJacenta2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  SimpleBronzeCorissa2 = "A steak pun is a rare medium well done."
+  CompulsoryOliveMallorie3 = "Slept like a log last night  woke up in the fireplace."
+  AnxiousAquamarineBenoite5 = 746
+  QuietCoralEkaterina2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DefeatedAzureBette4 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SilentGrayHarley4 = 316
+  SweetAquaAshla4 = false
+  CondemnedAquamarineBertie3 = "Im only familiar with 25 letters in the English language. I dont know why."
+  RidiculousMoccasinLiz3 = 688
+  _alias = "HorribleVioletValentia2_alias"
+}

@@ -1,0 +1,70 @@
+type dummy.MinimalPlumMorganne4 {
+  annotations {
+    boolean FatalPurpleMyrtle5 {
+    }
+    boolean WorriedBeigeBrynn3 {
+    }
+    serviceid WellFuchsiaGiralda3 {
+    }
+    hidden_boolean IslamicRoseOlympia3 {
+    }
+    serviceid AnxiousAquamarineBeret2 {
+    }
+    serviceid_number NeighbouringPurpleNana5 {
+    }
+    boolean PurpleScarletRivalee6 {
+    }
+    serviceid ResidentialIndigoJessi {
+    }
+    hidden_boolean ArabLimeKiri2 {
+    }
+    json DigitalMaroonLianne2 {
+    }
+    hidden_boolean NavalPinkMela3 {
+    }
+    serviceid FranticAzureBirgit3 {
+    }
+    json EmotionalGrayHertha3 {
+    }
+    serviceid WideAmethystAlyss {
+    }
+    hidden_boolean ManyAmethystAngel2 {
+    }
+    serviceid SophisticatedJadeKarlie2 {
+    }
+    number EerieAzureBevvy2 {
+    }
+    number PrintedRedNetty {
+    }
+    number ZanyYellowZuzana2 {
+    }
+    string ClumsyVioletTraci2 {
+    }
+    boolean SurvivingSapphireRici {
+    }
+    hidden_boolean LovelyBlackCass2 {
+    }
+    hidden_boolean IncreasedCrimsonEstelle5 {
+    }
+    hidden_boolean ObligedOrangeMarcelline4 {
+    }
+  }
+  FatalPurpleMyrtle5 = false
+  WorriedBeigeBrynn3 = false
+  WellFuchsiaGiralda3 = "What creature is smarter than a talking parrot? A spelling bee."
+  AnxiousAquamarineBeret2 = "I'll tell you what often gets over looked... garden fences."
+  NeighbouringPurpleNana5 = 32
+  PurpleScarletRivalee6 = false
+  ResidentialIndigoJessi = "What creature is smarter than a talking parrot? A spelling bee."
+  DigitalMaroonLianne2 = "How come the stadium got hot after the game? Because all of the fans left."
+  FranticAzureBirgit3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  EmotionalGrayHertha3 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  WideAmethystAlyss = "Slept like a log last night  woke up in the fireplace."
+  SophisticatedJadeKarlie2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  EerieAzureBevvy2 = 712
+  PrintedRedNetty = 911
+  ZanyYellowZuzana2 = 779
+  ClumsyVioletTraci2 = "A steak pun is a rare medium well done."
+  SurvivingSapphireRici = false
+  _alias = "MinimalPlumMorganne4_alias"
+}

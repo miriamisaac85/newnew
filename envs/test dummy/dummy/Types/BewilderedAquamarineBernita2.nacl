@@ -1,0 +1,454 @@
+type dummy.BewilderedAquamarineBernita2 {
+  annotations {
+    number MarriedCyanFannie2 {
+    }
+    serviceid_number BusyCyanFayre3 {
+    }
+    serviceid CuteTomatoTanitansy2 {
+    }
+    string PeacefulOrangeMarguerite {
+    }
+    serviceid GoldenGrayHalette2 {
+    }
+  }
+  dummy.LatinLimeKonstanze HardAquaAudie3 {
+    ResidentSalmonRae = "Why was it called the dark ages? Because of all the knights. "
+    CrazyMoccasinLorrayne = "Why is Peter Pan always flying? Because he Neverlands."
+    LevelJadeKally2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    WellFuchsiaGipsy = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ProperCoralElisabet = 445
+    OutstandingIndigoJenna = 737
+    PositiveCoffeeDona = 730
+    ThoughtlessBeigeBrit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    CrowdedTomatoTania2 = 424
+    FairCoffeeDinnie = 884
+    PeacefulOrangeMargret = "A steak pun is a rare medium well done."
+    ToxicSalmonPhedra = 702
+    GleamingTurquoiseTeri = true
+    JoyousBlackCarry = "Did you know that protons have mass? I didn't even know they were catholic."
+    RoughGreenIdelle = "To be Frank, I'd have to change my name."
+    ParliamentaryFuchsiaGiacinta = true
+    AggressiveMaroonLiliane = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    IntegralSalmonPhilly = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    MidPinkMelissa = "Why do birds fly south for the winter? Because it's too far to walk."
+    SurprisingGreenIanthe = 249
+    SteadyJadeKaile = false
+    ObnoxiousAzureBrandie = {
+      legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    }
+    KindVioletValma = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    RainyAquaAurora = false
+    RudeTanShayla = true
+    _hidden_value = true
+  }
+  json SympatheticPinkMead3 {
+    _hidden_value = true
+  }
+  boolean JustMaroonLissi2 {
+    _hidden_value = true
+  }
+  string ContemporaryFuchsiaGeorgiana2 {
+    _hidden_value = true
+  }
+  serviceid HistoricalCyanEvangelia2 {
+    _hidden_value = true
+  }
+  json AwakeRedNola2 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" OverallCrimsonEmmalynne3 {
+    _hidden_value = true
+  }
+  hidden_boolean MassiveFuchsiaGerrilee {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = false
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = true
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = true
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = false
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = true
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = false
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+    ]
+  }
+  json InitialCoralElsi {
+    _hidden_value = true
+  }
+  number WideBronzeCorine {
+    _hidden_value = true
+  }
+  json EuropeanBronzeConcettina2 {
+    _hidden_value = true
+  }
+  hidden_boolean EarlyBlushCherri {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = true
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = false
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = true
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = true
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = false
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = true
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = true
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = true
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = false
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = false
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = true
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = false
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+    ]
+  }
+  hidden_boolean PlainIndigoJewelle {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = false
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = false
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = true
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = false
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = true
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = true
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = false
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = false
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = true
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = true
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = false
+      },
+    ]
+  }
+  number CleverJadeKarie {
+    _hidden_value = true
+  }
+  number TremendousMagentaLeoine3 {
+    _hidden_value = true
+  }
+  serviceid_number PricklyWhiteViv {
+    _hidden_value = true
+  }
+  serviceid_number InterestedCoffeeDierdre4 {
+    _hidden_value = true
+  }
+  "List<boolean>" TiredGoldGrete2 {
+    _hidden_value = true
+  }
+  string RobustYellowWileen2 {
+    _hidden_value = true
+  }
+  number ZanyBlueCelina {
+    _hidden_value = true
+  }
+  serviceid_number MentalCrimsonEsme2 {
+    _hidden_value = true
+  }
+  hidden_boolean MysteriousAzureBobinette {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = true
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = false
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = false
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = true
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = false
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = false
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = false
+      },
+    ]
+  }
+  string ChemicalGreenIsadora2 {
+    _hidden_value = true
+  }
+  serviceid NaturalBrownCristy2 {
+    _hidden_value = true
+  }
+  serviceid_number ElatedBeigeCaprice {
+    _hidden_value = true
+  }
+  serviceid_number NervousAzureBrandea {
+    _hidden_value = true
+  }
+  serviceid DifficultBronzeClementia3 {
+    _hidden_value = true
+  }
+  MarriedCyanFannie2 = 39
+  BusyCyanFayre3 = 875
+  CuteTomatoTanitansy2 = "I'll tell you what often gets over looked... garden fences."
+  PeacefulOrangeMarguerite = "My first time using an elevator was an uplifting experience. The second time let me down."
+  GoldenGrayHalette2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

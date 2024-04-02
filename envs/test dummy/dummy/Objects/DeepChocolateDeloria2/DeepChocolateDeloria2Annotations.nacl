@@ -1,0 +1,55 @@
+type dummy.DeepChocolateDeloria2 {
+  annotations {
+    number PrimeBrownDanila3 {
+    }
+    json GlobalGrayHermine6 {
+    }
+    string OralLimeKylila5 {
+    }
+    serviceid_number SlowCyanEugenie8 {
+    }
+    serviceid_number ObligedOrangeMarcellina3 {
+    }
+    boolean SovietChocolateDari3 {
+    }
+    number ConstitutionalHarlequinJaymee3 {
+    }
+    serviceid_number AdministrativeGreenHoney5 {
+    }
+    json TerritorialSalmonPriscilla5 {
+    }
+    string DifficultTealSimona3 {
+    }
+    serviceid_number ConceptualTanShela {
+    }
+    hidden_boolean OrangePurpleMufinella4 {
+    }
+    boolean SuperTomatoSusanetta4 {
+    }
+    hidden_boolean SoftAquamarineBarbra3 {
+    }
+    number BloodyCyanFedora4 {
+    }
+    dummy.ObjectiveOrangeManda3 ExclusiveMagentaLatia3 {
+    }
+    hidden_boolean InternationalBlushClaudie3 {
+    }
+    string WholeBronzeClotilda2 {
+    }
+  }
+  PrimeBrownDanila3 = 149
+  GlobalGrayHermine6 = "What do you call two barracuda fish?  A Pairacuda!"
+  OralLimeKylila5 = "Why do birds fly south for the winter? Because it's too far to walk."
+  SlowCyanEugenie8 = 741
+  ObligedOrangeMarcellina3 = 703
+  SovietChocolateDari3 = false
+  ConstitutionalHarlequinJaymee3 = 91
+  AdministrativeGreenHoney5 = 687
+  TerritorialSalmonPriscilla5 = "I'll tell you what often gets over looked... garden fences."
+  DifficultTealSimona3 = "Im only familiar with 25 letters in the English language. I dont know why."
+  ConceptualTanShela = 716
+  SuperTomatoSusanetta4 = true
+  BloodyCyanFedora4 = 925
+  WholeBronzeClotilda2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _alias = "DeepChocolateDeloria2_alias"
+}

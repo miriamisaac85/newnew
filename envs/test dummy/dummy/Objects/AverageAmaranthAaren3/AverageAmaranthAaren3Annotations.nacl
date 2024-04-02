@@ -1,0 +1,59 @@
+type dummy.AverageAmaranthAaren3 {
+  annotations {
+    hidden_boolean RoughGreenIdaline3 {
+    }
+    string GrandEmeraldFrances3 {
+    }
+    hidden_boolean CreativeJadeKanya2 {
+    }
+    boolean FineBlackCarlye3 {
+    }
+    string UncertainMagentaLeland3 {
+    }
+    dummy.RoastedWhiteWenonah ExternalEmeraldFlorida5 {
+    }
+    boolean DoubtfulTealSiobhan {
+    }
+    dummy.DirectChocolateDeana IntimateSilverRuthe4 {
+    }
+    serviceid RightBlushCherish2 {
+    }
+    hidden_boolean OpenTealStarr {
+    }
+    number NastyWhiteVerla2 {
+    }
+    json FierceAzureBillie2 {
+    }
+    serviceid SuccessiveMoccasinLois2 {
+    }
+    json AutonomousScarletRora2 {
+    }
+    number CrazyTealSibylle2 {
+    }
+    dummy.MinisterialTanSheelagh AssociatedMaroonLindsy3 {
+    }
+    number LooseIvoryJulietta2 {
+    }
+    hidden_boolean SoftApricotAppolonia3 {
+    }
+    serviceid BusyTealShirlene5 {
+    }
+    json SoreBeigeBrietta2 {
+    }
+  }
+  GrandEmeraldFrances3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  FineBlackCarlye3 = false
+  UncertainMagentaLeland3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ExternalEmeraldFlorida5 = file("ExtremeHarlequinJacki2.txt")
+  DoubtfulTealSiobhan = true
+  RightBlushCherish2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  NastyWhiteVerla2 = 338
+  FierceAzureBillie2 = "I'll tell you what often gets over looked... garden fences."
+  SuccessiveMoccasinLois2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AutonomousScarletRora2 = "Why was it called the dark ages? Because of all the knights. "
+  CrazyTealSibylle2 = 234
+  LooseIvoryJulietta2 = 866
+  BusyTealShirlene5 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SoreBeigeBrietta2 = "I'll tell you what often gets over looked... garden fences."
+  _alias = "AverageAmaranthAaren3_alias"
+}

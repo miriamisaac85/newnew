@@ -1,0 +1,216 @@
+type dummy.GrandEmeraldFlss2 {
+  annotations {
+    serviceid BloodyTomatoTally4 {
+    }
+    number AverageTomatoTabbatha5 {
+    }
+    number EmotionalGrayHester2 {
+    }
+    json LabourBrownDaffy {
+    }
+    serviceid_number PlasticAquaAurelie2 {
+    }
+  }
+  serviceid_number SquealingApricotArabel3 {
+    _hidden_value = true
+  }
+  boolean LittleAmaranthAdella {
+    _hidden_value = true
+  }
+  dummy.ExtraCoffeeDianemarie OccasionalIvoryJuliette3 {
+    _hidden_value = true
+  }
+  hidden_boolean PreciseIndigoJobie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = false
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = true
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = false
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = false
+      },
+    ]
+  }
+  json OkSapphireRhianon4 {
+    _hidden_value = true
+  }
+  string SimilarBronzeConstancia {
+    _hidden_value = true
+  }
+  json BadVioletToma5 {
+    _hidden_value = true
+  }
+  serviceid CorrespondingPlumMiquela3 {
+    _hidden_value = true
+  }
+  number PricklyWhiteVivi {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ApparentCyanFay3 {
+    _hidden_value = true
+  }
+  number SkinnyAmberAlthea {
+    _hidden_value = true
+  }
+  boolean SuccessfulBlueCatriona {
+    _hidden_value = true
+  }
+  serviceid_number FancyTurquoiseTedi5 {
+    _hidden_value = true
+  }
+  dummy.ExtraCoffeeDianemarie AsleepJadeKarlyn {
+    _hidden_value = true
+  }
+  hidden_boolean SensibleIvoryJordanna3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = false
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = false
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = true
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = false
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = false
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = true
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+    ]
+  }
+  json HelpfulBlackCaroline {
+    _hidden_value = true
+  }
+  boolean CatholicHarlequinJamie3 {
+    _hidden_value = true
+  }
+  serviceid PerfectCrimsonEttie {
+    _hidden_value = true
+  }
+  serviceid EquivalentJadeKakalina2 {
+    _hidden_value = true
+  }
+  string PermanentFuchsiaGaye {
+    _hidden_value = true
+  }
+  BloodyTomatoTally4 = "How come the stadium got hot after the game? Because all of the fans left."
+  AverageTomatoTabbatha5 = 514
+  EmotionalGrayHester2 = 303
+  LabourBrownDaffy = "To be Frank, I'd have to change my name."
+  PlasticAquaAurelie2 = 313
+  _hidden_value = true
+}

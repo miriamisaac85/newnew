@@ -1,0 +1,76 @@
+type dummy.SocialBlueCharmine3 {
+  annotations {
+    dummy.OrdinaryCopperEdi MagneticPeachMaurizia2 {
+    }
+    boolean RomanFuchsiaGermain4 {
+    }
+    hidden_boolean QualifiedPinkMellicent3 {
+    }
+    string ElaborateRedNicole4 {
+    }
+    dummy.AbleBlushChrissie2 RisingScarletRoselle3 {
+    }
+    string SecondaryFuchsiaGertie2 {
+    }
+    boolean LateAmethystAmata5 {
+    }
+    dummy.CalmPurpleNancee2 StripedYellowWrennie4 {
+    }
+    json NearFuchsiaGerladina {
+    }
+    number LabourBrownDaffi {
+    }
+    dummy.ObjectiveOrangeMame2 ReadyChocolateDebera4 {
+    }
+    dummy.ModernTealStarla3 AfraidCrimsonEmmye3 {
+    }
+    json SafeCopperDorey3 {
+    }
+    boolean ControlledTanShel3 {
+    }
+    serviceid WorriedGrayHarmonie2 {
+    }
+    dummy.RightBlushCherin GoodBlackCarmita5 {
+    }
+    serviceid InnerFuchsiaGenvieve4 {
+    }
+    serviceid_number ThoughtfulBlueCatriona3 {
+    }
+    number TenderAquamarineBecka2 {
+    }
+    hidden_boolean SatisfactoryLimeKorry {
+    }
+    hidden_boolean ResponsibleCoffeeDevi4 {
+    }
+    number DustyAmberAlexia {
+    }
+    hidden_boolean SlimyAquaBarb5 {
+    }
+    dummy.AccessibleOrangeMarika4 HistoricLavenderKellsie3 {
+    }
+    string BareLavenderKelley5 {
+    }
+    serviceid DoubtfulTealSimonne2 {
+    }
+    serviceid AfraidAquamarineBenedetta2 {
+    }
+  }
+  MagneticPeachMaurizia2 = file("SoundAmethystAngelica2.txt")
+  RomanFuchsiaGermain4 = false
+  ElaborateRedNicole4 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SecondaryFuchsiaGertie2 = "To be Frank, I'd have to change my name."
+  LateAmethystAmata5 = false
+  NearFuchsiaGerladina = "Why did the kid cross the playground? To get to the other slide."
+  LabourBrownDaffi = 9
+  SafeCopperDorey3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ControlledTanShel3 = true
+  WorriedGrayHarmonie2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  InnerFuchsiaGenvieve4 = "Whoever invented the knock-knock joke should get a no bell prize."
+  ThoughtfulBlueCatriona3 = 82
+  TenderAquamarineBecka2 = 987
+  DustyAmberAlexia = 13
+  BareLavenderKelley5 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  DoubtfulTealSimonne2 = "What creature is smarter than a talking parrot? A spelling bee."
+  AfraidAquamarineBenedetta2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  _alias = "SocialBlueCharmine3_alias"
+}

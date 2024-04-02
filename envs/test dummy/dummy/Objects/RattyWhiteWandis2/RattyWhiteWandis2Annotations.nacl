@@ -1,0 +1,87 @@
+type dummy.RattyWhiteWandis2 {
+  annotations {
+    dummy.StillIndigoJoann VisibleIndigoJillayne {
+    }
+    hidden_boolean FullBlushChristiana5 {
+    }
+    json StupidTomatoSunny3 {
+    }
+    boolean GoldenGrayHaley5 {
+    }
+    number PerfectCrimsonEtti4 {
+    }
+    hidden_boolean TiredGoldGrete6 {
+    }
+    number TinyAmaranthAgnes2 {
+    }
+    json AutonomousScarletRonny3 {
+    }
+    number CorrespondingPlumMinnnie2 {
+    }
+    serviceid_number MagneticPeachMaurizia3 {
+    }
+    boolean QuickCoralElene {
+    }
+    hidden_boolean NormalBrownDamita {
+    }
+    json ShortAmaranthAfton {
+    }
+    serviceid_number DeterminedBeigeCandie3 {
+    }
+    dummy.CognitiveSalmonQuinn HandicappedTanShantee2 {
+    }
+    serviceid_number CharmingPlumMorgana5 {
+    }
+    string ReducedPinkMeryl2 {
+    }
+    string UninterestedTomatoSusi2 {
+    }
+    boolean HappyBlackCarolan4 {
+    }
+    string EnormousFuchsiaGinnifer {
+    }
+    json TastyAquaAshley {
+    }
+    serviceid_number SurroundingOrangeMarget4 {
+    }
+    hidden_boolean NetGoldGladys3 {
+    }
+    serviceid_number LoudApricotAnnadiane5 {
+    }
+    hidden_boolean HeavyChocolateDavina2 {
+    }
+    serviceid GorgeousVioletUna3 {
+    }
+    boolean RetiredSilverSarah4 {
+    }
+    json IllAzureBobbee5 {
+    }
+  }
+  StupidTomatoSunny3 = "I'll tell you what often gets over looked... garden fences."
+  GoldenGrayHaley5 = false
+  PerfectCrimsonEtti4 = 396
+  TinyAmaranthAgnes2 = 204
+  AutonomousScarletRonny3 = '''
+What do you call two barracuda fish?  A Pairacuda!
+Did you hear about the guy whose whole left side was cut off? He's all right now.
+Why do birds fly south for the winter? Because it's too far to walk.
+'''
+  CorrespondingPlumMinnnie2 = 715
+  MagneticPeachMaurizia3 = 127
+  QuickCoralElene = true
+  ShortAmaranthAfton = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  DeterminedBeigeCandie3 = 125
+  HandicappedTanShantee2 = file("AgreeableBeigeBunni3.txt")
+  CharmingPlumMorgana5 = 746
+  ReducedPinkMeryl2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  UninterestedTomatoSusi2 = "What creature is smarter than a talking parrot? A spelling bee."
+  HappyBlackCarolan4 = false
+  EnormousFuchsiaGinnifer = "How come the stadium got hot after the game? Because all of the fans left."
+  TastyAquaAshley = "Slept like a log last night  woke up in the fireplace."
+  SurroundingOrangeMarget4 = 826
+  LoudApricotAnnadiane5 = 727
+  GorgeousVioletUna3 = "Im only familiar with 25 letters in the English language. I dont know why."
+  RetiredSilverSarah4 = true
+  IllAzureBobbee5 = "Why did the tomato blush? Because it saw the salad dressing."
+  _alias = "RattyWhiteWandis2_alias"
+}

@@ -1,0 +1,206 @@
+type dummy.CulturalCoralElie {
+  annotations {
+    number OperationalOrangeMariam {
+    }
+    boolean StripedYellowWinonah {
+    }
+    dummy.DEFAULT GratefulIvoryJorey {
+    }
+    serviceid MuddyTurquoiseTheresina {
+    }
+  }
+  boolean FamousCoralElfrida {
+    _hidden_value = true
+  }
+  number VariableRedNollie {
+    _hidden_value = true
+  }
+  number ArbitrarySilverRoxane {
+    _hidden_value = true
+  }
+  string RepresentativePinkMerola {
+    _hidden_value = true
+  }
+  hidden_boolean SensitiveGrayHelyn {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = true
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = false
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = false
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = true
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = true
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+    ]
+  }
+  string CoolGreenIolande {
+    _hidden_value = true
+  }
+  string NecessaryBronzeCorabel {
+    _hidden_value = true
+  }
+  serviceid InstantSapphireRandie {
+    _hidden_value = true
+  }
+  number CrazyTealSibylla {
+    _hidden_value = true
+  }
+  serviceid_number IdeologicalOrangeMargarette {
+    _hidden_value = true
+  }
+  number SuitableCrimsonEmera {
+    _hidden_value = true
+  }
+  number SlimRoseOlva {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CurvedAmberAlisun {
+    _hidden_value = true
+  }
+  hidden_boolean GleamingTurquoiseTeri2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = true
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = true
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = true
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = false
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = false
+      },
+    ]
+  }
+  json SpectacularMaroonLibbi2 {
+    _hidden_value = true
+  }
+  boolean CrudePlumMikaela {
+    _hidden_value = true
+  }
+  string ConcernedBronzeCorrey {
+    _hidden_value = true
+  }
+  OperationalOrangeMariam = 510
+  StripedYellowWinonah = true
+  GratefulIvoryJorey = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  MuddyTurquoiseTheresina = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

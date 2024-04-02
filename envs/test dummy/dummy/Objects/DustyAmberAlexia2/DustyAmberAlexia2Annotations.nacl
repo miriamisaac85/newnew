@@ -1,0 +1,57 @@
+type dummy.DustyAmberAlexia2 {
+  annotations {
+    hidden_boolean SatisfiedHarlequinJeana5 {
+    }
+    serviceid_number LinguisticJadeKaril2 {
+    }
+    hidden_boolean UsualCoralElly2 {
+    }
+    serviceid BreezyAmaranthAigneis7 {
+    }
+    dummy.SouthernCyanEvita ResultingPurpleNada {
+    }
+    dummy.SuperPeachMartica RepulsiveBeigeBrenda2 {
+    }
+    json EssentialCoffeeDion4 {
+    }
+    hidden_boolean AccusedSilverSaloma2 {
+    }
+    string ExternalEmeraldFlorida6 {
+    }
+    serviceid MagnificentWhiteVanny4 {
+    }
+    number NeatMoccasinLorinda {
+    }
+    dummy.BindingSalmonPeta SquareJadeKai7 {
+    }
+    dummy.QuickAmethystAmmamaria3 DisastrousScarletRochella4 {
+    }
+    boolean DullVioletTrish7 {
+    }
+    hidden_boolean PreciousOrangeMariele6 {
+    }
+    boolean HungryMaroonLisa4 {
+    }
+    json InternalCoralEdy3 {
+    }
+    hidden_boolean FierceAzureBilli3 {
+    }
+    json DepressedPinkMelany3 {
+    }
+  }
+  LinguisticJadeKaril2 = 958
+  BreezyAmaranthAigneis7 = "Why do birds fly south for the winter? Because it's too far to walk."
+  EssentialCoffeeDion4 = "Im only familiar with 25 letters in the English language. I dont know why."
+  ExternalEmeraldFlorida6 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  MagnificentWhiteVanny4 = "What do you call two barracuda fish?  A Pairacuda!"
+  NeatMoccasinLorinda = 411
+  SquareJadeKai7 = file("ExactLimeKorella3.txt")
+  DullVioletTrish7 = true
+  HungryMaroonLisa4 = false
+  InternalCoralEdy3 = '''
+What creature is smarter than a talking parrot? A spelling bee.
+To be Frank, I'd have to change my name.
+'''
+  DepressedPinkMelany3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _alias = "DustyAmberAlexia2_alias"
+}

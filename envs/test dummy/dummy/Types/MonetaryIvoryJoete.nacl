@@ -1,0 +1,149 @@
+type dummy.MonetaryIvoryJoete {
+  annotations {
+    number EnglishBrownCourtney3 {
+    }
+    serviceid_number ObnoxiousAzureBrandie3 {
+    }
+    serviceid SelectiveRedNorri {
+    }
+    json EnchantingBlackCarena2 {
+    }
+    boolean GloriousBlackCarmine3 {
+    }
+    number GermanChocolateDelila2 {
+    }
+    boolean CorrectCrimsonErinn {
+    }
+  }
+  boolean InstitutionalMaroonLeshia {
+    _hidden_value = true
+  }
+  string DistinctHarlequinJanela2 {
+    _hidden_value = true
+  }
+  boolean CleanTomatoTamma {
+    _hidden_value = true
+  }
+  string PeacefulOrangeMargret2 {
+    _hidden_value = true
+  }
+  hidden_boolean BoldPlumMinnaminnie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = false
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = true
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = true
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = true
+      },
+    ]
+  }
+  json CasualOliveLurlene {
+    _hidden_value = true
+  }
+  dummy.RussianCyanFelicity HorribleVioletValene {
+    RapidAmethystAmy = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    GlobalGrayHermine = "Why was it called the dark ages? Because of all the knights. "
+    BrainyTealSherry = true
+    SoundRoseOlga = 75
+    LevelJadeKally = true
+    WideAmethystAmabel = 377
+    CautiousScarletRivy = false
+    RandomMoccasinLoren = 798
+    AssociatedMaroonLindsey = false
+    FamiliarCrimsonEthel = "How come the stadium got hot after the game? Because all of the fans left."
+    MinorEmeraldGabriel = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    SurroundingOrangeMarget = "Why do birds fly south for the winter? Because it's too far to walk."
+    FatalPurpleMyrtice = "Im only familiar with 25 letters in the English language. I dont know why."
+    _hidden_value = true
+  }
+  number UpsetBeigeBrittani2 {
+    _hidden_value = true
+  }
+  string ShortYellowWilona {
+    _hidden_value = true
+  }
+  string WetAquamarineBelinda2 {
+    _hidden_value = true
+  }
+  number ShyScarletRosemonde {
+    _hidden_value = true
+  }
+  "List<dummy.FarBlushChristin>" TroubledBeigeBrittani3 {
+    _hidden_value = true
+  }
+  json SevereEmeraldGaby {
+    _hidden_value = true
+  }
+  serviceid MagnificentMagentaLeelah {
+    _hidden_value = true
+  }
+  json BreezyAmaranthAigneis4 {
+    _hidden_value = true
+  }
+  boolean RomanticMagentaLeandra2 {
+    _hidden_value = true
+  }
+  EnglishBrownCourtney3 = 242
+  ObnoxiousAzureBrandie3 = 963
+  SelectiveRedNorri = "What creature is smarter than a talking parrot? A spelling bee."
+  EnchantingBlackCarena2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  GloriousBlackCarmine3 = true
+  GermanChocolateDelila2 = 810
+  CorrectCrimsonErinn = false
+  _hidden_value = true
+}

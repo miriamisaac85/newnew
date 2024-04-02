@@ -1,0 +1,147 @@
+type dummy.LonelyAzureBobina {
+  annotations {
+    serviceid OptimisticSalmonPeg2 {
+    }
+    dummy.PrivateBronzeCordy PermanentFuchsiaGayel {
+    }
+    hidden_boolean VocationalTanShaine {
+    }
+    json ElectricalLavenderKerri {
+    }
+    string WrittenGreenIvonne {
+    }
+  }
+  serviceid WorthyRedOdette {
+    _hidden_value = true
+  }
+  boolean MelodicApricotAnnalise2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HostileOrangeMariel {
+    _hidden_value = true
+  }
+  string ResidentSalmonRaf2 {
+    _hidden_value = true
+  }
+  number ExcitedBlackCaritta {
+    _hidden_value = true
+  }
+  json SatisfactoryLimeKrissie2 {
+    _hidden_value = true
+  }
+  hidden_boolean WellFuchsiaGiralda {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = true
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = true
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = false
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+    ]
+  }
+  string QuickestWhiteWallie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AdequateGrayHildegaard {
+    _hidden_value = true
+  }
+  number ScatteredAquaAveryl {
+    _hidden_value = true
+  }
+  "List<serviceid>" GrubbyAquaAubrey2 {
+    _hidden_value = true
+  }
+  string IraqiOliveMadelle {
+    _hidden_value = true
+  }
+  string WeeklyLavenderKeslie {
+    _hidden_value = true
+  }
+  number CriminalFuchsiaGeorgette {
+    _hidden_value = true
+  }
+  OptimisticSalmonPeg2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  PermanentFuchsiaGayel = false
+  ElectricalLavenderKerri = "How come the stadium got hot after the game? Because all of the fans left."
+  WrittenGreenIvonne = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

@@ -1,0 +1,144 @@
+type dummy.CarefulCyanFeodora {
+  annotations {
+    json WeeklyLavenderKesley {
+    }
+    json PaleGrayHarriett2 {
+    }
+    serviceid_number HeadPinkMeggi {
+    }
+    string PopularChocolateDavida {
+    }
+  }
+  number UnknownFuchsiaGilberta {
+    _hidden_value = true
+  }
+  serviceid_number NastyWhiteVeronica2 {
+    _hidden_value = true
+  }
+  number VerticalOliveLyssa {
+    _hidden_value = true
+  }
+  number TypicalEmeraldFrancine {
+    _hidden_value = true
+  }
+  serviceid_number CivicTanShelli {
+    _hidden_value = true
+  }
+  boolean SillyBlueCathrin {
+    _hidden_value = true
+  }
+  boolean DigitalMaroonLiane {
+    _hidden_value = true
+  }
+  dummy.ImmenseAmaranthAdelice OrdinaryWhiteViolette {
+    PoliteSalmonRafa = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    FrightenedAzureBlaire = "Dad Im hungry  Hi hungry Im dad"
+    AlertTomatoSydney = 945
+    AwakeRedNolana = "Why was it called the dark ages? Because of all the knights. "
+    SteepAmberAlvira = false
+    InnocentTealStacey = false
+    GladGoldGlynnis = 529
+    ComingSilverSammy = "Im only familiar with 25 letters in the English language. I dont know why."
+    UltimateJadeKandace = "Why do birds fly south for the winter? Because it's too far to walk."
+    ScatteredAquaAvie = 582
+    ConceptualTanShelbi = "Whoever invented the knock-knock joke should get a no bell prize."
+    KindOrangeMaribelle = "To be Frank, I'd have to change my name."
+    _hidden_value = true
+  }
+  number SparklingTurquoiseTiffy {
+    _hidden_value = true
+  }
+  json ShiveringAquaBabette {
+    _hidden_value = true
+  }
+  serviceid_number EarlyAmethystAmanda2 {
+    _hidden_value = true
+  }
+  serviceid_number ExcitingGreenIvett2 {
+    _hidden_value = true
+  }
+  serviceid_number TremendousMagentaLeoine2 {
+    _hidden_value = true
+  }
+  number WoodenAquamarineBellina {
+    _hidden_value = true
+  }
+  string ImaginativeTanSeline {
+    _hidden_value = true
+  }
+  number WittyBlueCelene {
+    _hidden_value = true
+  }
+  hidden_boolean BlushingTomatoTalya {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = false
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = true
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = false
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = true
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = true
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+    ]
+  }
+  WeeklyLavenderKesley = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  PaleGrayHarriett2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  HeadPinkMeggi = 271
+  PopularChocolateDavida = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

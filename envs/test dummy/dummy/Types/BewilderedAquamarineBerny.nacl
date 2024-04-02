@@ -1,0 +1,214 @@
+type dummy.BewilderedAquamarineBerny {
+  annotations {
+    serviceid IllAzureBobbette3 {
+    }
+    serviceid_number SimilarBronzeConsolata2 {
+    }
+    serviceid_number ShyScarletRosene {
+    }
+    dummy.ProvincialPeachMarita RoundIvoryJohnette4 {
+    }
+    serviceid FeministPlumMin2 {
+    }
+    number LazyWhiteVanni {
+    }
+  }
+  dummy.DEFAULT ContinuingGreenIsabel2 {
+    _hidden_value = true
+  }
+  json MarxistSapphireRakel {
+    _hidden_value = true
+  }
+  json InitialCoralElsi2 {
+    _hidden_value = true
+  }
+  json FormidableSilverSabine4 {
+    _hidden_value = true
+  }
+  boolean EncouragingLimeLacie {
+    _hidden_value = true
+  }
+  number OddWhiteVinita3 {
+    _hidden_value = true
+  }
+  hidden_boolean ConfidentHarlequinJada2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = false
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = false
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+    ]
+  }
+  dummy.ImmenseAmaranthAdelice LtdCoralElna3 {
+    PoliteSalmonRafa = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    FrightenedAzureBlaire = "Dad Im hungry  Hi hungry Im dad"
+    AlertTomatoSydney = 867
+    AwakeRedNolana = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SteepAmberAlvira = true
+    InnocentTealStacey = false
+    GladGoldGlynnis = 803
+    ComingSilverSammy = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    UltimateJadeKandace = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ScatteredAquaAvie = 961
+    ConceptualTanShelbi = "Why do birds fly south for the winter? Because it's too far to walk."
+    KindOrangeMaribelle = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    _hidden_value = true
+  }
+  dummy.DEFAULT PriorRosePauli5 {
+    _hidden_value = true
+  }
+  string PublicBlushChrysler3 {
+    _hidden_value = true
+  }
+  number PrintedRedNevsa3 {
+    _hidden_value = true
+  }
+  serviceid_number ManagerialPurpleNerita5 {
+    _hidden_value = true
+  }
+  boolean PrettyIndigoJennie6 {
+    _hidden_value = true
+  }
+  boolean CourageousBeigeCammi {
+    _hidden_value = true
+  }
+  serviceid_number RedBrownDaloris {
+    _hidden_value = true
+  }
+  serviceid LinearRedNessie {
+    _hidden_value = true
+  }
+  number VoicelessApricotArdeen {
+    _hidden_value = true
+  }
+  serviceid_number SelectSalmonPhelia {
+    _hidden_value = true
+  }
+  hidden_boolean ExternalEmeraldFlorida2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = true
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = true
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = true
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = false
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = false
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = false
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = true
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = false
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+    ]
+  }
+  IllAzureBobbette3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SimilarBronzeConsolata2 = 503
+  ShyScarletRosene = 115
+  RoundIvoryJohnette4 = 129
+  FeministPlumMin2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  LazyWhiteVanni = 320
+  _hidden_value = true
+}

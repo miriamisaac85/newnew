@@ -1,0 +1,150 @@
+type dummy.HonestIndigoJerrine5 {
+  annotations {
+    json DryCyanEvaleen4 {
+    }
+    boolean LovelyCoralEllie4 {
+    }
+    number InvisibleRoseOrelee3 {
+    }
+    number MoralCyanFeliza2 {
+    }
+    serviceid SmallAmaranthAgathe5 {
+    }
+    number DrunkPeachMarlee3 {
+    }
+  }
+  string BoldPlumMinette3 {
+    _hidden_value = true
+  }
+  "List<boolean>" LongAmaranthAdiana4 {
+    _hidden_value = true
+  }
+  serviceid ShrillApricotAntonia {
+    _hidden_value = true
+  }
+  json FilthyTurquoiseTeresa {
+    _hidden_value = true
+  }
+  "Map<json>" ImperialJadeKaterina2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AngryFuchsiaGill3 {
+    _hidden_value = true
+  }
+  serviceid_number EuropeanBronzeConcordia2 {
+    _hidden_value = true
+  }
+  boolean PrettyIndigoJennifer2 {
+    _hidden_value = true
+  }
+  serviceid DomesticCopperEba3 {
+    _hidden_value = true
+  }
+  string SympatheticPinkMeade3 {
+    _hidden_value = true
+  }
+  json StripedYellowWrennie3 {
+    _hidden_value = true
+  }
+  serviceid_number YoungAmethystAndeee2 {
+    _hidden_value = true
+  }
+  serviceid_number SadGrayHettie2 {
+    _hidden_value = true
+  }
+  json MechanicalMagentaLeonie4 {
+    _hidden_value = true
+  }
+  dummy.ExtraCoffeeDianemarie TallYellowXena {
+    _hidden_value = true
+  }
+  hidden_boolean CoherentScarletRoselin2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = true
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = false
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = true
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = true
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = false
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = true
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = false
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = false
+      },
+    ]
+  }
+  serviceid FierceOliveMaisie2 {
+    _hidden_value = true
+  }
+  json AlliedPlumMisti3 {
+    _hidden_value = true
+  }
+  "List<string>" DistinguishedPurpleNatassia3 {
+    _hidden_value = true
+  }
+  boolean IrrelevantPurpleNanette3 {
+    _hidden_value = true
+  }
+  dummy.OccupationalOliveMadel UrgentLimeKristyn2 {
+    DifferentBlueCharleen = 251
+    AverageCoralElysha2 = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    WearyBeigeBrooke = "How come the stadium got hot after the game? Because all of the fans left."
+    PoisedTurquoiseThomasin = 680
+    _hidden_value = true
+  }
+  DryCyanEvaleen4 = "Why was it called the dark ages? Because of all the knights. "
+  LovelyCoralEllie4 = false
+  InvisibleRoseOrelee3 = 157
+  MoralCyanFeliza2 = 922
+  SmallAmaranthAgathe5 = "Why did the kid cross the playground? To get to the other slide."
+  DrunkPeachMarlee3 = 314
+  _hidden_value = true
+}

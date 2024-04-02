@@ -1,0 +1,5 @@
+dummy.DEFAULT CommonBronzeConstantine2 {
+  legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  _parent = dummy.StraightforwardMaroonLeyla
+  _alias = "CommonBronzeConstantine2_alias"
+}

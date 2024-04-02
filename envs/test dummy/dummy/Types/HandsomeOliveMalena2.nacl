@@ -1,0 +1,173 @@
+type dummy.HandsomeOliveMalena2 {
+  annotations {
+    number SufficientCrimsonEolande2 {
+    }
+    number RelatedIndigoJessamyn2 {
+    }
+    hidden_boolean ExtensiveGoldGlyn {
+    }
+    string GreatAmaranthAddi2 {
+    }
+    boolean RightBlushCherlyn2 {
+    }
+  }
+  number LoudLavenderKial4 {
+    _hidden_value = true
+  }
+  serviceid PureGrayHenriette2 {
+    _hidden_value = true
+  }
+  serviceid_number AllegedOliveLynne2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LateAmethystAmata3 {
+    _hidden_value = true
+  }
+  serviceid_number LevelJadeKamila3 {
+    _hidden_value = true
+  }
+  dummy.FancyTurquoiseTeirtza ShortYellowWilona4 {
+    TallYellowXylia = "Dad Im hungry  Hi hungry Im dad"
+    CheapCopperEdita = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SharedPinkMelicent = 201
+    StuckRoseOralee = 164
+    SorryBrownDanyelle = 413
+    GoverningTanSelle = 697
+    JointCoralEliza = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    SorryBrownDanyelle2 = 575
+    PainfulMaroonLilly = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    RichTomatoStorm = "Why is Peter Pan always flying? Because he Neverlands."
+    ImplicitSapphireRhea = 774
+    FlyingMoccasinLoralyn = false
+    _hidden_value = true
+  }
+  serviceid_number CharmingPlumMorgana {
+    _hidden_value = true
+  }
+  number LtdCoralElna4 {
+    _hidden_value = true
+  }
+  json CurrentBrownCynthy4 {
+    _hidden_value = true
+  }
+  boolean DistinctTurquoiseTatiana6 {
+    _hidden_value = true
+  }
+  json OfficialCopperDorisa2 {
+    _hidden_value = true
+  }
+  serviceid_number RespectiveSalmonPersis5 {
+    _hidden_value = true
+  }
+  serviceid_number GiantAmaranthAdaline2 {
+    _hidden_value = true
+  }
+  hidden_boolean StrangeTurquoiseTimmie2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = false
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = true
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = false
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = false
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = true
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = false
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = false
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = false
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = true
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+    ]
+  }
+  json PremierOrangeMari2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WearyBeigeBrook4 {
+    _hidden_value = true
+  }
+  number VastEmeraldFreddi3 {
+    _hidden_value = true
+  }
+  number IrrelevantPurpleNanette2 {
+    _hidden_value = true
+  }
+  dummy.AcuteLavenderKeri AverageTomatoTabbi {
+    TerribleBeigeBrinna = 47
+    ShrillApricotAntonetta = 647
+    FineBrownCourtenay = "I'll tell you what often gets over looked... garden fences."
+    HelpfulBlackCarolin = true
+    ConsiderableChocolateDemetra = "Did you know that protons have mass? I didn't even know they were catholic."
+    ThoughtfulBlueCaye = "Im only familiar with 25 letters in the English language. I dont know why."
+    LiveIndigoJody = "Slept like a log last night  woke up in the fireplace."
+    PoorBronzeCorene = "Why didnt the skeleton cross the road? Because he had no guts."
+    ShallowAmberAlmire = 576
+    ClosedMagentaLela = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    _hidden_value = true
+  }
+  serviceid OddWhiteVinnie {
+    _hidden_value = true
+  }
+  serviceid_number ScrawnyYellowWilma3 {
+    _hidden_value = true
+  }
+  json StripedYellowWinonah2 {
+    _hidden_value = true
+  }
+  SufficientCrimsonEolande2 = 584
+  RelatedIndigoJessamyn2 = 88
+  GreatAmaranthAddi2 = "Why is Peter Pan always flying? Because he Neverlands."
+  RightBlushCherlyn2 = true
+  _hidden_value = true
+}

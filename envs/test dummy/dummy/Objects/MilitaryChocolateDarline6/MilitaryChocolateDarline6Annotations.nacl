@@ -1,0 +1,54 @@
+type dummy.MilitaryChocolateDarline6 {
+  annotations {
+    boolean CruelPlumMichaeline {
+    }
+    string SkilledMoccasinLucia3 {
+    }
+    string ActiveCopperDreddy5 {
+    }
+    serviceid DoubleCrimsonEthyl4 {
+    }
+    boolean FundamentalFuchsiaGene4 {
+    }
+    hidden_boolean OutstandingIndigoJenna6 {
+    }
+    json InterimOrangeMalory3 {
+    }
+    serviceid CurrentBrownCynthia {
+    }
+    dummy.KoreanSapphireRasla AnnualCoffeeDonni3 {
+    }
+    hidden_boolean DecisiveSalmonPennie5 {
+    }
+    serviceid_number ExtremeHarlequinJackie3 {
+    }
+    serviceid_number ReligiousCoralElectra2 {
+    }
+    dummy.ProfoundPinkMerlina3 DeepAmberAlleen {
+    }
+    hidden_boolean StrongBronzeColline3 {
+    }
+    boolean ToryGreenInes3 {
+    }
+    serviceid ShortBronzeColene2 {
+    }
+    dummy.ManyAmethystAngel ExclusiveMagentaLatisha4 {
+    }
+    number TemporaryGrayHalley2 {
+    }
+  }
+  CruelPlumMichaeline = false
+  SkilledMoccasinLucia3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ActiveCopperDreddy5 = "To be Frank, I'd have to change my name."
+  DoubleCrimsonEthyl4 = "Whoever invented the knock-knock joke should get a no bell prize."
+  FundamentalFuchsiaGene4 = false
+  InterimOrangeMalory3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  CurrentBrownCynthia = "I'll tell you what often gets over looked... garden fences."
+  ExtremeHarlequinJackie3 = 149
+  ReligiousCoralElectra2 = 204
+  ToryGreenInes3 = false
+  ShortBronzeColene2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ExclusiveMagentaLatisha4 = 500
+  TemporaryGrayHalley2 = 488
+  _alias = "MilitaryChocolateDarline6_alias"
+}

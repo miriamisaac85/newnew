@@ -1,0 +1,97 @@
+type dummy.FranticAzureBirgitta {
+  serviceid UrbanCyanFanchette {
+  }
+  string PoorTealSteffie2 {
+  }
+  number MobilePurpleMoselle2 {
+  }
+  serviceid_number MysteriousAzureBonnee3 {
+  }
+  serviceid AmazingMoccasinLizabeth {
+  }
+  dummy.ExtraCoffeeDianemarie ClearTomatoTammara2 {
+  }
+  "List<serviceid_number>" GenerousLavenderKayle2 {
+  }
+  serviceid_number RussianCyanFelicity4 {
+  }
+  json MelodicApricotAnnamaria3 {
+  }
+  number LoudApricotAnnadiana4 {
+  }
+  string StillIndigoJinny2 {
+  }
+  hidden_boolean HardBronzeCordey {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+    _important_values = [
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = true
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = false
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = false
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = true
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = true
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = true
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = false
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = true
+      },
+    ]
+  }
+  string FriendlyBlackCarlynn3 {
+  }
+  dummy.LoyalPurpleNatalee ThoroughScarletRonalda2 {
+    UnconsciousSapphireRaychel2 = "What creature is smarter than a talking parrot? A spelling bee."
+    DefensiveRoseOndrea = "Why did the tomato blush? Because it saw the salad dressing."
+    UpsetBeigeBrittani = false
+    OrganisationalTanShari = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  json SimilarBronzeConsolata3 {
+  }
+  string RunningPlumMirabel5 {
+  }
+  json ProposedGoldGwendolen {
+  }
+  number LuckyFuchsiaGinni {
+  }
+}

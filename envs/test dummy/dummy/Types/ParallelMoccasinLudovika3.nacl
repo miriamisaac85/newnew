@@ -1,0 +1,27 @@
+type dummy.ParallelMoccasinLudovika3 {
+  annotations {
+    serviceid HotAquaAudrey {
+    }
+    dummy.DEFAULT ArtificialMagentaLenka2 {
+    }
+    hidden_boolean EasyTealSisely2 {
+    }
+    number PoisedTurquoiseThomasa6 {
+    }
+    serviceid SatisfactoryLimeKrissy5 {
+    }
+    string WetAmberAlida {
+    }
+  }
+  serviceid HelplessTealSonny {
+    _hidden_value = true
+  }
+  HotAquaAudrey = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ArtificialMagentaLenka2 = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  PoisedTurquoiseThomasa6 = 57
+  SatisfactoryLimeKrissy5 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  WetAmberAlida = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

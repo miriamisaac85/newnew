@@ -1,0 +1,63 @@
+type dummy.CrazyVioletTrenna2 {
+  annotations {
+    number ConfidentHarlequinJacynth2 {
+    }
+    string SubsequentFuchsiaGilbertine2 {
+    }
+    hidden_boolean ToughYellowYsabel3 {
+    }
+    dummy.AfraidCrimsonEmogene PotentialCoralElbertine3 {
+    }
+    string OrganicLimeLaetitia {
+    }
+    serviceid StingyYellowWinnah4 {
+    }
+    hidden_boolean CrazyMoccasinLorrie {
+    }
+    boolean HugeCoffeeDoralyn2 {
+    }
+    string PreferredTanSavina3 {
+    }
+    string SportingSilverRuthi3 {
+    }
+    hidden_boolean AgreeableBeigeBunny {
+    }
+    number InnocentTealStaci {
+    }
+    dummy.SwissPlumMikaela FamousTealSissy2 {
+    }
+    hidden_boolean JollyVioletValina4 {
+    }
+    boolean IndirectPeachMarty2 {
+    }
+    boolean ElderlyEmeraldFlorella2 {
+    }
+    boolean GreasyAquaAubrette2 {
+    }
+    dummy.AdverseSapphireRanna GreatVioletTyne2 {
+    }
+    boolean StrangeTurquoiseTimmy {
+    }
+    json ObviousCoffeeDolley {
+    }
+    number MolecularRedNerte5 {
+    }
+  }
+  ConfidentHarlequinJacynth2 = 804
+  SubsequentFuchsiaGilbertine2 = "What do you call two barracuda fish?  A Pairacuda!"
+  OrganicLimeLaetitia = "A steak pun is a rare medium well done."
+  StingyYellowWinnah4 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  HugeCoffeeDoralyn2 = true
+  PreferredTanSavina3 = "Why is Peter Pan always flying? Because he Neverlands."
+  SportingSilverRuthi3 = "Why was it called the dark ages? Because of all the knights. "
+  InnocentTealStaci = 912
+  FamousTealSissy2 = file("RoughAquaAustina5.txt")
+  IndirectPeachMarty2 = false
+  ElderlyEmeraldFlorella2 = false
+  GreasyAquaAubrette2 = false
+  GreatVioletTyne2 = 992
+  StrangeTurquoiseTimmy = true
+  ObviousCoffeeDolley = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  MolecularRedNerte5 = 107
+  _alias = "CrazyVioletTrenna2_alias"
+}

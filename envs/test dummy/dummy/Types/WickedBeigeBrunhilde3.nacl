@@ -1,0 +1,57 @@
+type dummy.WickedBeigeBrunhilde3 {
+  annotations {
+    hidden_boolean MarvellousMoccasinLorna3 {
+    }
+    dummy.DEFAULT FlyingMoccasinLorelei2 {
+    }
+    boolean PassingSalmonPippy2 {
+    }
+    string RottenApricotArlana2 {
+    }
+    json GrievingAzureBlanca2 {
+    }
+    serviceid PossibleBlushCheslie {
+    }
+    json WiseLavenderKatherina3 {
+    }
+  }
+  boolean ProfessionalChocolateDayna4 {
+    _hidden_value = true
+  }
+  serviceid VictorianJadeKalinda {
+    _hidden_value = true
+  }
+  boolean ObligedOrangeMarcelle {
+    _hidden_value = true
+  }
+  boolean ManyAmethystAnetta {
+    _hidden_value = true
+  }
+  string TenderRedOdella2 {
+    _hidden_value = true
+  }
+  serviceid StrongAquaAryn {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ProminentLavenderKelci3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ObviousCoffeeDollie {
+    _hidden_value = true
+  }
+  string DistinctiveLimeKristi2 {
+    _hidden_value = true
+  }
+  serviceid WetGrayHedvige {
+    _hidden_value = true
+  }
+  FlyingMoccasinLorelei2 = {
+    legit = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  PassingSalmonPippy2 = false
+  RottenApricotArlana2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  GrievingAzureBlanca2 = "To be Frank, I'd have to change my name."
+  PossibleBlushCheslie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  WiseLavenderKatherina3 = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

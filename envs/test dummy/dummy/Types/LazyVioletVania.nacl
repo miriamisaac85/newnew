@@ -1,0 +1,116 @@
+type dummy.LazyVioletVania {
+  annotations {
+    serviceid_number MiserableSalmonRachel2 {
+    }
+    boolean MinorEmeraldGabi2 {
+    }
+    serviceid_number RisingScarletRoselle2 {
+    }
+    string HelpfulBlackCaroljean4 {
+    }
+    hidden_boolean SuddenGoldGusty4 {
+    }
+    string GentleBlackCarmelle3 {
+    }
+  }
+  hidden_boolean FundamentalFuchsiaGenevieve7 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = false
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = true
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = true
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = false
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = false
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = true
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = false
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = true
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = true
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = true
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+    ]
+  }
+  string StormyTurquoiseTimmi2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AliveFuchsiaGilly2 {
+    _hidden_value = true
+  }
+  serviceid_number TallAmaranthAggi3 {
+    _hidden_value = true
+  }
+  MiserableSalmonRachel2 = 458
+  MinorEmeraldGabi2 = false
+  RisingScarletRoselle2 = 423
+  HelpfulBlackCaroljean4 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  GentleBlackCarmelle3 = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

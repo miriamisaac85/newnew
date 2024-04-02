@@ -1,0 +1,197 @@
+type dummy.ShyTomatoStormi2 {
+  annotations {
+    serviceid_number CreativeJadeKara {
+    }
+    hidden_boolean AsleepJadeKarlotte {
+    }
+    serviceid ProposedGoldGwendolyn3 {
+    }
+    boolean PrimitiveOrangeMarga2 {
+    }
+    boolean RepresentativePinkMerola3 {
+    }
+    dummy.DEFAULT ProbableSalmonPhylys {
+    }
+    dummy.DEFAULT HarshApricotAnjela2 {
+    }
+    dummy.ExactLimeKordula NecessaryBronzeCorabella2 {
+    }
+  }
+  serviceid PreparedCyanFelice {
+    _hidden_value = true
+  }
+  boolean TheoreticalIndigoJenifer {
+    _hidden_value = true
+  }
+  json IrrelevantPurpleNancy2 {
+    _hidden_value = true
+  }
+  dummy.OccasionalIvoryJuliette ActiveCopperDotty {
+    UglyTurquoiseTiphani = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    FairBlackCarlen = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    FuriousRedNicolle = 161
+    AbstractMaroonLilyan = 151
+    RipeApricotAriel = 74
+    OlympicRedNessa = 129
+    SignificantBrownDanna = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    TenderAquamarineBecca = true
+    MysteriousAzureBonita = 195
+    VastEmeraldFreddi = 280
+    ConstantEmeraldFrayda = "Slept like a log last night  woke up in the fireplace."
+    BigAmaranthAbbi = 71
+    WorriedGrayHarri = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    _hidden_value = true
+  }
+  hidden_boolean IndirectPeachMary2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = true
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = false
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = false
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = false
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = false
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = false
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = false
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = true
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = true
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = false
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = false
+      },
+    ]
+  }
+  serviceid ResultingPurpleNadeen {
+    _hidden_value = true
+  }
+  "List<boolean>" CoolAmaranthAinsley3 {
+    _hidden_value = true
+  }
+  serviceid_number UsefulChocolateDedie {
+    _hidden_value = true
+  }
+  boolean HotAquaAudry2 {
+    _hidden_value = true
+  }
+  serviceid DeafIvoryJoya3 {
+    _hidden_value = true
+  }
+  serviceid_number IntermediateRoseOfilia {
+    _hidden_value = true
+  }
+  number AmateurSalmonPierrette {
+    _hidden_value = true
+  }
+  number FormalCoralElizabet2 {
+    _hidden_value = true
+  }
+  json OutsideGrayHelene {
+    _hidden_value = true
+  }
+  CreativeJadeKara = 13
+  ProposedGoldGwendolyn3 = "To be Frank, I'd have to change my name."
+  PrimitiveOrangeMarga2 = false
+  RepresentativePinkMerola3 = false
+  ProbableSalmonPhylys = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  HarshApricotAnjela2 = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  NecessaryBronzeCorabella2 = 105
+  _hidden_value = true
+}

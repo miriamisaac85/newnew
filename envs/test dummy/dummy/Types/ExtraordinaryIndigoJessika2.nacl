@@ -1,0 +1,30 @@
+type dummy.ExtraordinaryIndigoJessika2 {
+  annotations {
+    dummy.KeenGrayHannah ProminentLavenderKeely {
+    }
+    dummy.DEFAULT UpsetOliveMabel7 {
+    }
+    string LiberalCyanFarra3 {
+    }
+    number ContinuousIvoryJoye2 {
+    }
+    number CuddlyAmberAlbertina2 {
+    }
+    serviceid_number UniversalJadeJyoti3 {
+    }
+    hidden_boolean FavouriteHarlequinJacqueline2 {
+    }
+  }
+  serviceid_number UptightBeigeBrook3 {
+    _hidden_value = true
+  }
+  ProminentLavenderKeely = false
+  UpsetOliveMabel7 = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  LiberalCyanFarra3 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ContinuousIvoryJoye2 = 172
+  CuddlyAmberAlbertina2 = 24
+  UniversalJadeJyoti3 = 614
+  _hidden_value = true
+}

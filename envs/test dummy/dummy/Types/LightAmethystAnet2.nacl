@@ -1,0 +1,84 @@
+type dummy.LightAmethystAnet2 {
+  annotations {
+    number AustralianJadeKassia {
+    }
+    serviceid_number UnsightlyTurquoiseTish3 {
+    }
+    boolean CrookedAmberAlane {
+    }
+    hidden_boolean ImperialLavenderKatey3 {
+    }
+    hidden_boolean ForeignBronzeCorine {
+    }
+    dummy.LatinLimeKonstanze CautiousTealSib {
+    }
+    json TightIvoryJoelynn3 {
+    }
+  }
+  hidden_boolean LightTurquoiseThalia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = true
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = true
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = false
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = false
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = false
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = false
+      },
+    ]
+  }
+  serviceid BoringPeachMarnia2 {
+    _hidden_value = true
+  }
+  string FirmGrayHedda2 {
+    _hidden_value = true
+  }
+  string OrangeWhiteViola2 {
+    _hidden_value = true
+  }
+  number ProtectiveRoseOlivette {
+    _hidden_value = true
+  }
+  serviceid_number FineBrownCourtenay3 {
+    _hidden_value = true
+  }
+  AustralianJadeKassia = 296
+  UnsightlyTurquoiseTish3 = 761
+  CrookedAmberAlane = true
+  CautiousTealSib = 103
+  TightIvoryJoelynn3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

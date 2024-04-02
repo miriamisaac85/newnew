@@ -1,0 +1,190 @@
+type dummy.StaleAquaArline2 {
+  annotations {
+    number BareLavenderKelli5 {
+    }
+    number DefeatedAzureBetsy5 {
+    }
+    number WildCyanEvy2 {
+    }
+    string PetiteAmaranthAdrianne {
+    }
+    serviceid ResponsibleCoffeeDevi2 {
+    }
+  }
+  boolean ManualRosePaolina2 {
+    _hidden_value = true
+  }
+  serviceid CharmingBeigeCallida3 {
+    _hidden_value = true
+  }
+  json AfraidAquamarineBelvia2 {
+    _hidden_value = true
+  }
+  "List<json>" LonelyOliveLyn2 {
+    _hidden_value = true
+  }
+  json HugeCoffeeDoralynne3 {
+    _hidden_value = true
+  }
+  number PatientPurpleNannette {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SingleBronzeCoral5 {
+    _hidden_value = true
+  }
+  serviceid DryCyanEvaleen3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AnxiousHarlequinJannel {
+    _hidden_value = true
+  }
+  serviceid_number EncouragingLimeLacy {
+    _hidden_value = true
+  }
+  json ManyWhiteVera2 {
+    _hidden_value = true
+  }
+  json FollowingBrownCynthea2 {
+    _hidden_value = true
+  }
+  string AbsentPinkMelosa3 {
+    _hidden_value = true
+  }
+  serviceid DefeatedAzureBette {
+    _hidden_value = true
+  }
+  boolean PreferredTanSayre2 {
+    _hidden_value = true
+  }
+  string ParticularBlushClaudelle3 {
+    _hidden_value = true
+  }
+  "List<json>" MathematicalRoseOrsola2 {
+    _hidden_value = true
+  }
+  json MinimumIndigoJerrie2 {
+    _hidden_value = true
+  }
+  dummy.FederalGrayHalli SquealingApricotArabel2 {
+    DullVioletTrina = 102
+    PunyAmaranthAeriel = 697
+    YoungBlueCheri = "To be Frank, I'd have to change my name."
+    InquisitiveTealStacie = "What creature is smarter than a talking parrot? A spelling bee."
+    ExtraCoffeeDiandra2 = false
+    SensibleIvoryJordan = false
+    DeadTealSile = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    LexicalSilverSadella = true
+    SuddenGoldGusty = 170
+    DeadTealSigrid = "I'll tell you what often gets over looked... garden fences."
+    _hidden_value = true
+  }
+  hidden_boolean HuskyApricotAnnabella2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = true
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = true
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = true
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = false
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = false
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = false
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = false
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = true
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = true
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = true
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = false
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = false
+      },
+    ]
+  }
+  BareLavenderKelli5 = 946
+  DefeatedAzureBetsy5 = 514
+  WildCyanEvy2 = 387
+  PetiteAmaranthAdrianne = "What do you call two barracuda fish?  A Pairacuda!"
+  ResponsibleCoffeeDevi2 = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

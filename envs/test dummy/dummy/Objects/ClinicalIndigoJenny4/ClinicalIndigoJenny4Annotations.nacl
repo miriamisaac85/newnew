@@ -1,0 +1,57 @@
+type dummy.ClinicalIndigoJenny4 {
+  annotations {
+    serviceid RoundAmberAlmeria2 {
+    }
+    boolean UrgentLimeKristyn4 {
+    }
+    json PresentBrownCristal {
+    }
+    serviceid_number CrowdedTomatoTani5 {
+    }
+    number FollowingBrownCyndie4 {
+    }
+    hidden_boolean UgliestYellowZara3 {
+    }
+    serviceid_number ScrawnyYellowWillyt2 {
+    }
+    serviceid RacialPlumMicki2 {
+    }
+    serviceid_number RobustYellowWilhelmina2 {
+    }
+    number IncreasingCyanEvonne3 {
+    }
+    serviceid_number CharmingPlumMorgana4 {
+    }
+    serviceid_number PerfectBlackCatarina3 {
+    }
+    boolean WildTomatoSuzi3 {
+    }
+    number AgreeableBeigeBunnie6 {
+    }
+    boolean MistyTurquoiseTheda7 {
+    }
+    dummy.MentalCrimsonEsmeralda2 AverageTomatoTabbi3 {
+    }
+    serviceid_number UnhappyMaroonLidia3 {
+    }
+    boolean AutomaticLavenderKi4 {
+    }
+  }
+  RoundAmberAlmeria2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  UrgentLimeKristyn4 = true
+  PresentBrownCristal = "Whoever invented the knock-knock joke should get a no bell prize."
+  CrowdedTomatoTani5 = 35
+  FollowingBrownCyndie4 = 883
+  ScrawnyYellowWillyt2 = 999
+  RacialPlumMicki2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  RobustYellowWilhelmina2 = 597
+  IncreasingCyanEvonne3 = 419
+  CharmingPlumMorgana4 = 724
+  PerfectBlackCatarina3 = 802
+  WildTomatoSuzi3 = false
+  AgreeableBeigeBunnie6 = 114
+  MistyTurquoiseTheda7 = false
+  UnhappyMaroonLidia3 = 303
+  AutomaticLavenderKi4 = true
+  _alias = "ClinicalIndigoJenny4_alias"
+}

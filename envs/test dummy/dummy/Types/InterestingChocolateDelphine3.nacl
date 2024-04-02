@@ -1,0 +1,202 @@
+type dummy.InterestingChocolateDelphine3 {
+  annotations {
+    dummy.ProvincialPeachMarita HandsomeVioletVal {
+    }
+    dummy.LowBlushChristy UnitedCopperEddie {
+    }
+    dummy.DEFAULT ImpressiveIndigoJessa3 {
+    }
+    string SunnyTanShari {
+    }
+    string ProposedGoldGweneth2 {
+    }
+    hidden_boolean OverwhelmingPurpleMyrna3 {
+    }
+  }
+  serviceid_number DomesticCopperEartha {
+    _hidden_value = true
+  }
+  serviceid ProfitablePurpleNara {
+    _hidden_value = true
+  }
+  string RuralCoralElsbeth2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FilthyTurquoiseTeodora2 {
+    _hidden_value = true
+  }
+  serviceid_number UniqueFuchsiaGerta {
+    _hidden_value = true
+  }
+  json GenerousLavenderKaylil {
+    _hidden_value = true
+  }
+  serviceid_number IllegalJadeKarole {
+    _hidden_value = true
+  }
+  string CarefulTealShoshana2 {
+    _hidden_value = true
+  }
+  serviceid_number VulnerableJadeKarola3 {
+    _hidden_value = true
+  }
+  string AggregateScarletRobbi {
+    _hidden_value = true
+  }
+  json GrandEmeraldFrances2 {
+    _hidden_value = true
+  }
+  json SlipperyAquamarineBarbe3 {
+    _hidden_value = true
+  }
+  string GentleIndigoJobyna4 {
+    _hidden_value = true
+  }
+  "List<number>" SpottyYellowWynn3 {
+    _hidden_value = true
+  }
+  serviceid RichTomatoStoddard3 {
+    _hidden_value = true
+  }
+  boolean ReadyChocolateDebera3 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" FollowingBrownCyndie3 {
+    _hidden_value = true
+  }
+  serviceid ElectoralLimeKristina3 {
+    _hidden_value = true
+  }
+  number PsychologicalIvoryJojo2 {
+    _hidden_value = true
+  }
+  serviceid MarvellousMoccasinLorraine {
+    _hidden_value = true
+  }
+  hidden_boolean EntireEmeraldFranciska2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = false
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = true
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = false
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = false
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = false
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = false
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = false
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = true
+      },
+    ]
+  }
+  json NumerousHarlequinJanaye4 {
+    _hidden_value = true
+  }
+  boolean GoverningTanSephira {
+    _hidden_value = true
+  }
+  boolean AggressiveMaroonLilith {
+    _hidden_value = true
+  }
+  HandsomeVioletVal = 867
+  UnitedCopperEddie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ImpressiveIndigoJessa3 = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  SunnyTanShari = "Why is Peter Pan always flying? Because he Neverlands."
+  ProposedGoldGweneth2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

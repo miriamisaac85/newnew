@@ -1,0 +1,30 @@
+type dummy.ResponsibleCoffeeDevin {
+  annotations {
+    string OrangeWhiteViola {
+    }
+    serviceid_number OverwhelmingPurpleMyrna {
+    }
+    serviceid GladGoldGlyn {
+    }
+    boolean RelatedIndigoJessalyn {
+    }
+    dummy.DEFAULT NetGoldGlenda {
+    }
+    dummy.DEFAULT ProudHarlequinJan {
+    }
+  }
+  string GenerousLavenderKayley {
+    _hidden_value = true
+  }
+  OrangeWhiteViola = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  OverwhelmingPurpleMyrna = 954
+  GladGoldGlyn = "I'll tell you what often gets over looked... garden fences."
+  RelatedIndigoJessalyn = false
+  NetGoldGlenda = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  ProudHarlequinJan = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  _hidden_value = true
+}

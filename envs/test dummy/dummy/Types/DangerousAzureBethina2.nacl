@@ -1,0 +1,140 @@
+type dummy.DangerousAzureBethina2 {
+  annotations {
+    serviceid_number DecentMoccasinLora {
+    }
+    boolean ExcitingGreenIssy {
+    }
+    string MagentaWhiteVenita2 {
+    }
+    serviceid_number KnownMaroonLexi3 {
+    }
+    serviceid DeliciousApricotArdis3 {
+    }
+    string GloriousScarletRosanne3 {
+    }
+  }
+  string StrangeCoralEdna3 {
+    _hidden_value = true
+  }
+  boolean NearbyLimeKoralle {
+    _hidden_value = true
+  }
+  number DullMoccasinLorette {
+    _hidden_value = true
+  }
+  hidden_boolean NationalBlushCherida2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = true
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = false
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = false
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = false
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = false
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = false
+      },
+    ]
+  }
+  serviceid_number RevolutionaryJadeKaryl3 {
+    _hidden_value = true
+  }
+  boolean SurprisedEmeraldFredelia2 {
+    _hidden_value = true
+  }
+  json GrimScarletRonnica {
+    _hidden_value = true
+  }
+  json ExtendedPlumMildrid {
+    _hidden_value = true
+  }
+  json UnhappyMaroonLicha4 {
+    _hidden_value = true
+  }
+  DecentMoccasinLora = 354
+  ExcitingGreenIssy = false
+  MagentaWhiteVenita2 = "What do you call two barracuda fish?  A Pairacuda!"
+  KnownMaroonLexi3 = 978
+  DeliciousApricotArdis3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  GloriousScarletRosanne3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

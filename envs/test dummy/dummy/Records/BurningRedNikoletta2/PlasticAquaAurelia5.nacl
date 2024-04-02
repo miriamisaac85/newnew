@@ -1,0 +1,17 @@
+dummy.BurningRedNikoletta2 PlasticAquaAurelia5 {
+  MoralCyanFelisha = [
+    358,
+    957,
+    906,
+    908,
+    108,
+    518,
+    740,
+    827,
+    977,
+    933,
+  ]
+  EerieAzureBevvy3 = 461
+  _parent = dummy.UniversalJadeKacie3
+  _alias = "PlasticAquaAurelia5_alias"
+}

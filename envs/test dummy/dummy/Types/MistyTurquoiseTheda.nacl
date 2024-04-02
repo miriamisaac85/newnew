@@ -1,0 +1,121 @@
+type dummy.MistyTurquoiseTheda {
+  annotations {
+    dummy.SteepAmberAlyce GeneticMoccasinLorilee {
+    }
+    json IllEmeraldGael {
+    }
+    number NakedMagentaLebbie {
+    }
+    serviceid_number BraveBeigeCaitlin {
+    }
+  }
+  number ModernAmethystAmelina {
+    _hidden_value = true
+  }
+  string ProductivePlumMollie {
+    _hidden_value = true
+  }
+  serviceid ImplicitSapphireReyna {
+    _hidden_value = true
+  }
+  hidden_boolean HelpfulBlackCarolin2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = false
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = true
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = false
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = false
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = false
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = true
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+    ]
+  }
+  string DemocraticCrimsonEngracia {
+    _hidden_value = true
+  }
+  string BindingSalmonPetra {
+    _hidden_value = true
+  }
+  serviceid AvailableBlushCicely {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EndlessPeachMarjory {
+    _hidden_value = true
+  }
+  serviceid_number AboveIvoryJoycelin {
+    _hidden_value = true
+  }
+  "List<json>" BadVioletToinette {
+    _hidden_value = true
+  }
+  GeneticMoccasinLorilee = false
+  IllEmeraldGael = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  NakedMagentaLebbie = 458
+  BraveBeigeCaitlin = 92
+  _hidden_value = true
+}

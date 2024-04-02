@@ -1,0 +1,6 @@
+dummy.SubtleMoccasinLuciana3 GeneticMoccasinLorie3 {
+  GayOrangeMariette5 = "What do you call two barracuda fish?  A Pairacuda!"
+  RuralCoralElse2 = "What creature is smarter than a talking parrot? A spelling bee."
+  _parent = dummy.ShyTomatoStormie
+  _alias = "GeneticMoccasinLorie3_alias"
+}

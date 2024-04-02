@@ -1,0 +1,23 @@
+type dummy.MarineMagentaLeonanie2 {
+  annotations {
+    string MushyWhiteVerine2 {
+    }
+    hidden_boolean AtomicScarletRory {
+    }
+    hidden_boolean VerticalOliveLyssa3 {
+    }
+    dummy.DEFAULT PrivateBronzeCordy2 {
+    }
+    string SuperPeachMarthe {
+    }
+  }
+  serviceid_number GenuineGreenIssi {
+    _hidden_value = true
+  }
+  MushyWhiteVerine2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  PrivateBronzeCordy2 = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  SuperPeachMarthe = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

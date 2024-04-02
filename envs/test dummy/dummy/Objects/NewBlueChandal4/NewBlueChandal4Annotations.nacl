@@ -1,0 +1,75 @@
+type dummy.NewBlueChandal4 {
+  annotations {
+    json AdditionalCopperDotti5 {
+    }
+    boolean StaticSapphireRebekah2 {
+    }
+    boolean ClinicalIndigoJere3 {
+    }
+    serviceid PremierOrangeMari3 {
+    }
+    number ScreechingApricotAnthea3 {
+    }
+    json ProvincialPeachMarita5 {
+    }
+    serviceid SmoothAquamarineBarbey4 {
+    }
+    boolean HappyBrownDaisie2 {
+    }
+    boolean MarginalLimeKristan {
+    }
+    serviceid JollyBlackCarri4 {
+    }
+    serviceid_number ExistingCoffeeDesiree {
+    }
+    json VoluntaryGoldGwenni3 {
+    }
+    serviceid_number ExperimentalLavenderKatine5 {
+    }
+    string ShortAmaranthAgace5 {
+    }
+    serviceid ExuberantBlackCarleen2 {
+    }
+    hidden_boolean BlueCoffeeDian3 {
+    }
+    boolean TerritorialSalmonPrisca4 {
+    }
+    dummy.InherentRedNoami ToughYellowYsabel2 {
+    }
+    number HostileOrangeMariel5 {
+    }
+    hidden_boolean HighAmberAllis {
+    }
+    hidden_boolean ColonialPeachMaudie5 {
+    }
+    string FirmGrayHeddi {
+    }
+    hidden_boolean AggressiveMaroonLilias3 {
+    }
+    number WrongBrownCrissy2 {
+    }
+    dummy.AnxiousHarlequinJanna ExactLimeKorella2 {
+    }
+  }
+  AdditionalCopperDotti5 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  StaticSapphireRebekah2 = true
+  ClinicalIndigoJere3 = true
+  PremierOrangeMari3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  ScreechingApricotAnthea3 = 214
+  ProvincialPeachMarita5 = "Im only familiar with 25 letters in the English language. I dont know why."
+  SmoothAquamarineBarbey4 = "How come the stadium got hot after the game? Because all of the fans left."
+  HappyBrownDaisie2 = true
+  MarginalLimeKristan = true
+  JollyBlackCarri4 = "Why was it called the dark ages? Because of all the knights. "
+  ExistingCoffeeDesiree = 738
+  VoluntaryGoldGwenni3 = "I'll tell you what often gets over looked... garden fences."
+  ExperimentalLavenderKatine5 = 968
+  ShortAmaranthAgace5 = "A steak pun is a rare medium well done."
+  ExuberantBlackCarleen2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  TerritorialSalmonPrisca4 = false
+  HostileOrangeMariel5 = 325
+  FirmGrayHeddi = "I'll tell you what often gets over looked... garden fences."
+  WrongBrownCrissy2 = 458
+  ExactLimeKorella2 = file("DevotedRosePauletta4.txt")
+  _alias = "NewBlueChandal4_alias"
+}

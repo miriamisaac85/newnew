@@ -1,0 +1,153 @@
+type dummy.RidiculousMoccasinLiz {
+  annotations {
+    json LengthySapphireRania5 {
+    }
+    number IndustrialBrownDannie {
+    }
+    string ImperialLavenderKaterine5 {
+    }
+    boolean WeirdSilverRoze3 {
+    }
+    string MajorBlushClair {
+    }
+  }
+  serviceid SymbolicPurpleNadiya3 {
+    _hidden_value = true
+  }
+  number ObjectiveOrangeMamie {
+    _hidden_value = true
+  }
+  boolean SportingSilverRyann {
+    _hidden_value = true
+  }
+  string PeculiarPlumMichelina4 {
+    _hidden_value = true
+  }
+  serviceid MilitaryChocolateDarline {
+    _hidden_value = true
+  }
+  json SeparateCopperDoroteya {
+    _hidden_value = true
+  }
+  serviceid_number SparklingTurquoiseTildi2 {
+    _hidden_value = true
+  }
+  boolean AngryAquamarineBenedikta2 {
+    _hidden_value = true
+  }
+  number ClearBlushCinnamon3 {
+    _hidden_value = true
+  }
+  hidden_boolean ModernAmethystAmeline5 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = true
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = true
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = true
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = true
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = false
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = true
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = false
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = false
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = true
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+    ]
+  }
+  dummy.FashionableSapphireRenae FatAmaranthAbigale5 {
+    RealBlushClarie = 545
+    WholeBronzeClotilda = "My first time using an elevator was an uplifting experience. The second time let me down."
+    UnitedCopperEddi = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    RearPurpleMuire = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    GeographicalPeachMarlena = 815
+    EventualTanSharona = true
+    PureGrayHenryetta = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    SymbolicPurpleNadia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    RespectiveSalmonPerry = "I'll tell you what often gets over looked... garden fences."
+    DeepChocolateDelora = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    RattyWhiteWenda = 861
+    RareWhiteWaly = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    UrgentLimeKristy = true
+    _hidden_value = true
+  }
+  string WorkingCrimsonEmmaline2 {
+    _hidden_value = true
+  }
+  serviceid ProvincialPeachMarita4 {
+    _hidden_value = true
+  }
+  json WeakFuchsiaGayleen {
+    _hidden_value = true
+  }
+  LengthySapphireRania5 = "Why do birds fly south for the winter? Because it's too far to walk."
+  IndustrialBrownDannie = 169
+  ImperialLavenderKaterine5 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  WeirdSilverRoze3 = true
+  MajorBlushClair = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

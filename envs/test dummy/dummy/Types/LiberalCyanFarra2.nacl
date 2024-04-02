@@ -1,0 +1,265 @@
+type dummy.LiberalCyanFarra2 {
+  annotations {
+    dummy.ExtraCoffeeDianemarie DeliberateRedNoelle {
+    }
+    string MassiveAmaranthAdria {
+    }
+    json LovelyBlackCass {
+    }
+    serviceid_number HostileOrangeMarieann3 {
+    }
+    serviceid DisciplinarySilverRycca2 {
+    }
+    number LevelJadeKamila2 {
+    }
+  }
+  boolean StaticSapphireRebecka {
+    _hidden_value = true
+  }
+  serviceid_number LightTurquoiseTessy2 {
+    _hidden_value = true
+  }
+  serviceid RetiredSilverSarah3 {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula UnpleasantRedNonna {
+    _hidden_value = true
+  }
+  string TenderYellowYnes2 {
+    _hidden_value = true
+  }
+  number BareLavenderKelley3 {
+    _hidden_value = true
+  }
+  dummy.TameTomatoSusannah HurtAzureBlythe5 {
+    TragicRosePauline = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ScornfulBeigeBrianna = false
+    _hidden_value = true
+  }
+  json OddWhiteVinita4 {
+    _hidden_value = true
+  }
+  hidden_boolean MiniatureAmaranthAdriane {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = false
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = true
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = false
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = false
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = true
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = false
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = false
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = false
+      },
+    ]
+  }
+  serviceid_number DivineRoseOpal2 {
+    _hidden_value = true
+  }
+  json CreativeJadeKania3 {
+    _hidden_value = true
+  }
+  string ColossalAmaranthAbbye5 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UnacceptableSalmonPenelope3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OlympicRedNessi2 {
+    _hidden_value = true
+  }
+  serviceid_number OrdinaryWhiteVirgie {
+    _hidden_value = true
+  }
+  number ShiveringAquaBabette2 {
+    _hidden_value = true
+  }
+  string TinyCyanEula3 {
+    _hidden_value = true
+  }
+  json EmotionalGrayHertha2 {
+    _hidden_value = true
+  }
+  string DeterminedOrangeMarilyn2 {
+    _hidden_value = true
+  }
+  "List<serviceid>" ConstitutionalHarlequinJayne {
+    _hidden_value = true
+  }
+  json HomelyTurquoiseTerza {
+    _hidden_value = true
+  }
+  number SignificantBrownDanna3 {
+    _hidden_value = true
+  }
+  boolean HarshOliveMahala2 {
+    _hidden_value = true
+  }
+  string FriendlyVioletTrudie3 {
+    _hidden_value = true
+  }
+  boolean DeterminedOrangeMarillin5 {
+    _hidden_value = true
+  }
+  string ShiveringAquaBabette3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConvincingSalmonPeggie2 {
+    _hidden_value = true
+  }
+  serviceid_number FrontCopperEalasaid {
+    _hidden_value = true
+  }
+  hidden_boolean StatutoryGrayHarriott {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = false
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = true
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = true
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = true
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = false
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = true
+      },
+    ]
+  }
+  dummy.OccupationalOliveMadel MelodicApricotAnnamaria2 {
+    DifferentBlueCharleen = 578
+    AverageCoralElysha2 = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    WearyBeigeBrooke = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    PoisedTurquoiseThomasin = 729
+    _hidden_value = true
+  }
+  DeliberateRedNoelle = true
+  MassiveAmaranthAdria = "Why was it called the dark ages? Because of all the knights. "
+  LovelyBlackCass = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  HostileOrangeMarieann3 = 561
+  DisciplinarySilverRycca2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  LevelJadeKamila2 = 839
+  _hidden_value = true
+}

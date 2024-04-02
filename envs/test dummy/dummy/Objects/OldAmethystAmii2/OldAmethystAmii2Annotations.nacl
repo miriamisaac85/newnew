@@ -1,0 +1,54 @@
+type dummy.OldAmethystAmii2 {
+  annotations {
+    string LongAmaranthAdina4 {
+    }
+    json DepressedAzureBetty {
+    }
+    string StillIndigoJinny3 {
+    }
+    hidden_boolean LoudLavenderKial6 {
+    }
+    serviceid_number RepresentativePinkMerralee2 {
+    }
+    dummy.StupidGreenIvy SharpFuchsiaGeralda2 {
+    }
+    string PersonalBronzeCoralyn4 {
+    }
+    json FaintMaroonLiva2 {
+    }
+    serviceid_number KindBlackCaryl4 {
+    }
+    serviceid_number JollyVioletVallie2 {
+    }
+    hidden_boolean BloodyTomatoTallulah2 {
+    }
+    boolean FutureCoffeeDolores3 {
+    }
+    serviceid_number AnnualCoffeeDonnamarie2 {
+    }
+    dummy.SurprisingGreenHynda BlondeTomatoTalia3 {
+    }
+    number VeryCoralElfreda2 {
+    }
+    serviceid_number StableHarlequinJasmine2 {
+    }
+    hidden_boolean BoldPlumMinette5 {
+    }
+    json VisualGreenInge {
+    }
+  }
+  LongAmaranthAdina4 = "How come the stadium got hot after the game? Because all of the fans left."
+  DepressedAzureBetty = "Whoever invented the knock-knock joke should get a no bell prize."
+  StillIndigoJinny3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  RepresentativePinkMerralee2 = 925
+  PersonalBronzeCoralyn4 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  FaintMaroonLiva2 = "Why did the kid cross the playground? To get to the other slide."
+  KindBlackCaryl4 = 752
+  JollyVioletVallie2 = 521
+  FutureCoffeeDolores3 = true
+  AnnualCoffeeDonnamarie2 = 484
+  VeryCoralElfreda2 = 56
+  StableHarlequinJasmine2 = 591
+  VisualGreenInge = "Slept like a log last night  woke up in the fireplace."
+  _alias = "OldAmethystAmii2_alias"
+}

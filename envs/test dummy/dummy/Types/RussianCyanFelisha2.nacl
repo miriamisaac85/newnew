@@ -1,0 +1,64 @@
+type dummy.RussianCyanFelisha2 {
+  annotations {
+    serviceid_number IntensiveMoccasinLura2 {
+    }
+    serviceid_number QuaintWhiteVivie {
+    }
+    number InterestingChocolateDeloris2 {
+    }
+    string UpsetOliveMabel6 {
+    }
+    json TastelessAquaAshleigh2 {
+    }
+  }
+  string CivicTanShellie3 {
+    _hidden_value = true
+  }
+  "List<dummy.StatutoryGrayHarriette>" JealousAzureBobbie2 {
+    BeneficialPlumMonika = "Dad Im hungry  Hi hungry Im dad"
+    PossibleBlushCheryl = "Why didnt the skeleton cross the road? Because he had no guts."
+    SpotlessTurquoiseTilly = "Im only familiar with 25 letters in the English language. I dont know why."
+    SadYellowWilletta = {
+      legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    }
+    RottenApricotArielle = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    WetGrayHedi = false
+    PrettyWhiteVirgie = true
+    NetGoldGlen = 470
+    FreeBronzeCody = 773
+    _hidden_value = true
+  }
+  serviceid_number LtdCoralEloisa {
+    _hidden_value = true
+  }
+  number ConcreteOliveLynette {
+    _hidden_value = true
+  }
+  json NervousAzureBrana {
+    _hidden_value = true
+  }
+  json BoldPlumMinnaminnie4 {
+    _hidden_value = true
+  }
+  serviceid ArabLimeKirsteni {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SimpleBronzeCorliss2 {
+    _hidden_value = true
+  }
+  string WrittenGreenIvette2 {
+    _hidden_value = true
+  }
+  serviceid RigidPinkMerrily2 {
+    _hidden_value = true
+  }
+  json FashionableSapphireRena2 {
+    _hidden_value = true
+  }
+  IntensiveMoccasinLura2 = 993
+  QuaintWhiteVivie = 64
+  InterestingChocolateDeloris2 = 720
+  UpsetOliveMabel6 = "Slept like a log last night  woke up in the fireplace."
+  TastelessAquaAshleigh2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

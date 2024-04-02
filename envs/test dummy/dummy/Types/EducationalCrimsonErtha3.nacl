@@ -1,0 +1,132 @@
+type dummy.EducationalCrimsonErtha3 {
+  annotations {
+    serviceid_number SwissPlumMikaela2 {
+    }
+    hidden_boolean ConventionalGoldGusella3 {
+    }
+    boolean StraightAmethystAlyson {
+    }
+  }
+  string OverseasIvoryJudy3 {
+    _hidden_value = true
+  }
+  string AmericanBronzeCorrie3 {
+    _hidden_value = true
+  }
+  json DemocraticCrimsonEngracia3 {
+    _hidden_value = true
+  }
+  number BadVioletToma6 {
+    _hidden_value = true
+  }
+  serviceid PreparedCyanFelicia2 {
+    _hidden_value = true
+  }
+  number ComingSilverSandi3 {
+    _hidden_value = true
+  }
+  json KindOrangeMarice5 {
+    _hidden_value = true
+  }
+  serviceid SuccessiveMoccasinLoise2 {
+    _hidden_value = true
+  }
+  string ScreechingApricotAnthea {
+    _hidden_value = true
+  }
+  serviceid HostileOrangeMariel4 {
+    _hidden_value = true
+  }
+  string GrievingAzureBlakeley2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MobilePurpleMorissa {
+    _hidden_value = true
+  }
+  hidden_boolean CombativeAquamarineBerta5 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = false
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = true
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = false
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = false
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = false
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = false
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = false
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = false
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+    ]
+  }
+  string ProudHarlequinJanaya {
+    _hidden_value = true
+  }
+  json WelshGrayHazel2 {
+    _hidden_value = true
+  }
+  SwissPlumMikaela2 = 484
+  StraightAmethystAlyson = true
+  _hidden_value = true
+}

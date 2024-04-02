@@ -1,0 +1,142 @@
+type dummy.RedundantSalmonPhilippe {
+  annotations {
+    serviceid_number UnemployedIvoryJoline {
+    }
+    hidden_boolean AnxiousAquamarineBeret {
+    }
+    hidden_boolean ReasonableCrimsonEmalee {
+    }
+    boolean AppallingTanSelene {
+    }
+  }
+  serviceid_number BlushingTomatoTalya2 {
+    _hidden_value = true
+  }
+  string GentleIndigoJobyna3 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" EvilPeachMaurine {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = true
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = true
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = true
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+    ]
+  }
+  hidden_boolean ConventionalGoldGus {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = true
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = true
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+    ]
+  }
+  boolean CondemnedAquamarineBertie {
+    _hidden_value = true
+  }
+  string CompleteCoffeeDevondra {
+    _hidden_value = true
+  }
+  json GracefulTurquoiseTerrijo {
+    _hidden_value = true
+  }
+  boolean TightIvoryJoelynn {
+    _hidden_value = true
+  }
+  number PopularChocolateDaveta {
+    _hidden_value = true
+  }
+  UnemployedIvoryJoline = 102
+  AppallingTanSelene = false
+  _hidden_value = true
+}

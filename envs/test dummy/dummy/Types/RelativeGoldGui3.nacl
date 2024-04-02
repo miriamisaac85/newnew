@@ -1,0 +1,65 @@
+type dummy.RelativeGoldGui3 {
+  annotations {
+    serviceid_number RoastedWhiteWenona {
+    }
+    serviceid BrokenAmaranthAila {
+    }
+    boolean PriorRosePauli3 {
+    }
+    serviceid_number JudicialJadeKarissa {
+    }
+    number FatAmaranthAbigael2 {
+    }
+    dummy.DEFAULT HungryMaroonLisa {
+    }
+  }
+  hidden_boolean AsianMaroonLindie2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = false
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = false
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+    ]
+  }
+  boolean SingleBronzeCoral2 {
+    _hidden_value = true
+  }
+  RoastedWhiteWenona = 832
+  BrokenAmaranthAila = "Whoever invented the knock-knock joke should get a no bell prize."
+  PriorRosePauli3 = true
+  JudicialJadeKarissa = 952
+  FatAmaranthAbigael2 = 973
+  HungryMaroonLisa = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  _hidden_value = true
+}

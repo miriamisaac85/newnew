@@ -1,0 +1,60 @@
+type dummy.HandsomeOliveMala3 {
+  annotations {
+    hidden_boolean PlasticAquaAuria4 {
+    }
+    boolean KnownMaroonLexi4 {
+    }
+    hidden_boolean LivelyPeachMarylou3 {
+    }
+    boolean SlimRoseOlympe3 {
+    }
+    dummy.KeyCopperDorothee2 FondSalmonPietra {
+    }
+    serviceid LowAmberAlly4 {
+    }
+    boolean BlindIvoryJuanita7 {
+    }
+    json PreliminaryOliveLyndsey {
+    }
+    serviceid_number ElectoralLimeKristien {
+    }
+    serviceid_number SharpAquaBabbette2 {
+    }
+    boolean GeographicalPeachMarley4 {
+    }
+    boolean SuddenGoldGusty5 {
+    }
+    hidden_boolean ImaginativeTanSeline7 {
+    }
+    hidden_boolean ShallowAmberAlmire4 {
+    }
+    hidden_boolean DecisiveSalmonPennie4 {
+    }
+    serviceid KindVioletVally4 {
+    }
+    serviceid EuropeanBronzeConcettina4 {
+    }
+    serviceid_number FeministPlumMimi3 {
+    }
+    hidden_boolean BroadAmberAlie {
+    }
+    serviceid LovelyCoralEllie6 {
+    }
+    dummy.MistyTurquoiseTheda SimpleBronzeCorly2 {
+    }
+  }
+  KnownMaroonLexi4 = false
+  SlimRoseOlympe3 = true
+  LowAmberAlly4 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  BlindIvoryJuanita7 = true
+  PreliminaryOliveLyndsey = "I'll tell you what often gets over looked... garden fences."
+  ElectoralLimeKristien = 159
+  SharpAquaBabbette2 = 201
+  GeographicalPeachMarley4 = false
+  SuddenGoldGusty5 = true
+  KindVioletVally4 = "What do you call two barracuda fish?  A Pairacuda!"
+  EuropeanBronzeConcettina4 = "Why didnt the skeleton cross the road? Because he had no guts."
+  FeministPlumMimi3 = 350
+  LovelyCoralEllie6 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _alias = "HandsomeOliveMala3_alias"
+}

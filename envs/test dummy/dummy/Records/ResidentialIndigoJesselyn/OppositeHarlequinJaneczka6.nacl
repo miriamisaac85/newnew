@@ -1,0 +1,22 @@
+dummy.ResidentialIndigoJesselyn OppositeHarlequinJaneczka6 {
+  LightTurquoiseThalia2 = 313
+  TightAquamarineBeckie = 935
+  PrivateBronzeCordula3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  IntellectualJadeKalina4 = false
+  ArabLimeKirsten2 = 911
+  ChangingJadeKassey6 = 675
+  SilkyAquaBabs4 = 101
+  PerfectBlackCate6 = true
+  NeighbouringPurpleNananne4 = "Why did the tomato blush? Because it saw the salad dressing."
+  ResponsibleCoffeeDevin2 = 745
+  MagentaWhiteVelma3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  CrazyVioletTresa3 = file("FreeBronzeColeen.txt")
+  DullVioletTrish6 = true
+  MightyTanShandie4 = "Why do birds fly south for the winter? Because it's too far to walk."
+  WarmCopperDulcy4 = [
+    "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.",
+  ]
+  VocationalTanShalne = 710
+  _parent = dummy.FoolishSapphireReine
+  _alias = "OppositeHarlequinJaneczka6_alias"
+}

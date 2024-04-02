@@ -1,0 +1,121 @@
+type dummy.MoaningApricotAnnecorinne {
+  annotations {
+    serviceid_number UnusualGoldGladys {
+    }
+    hidden_boolean LikelyBlushClarice {
+    }
+    string HugeCoffeeDoralynn {
+    }
+  }
+  json ConstantEmeraldFranny {
+    _hidden_value = true
+  }
+  number DisappointedMagentaLauryn {
+    _hidden_value = true
+  }
+  dummy.ExistingCoffeeDeva FragileTealSofie {
+    PetiteAmaranthAdrianna = "Whoever invented the knock-knock joke should get a no bell prize."
+    ExtraordinaryIndigoJessy = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    HonChocolateDaveen = false
+    ProfoundPinkMerla = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    UpperCyanFaunie = "A steak pun is a rare medium well done."
+    LegalBrownDahlia = 720
+    FeministPlumMina = "What do you do on a remote island? Try and find the TV island it belongs to."
+    RelaxedPlumMinni = 917
+    FilthyTurquoiseTera2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    RareEmeraldFlorentia = 863
+    EducationalCrimsonEryn = 388
+    _hidden_value = true
+  }
+  serviceid_number SuperbMagentaLaurena {
+    _hidden_value = true
+  }
+  serviceid_number GastricMagentaLavinia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BiologicalMaroonLetizia {
+    _hidden_value = true
+  }
+  serviceid_number ChangingJadeKassey2 {
+    _hidden_value = true
+  }
+  hidden_boolean SurroundingOrangeMargette3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = true
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = true
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = true
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = false
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+    ]
+  }
+  json MonthlyMaroonLinnea {
+    _hidden_value = true
+  }
+  json IsraeliPinkMerilee {
+    _hidden_value = true
+  }
+  json EnergeticBlackCarie {
+    _hidden_value = true
+  }
+  serviceid BigVioletTonia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT IsraeliPinkMerilee2 {
+    _hidden_value = true
+  }
+  UnusualGoldGladys = 458
+  HugeCoffeeDoralynn = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

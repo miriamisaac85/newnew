@@ -1,0 +1,88 @@
+type dummy.EligiblePurpleNelia2 {
+  annotations {
+    dummy.UnemployedIvoryJoly SquareAmberAlverta {
+    }
+    boolean NormalBrownDana2 {
+    }
+    dummy.DEFAULT AdvisoryOrangeMarie {
+    }
+    serviceid AssociatedMaroonLindsy2 {
+    }
+    serviceid HorizontalSalmonPrissie2 {
+    }
+    number BoilingAmaranthAgneta2 {
+    }
+    json TerribleBeigeBriney4 {
+    }
+  }
+  serviceid RoyalBrownCristina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RealTomatoStephine3 {
+    _hidden_value = true
+  }
+  serviceid_number GreasyAquaAubine2 {
+    _hidden_value = true
+  }
+  boolean PhilosophicalRedNoel {
+    _hidden_value = true
+  }
+  number ConvincingSalmonPeggy4 {
+    _hidden_value = true
+  }
+  hidden_boolean ProtestantScarletRobina3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = true
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = true
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = false
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+    ]
+  }
+  SquareAmberAlverta = false
+  NormalBrownDana2 = false
+  AdvisoryOrangeMarie = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  AssociatedMaroonLindsy2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  HorizontalSalmonPrissie2 = "What do you call two barracuda fish?  A Pairacuda!"
+  BoilingAmaranthAgneta2 = 736
+  TerribleBeigeBriney4 = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

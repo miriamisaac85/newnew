@@ -1,0 +1,54 @@
+type dummy.ReadyChocolateDebee {
+  annotations {
+    string SympatheticPinkMeagan {
+    }
+    number MushyWhiteVerile3 {
+    }
+    hidden_boolean SmoggyTurquoiseTiffie2 {
+    }
+    dummy.MarkedMagentaLatrena PlasticAquaAuria3 {
+    }
+    dummy.CriminalFuchsiaGeorgia RealTomatoStephine5 {
+    }
+    string BoilingAmaranthAgneta3 {
+    }
+    serviceid_number ScaredSapphireRahel3 {
+    }
+    dummy.DelightfulSilverRosy SacredRedNorina3 {
+    }
+    dummy.OccupationalOliveMadel EerieAzureBianca3 {
+    }
+    number CompulsoryOrangeMalorie5 {
+    }
+    serviceid RemainingGoldGolda2 {
+    }
+    serviceid_number StraightHarlequinJaimie3 {
+    }
+    json InnovativeTanSheelah3 {
+    }
+    json SharpFuchsiaGeorgine4 {
+    }
+    json CompulsoryOrangeMallory4 {
+    }
+    serviceid FamousTealSofia {
+    }
+    string ImpressiveIndigoJerrylee3 {
+    }
+    hidden_boolean AutonomousScarletRonny2 {
+    }
+  }
+  SympatheticPinkMeagan = "Whoever invented the knock-knock joke should get a no bell prize."
+  MushyWhiteVerile3 = 162
+  BoilingAmaranthAgneta3 = "Why did the tomato blush? Because it saw the salad dressing."
+  ScaredSapphireRahel3 = 529
+  EerieAzureBianca3 = false
+  CompulsoryOrangeMalorie5 = 618
+  RemainingGoldGolda2 = "Slept like a log last night  woke up in the fireplace."
+  StraightHarlequinJaimie3 = 413
+  InnovativeTanSheelah3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  SharpFuchsiaGeorgine4 = "What creature is smarter than a talking parrot? A spelling bee."
+  CompulsoryOrangeMallory4 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  FamousTealSofia = "Why was it called the dark ages? Because of all the knights. "
+  ImpressiveIndigoJerrylee3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _alias = "ReadyChocolateDebee_alias"
+}

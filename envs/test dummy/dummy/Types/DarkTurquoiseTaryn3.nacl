@@ -1,0 +1,145 @@
+type dummy.DarkTurquoiseTaryn3 {
+  annotations {
+    boolean InnocentMagentaLarina2 {
+    }
+    json ValuableGoldGwynne3 {
+    }
+    serviceid DisappointedMagentaLaurianne2 {
+    }
+    serviceid MoaningApricotAnnamarie2 {
+    }
+    boolean OrdinaryCopperEdie2 {
+    }
+  }
+  serviceid MagneticPeachMavra {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" PsychologicalIvoryJojo3 {
+    _hidden_value = true
+  }
+  hidden_boolean DisastrousScarletRochette {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = true
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = true
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = true
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = true
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = false
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = false
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = false
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = true
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = false
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = true
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+    ]
+  }
+  number PowerfulTomatoStephanie4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PoliteSalmonRaf {
+    _hidden_value = true
+  }
+  InnocentMagentaLarina2 = true
+  ValuableGoldGwynne3 = "Why didnt the skeleton cross the road? Because he had no guts."
+  DisappointedMagentaLaurianne2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  MoaningApricotAnnamarie2 = "Why is Peter Pan always flying? Because he Neverlands."
+  OrdinaryCopperEdie2 = false
+  _hidden_value = true
+}

@@ -1,0 +1,93 @@
+type dummy.InfluentialMoccasinLorette {
+  annotations {
+    dummy.DEFAULT ProudBlueCatherin {
+    }
+    hidden_boolean ChemicalGreenIsadora {
+    }
+    string AmusedBeigeCacilie3 {
+    }
+  }
+  serviceid HomelessSilverSalome {
+    _hidden_value = true
+  }
+  serviceid_number AshamedScarletRosalynd {
+    _hidden_value = true
+  }
+  hidden_boolean HistoricalCyanEvangelina {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = true
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = false
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = false
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = false
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = true
+      },
+    ]
+  }
+  number NecessaryBronzeCorabella {
+    _hidden_value = true
+  }
+  ProudBlueCatherin = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  AmusedBeigeCacilie3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

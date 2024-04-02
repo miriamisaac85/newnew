@@ -1,0 +1,195 @@
+type dummy.AcuteLavenderKenna2 {
+  annotations {
+    boolean UsedFuchsiaGeorgeanna2 {
+    }
+    dummy.DEFAULT LoudApricotAnnabelle3 {
+    }
+    json ExperimentalLavenderKatine4 {
+    }
+    json ShaggyAquaAvril2 {
+    }
+  }
+  boolean AgriculturalGoldGoldarina {
+    _hidden_value = true
+  }
+  string WetGrayHedwig2 {
+    _hidden_value = true
+  }
+  serviceid_number DisabledHarlequinJanie3 {
+    _hidden_value = true
+  }
+  serviceid_number WiseLavenderKatharyn3 {
+    _hidden_value = true
+  }
+  dummy.NumerousHarlequinJandy TremendousMagentaLenore {
+    PuzzledTomatoStephie = true
+    SpecificBrownDarb = 74
+    PersistentRosePamela = 117
+    WorryingSilverRozamond = "Why do birds fly south for the winter? Because it's too far to walk."
+    GreenVioletUla = "Why is Peter Pan always flying? Because he Neverlands."
+    TinyAmaranthAgnes = false
+    SuccessfulBlueCatlee = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    FamousTealSissie = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    KindOrangeMarice = "Did you know that protons have mass? I didn't even know they were catholic."
+    CriticalCrimsonEstele = "Why did the tomato blush? Because it saw the salad dressing."
+    LuckyBlackCassandry = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    FundamentalFuchsiaGenevieve = "Why did the tomato blush? Because it saw the salad dressing."
+    NutritiousWhiteVina = "Slept like a log last night  woke up in the fireplace."
+    CanadianPlumMinerva = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ExactLimeKore = "Slept like a log last night  woke up in the fireplace."
+    RenewedSilverSandy = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    PeculiarPlumMicheline = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SmoothAquamarineBarbey = false
+    NarrowAmberAllys = 679
+    EnvironmentalCoffeeDomini = 52
+    CombinedOliveMaighdiln = false
+    NuttyWhiteVikki = 227
+    TroubledBeigeBritta = "Why didnt the skeleton cross the road? Because he had no guts."
+    KindBlackCaryl2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+    _hidden_value = true
+  }
+  string TroubledBeigeBrittan4 {
+    _hidden_value = true
+  }
+  boolean ProductivePlumMolly2 {
+    _hidden_value = true
+  }
+  number MinimumIndigoJerrie4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DreadfulPinkMerrilee {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PreciousWhiteVitoria {
+    _hidden_value = true
+  }
+  boolean HeadPinkMeg5 {
+    _hidden_value = true
+  }
+  string SteepAmethystAlys5 {
+    _hidden_value = true
+  }
+  number StrangeYellowWinnifred4 {
+    _hidden_value = true
+  }
+  serviceid_number DelightfulSilverRowena2 {
+    _hidden_value = true
+  }
+  number PregnantLimeKizzie {
+    _hidden_value = true
+  }
+  hidden_boolean ProperCoralElisabet3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = true
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = '''
+Whoever invented the knock-knock joke should get a no bell prize.
+What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
+What creature is smarter than a talking parrot? A spelling bee.
+I thought my wife was joking when she said she'd leave me if I didn't stop signing "I'm A Believer"... Then I saw her face.
+'''
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = true
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = false
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = false
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = true
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = true
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = false
+      },
+    ]
+  }
+  serviceid AcceptedTanSerena2 {
+    _hidden_value = true
+  }
+  serviceid_number HelpfulBlackCarolina4 {
+    _hidden_value = true
+  }
+  boolean AdorableTomatoSybyl {
+    _hidden_value = true
+  }
+  UsedFuchsiaGeorgeanna2 = false
+  LoudApricotAnnabelle3 = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  ExperimentalLavenderKatine4 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ShaggyAquaAvril2 = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

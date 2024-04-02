@@ -1,0 +1,63 @@
+type dummy.PrimitiveOrangeMargalo5 {
+  annotations {
+    dummy.MisleadingRoseOriana EstablishedMagentaLeigha {
+    }
+    boolean ScatteredAquaAveril3 {
+    }
+    serviceid_number EasyBronzeColleen {
+    }
+    number BlueVioletTorrie2 {
+    }
+    serviceid_number QuickAmethystAmmamaria4 {
+    }
+    number UsefulChocolateDee {
+    }
+    json PaleGrayHarrietta4 {
+    }
+    dummy.StrictLavenderKatha3 ShiveringAquaBabbie {
+    }
+    number ValidLavenderKerrin4 {
+    }
+    json OrdinaryWhiteViolet4 {
+    }
+    string AncientAmethystAmabelle8 {
+    }
+    hidden_boolean HomelyTurquoiseTessa3 {
+    }
+    boolean AustralianJadeKat9 {
+    }
+    dummy.AccurateIndigoJillene ScreechingApricotAnthea4 {
+    }
+    string AtomicScarletRora2 {
+    }
+    string ConstitutionalHarlequinJaymee4 {
+    }
+    json WelshGrayHattie7 {
+    }
+    hidden_boolean OutsideGrayHelga {
+    }
+    boolean SecureMoccasinLou4 {
+    }
+    boolean RichCoffeeDoreen {
+    }
+    string LimitedCoralElladine3 {
+    }
+  }
+  ScatteredAquaAveril3 = true
+  EasyBronzeColleen = 180
+  BlueVioletTorrie2 = 203
+  QuickAmethystAmmamaria4 = 300
+  UsefulChocolateDee = 875
+  PaleGrayHarrietta4 = "I'll tell you what often gets over looked... garden fences."
+  ValidLavenderKerrin4 = 513
+  OrdinaryWhiteViolet4 = "Why was it called the dark ages? Because of all the knights. "
+  AncientAmethystAmabelle8 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  AustralianJadeKat9 = true
+  AtomicScarletRora2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ConstitutionalHarlequinJaymee4 = "To be Frank, I'd have to change my name."
+  WelshGrayHattie7 = "Why is Peter Pan always flying? Because he Neverlands."
+  SecureMoccasinLou4 = true
+  RichCoffeeDoreen = false
+  LimitedCoralElladine3 = "Why didnt the skeleton cross the road? Because he had no guts."
+  _alias = "PrimitiveOrangeMargalo5_alias"
+}

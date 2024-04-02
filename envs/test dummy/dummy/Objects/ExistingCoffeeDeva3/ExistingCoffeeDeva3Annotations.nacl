@@ -1,0 +1,55 @@
+type dummy.ExistingCoffeeDeva3 {
+  annotations {
+    json WearyBeigeBrunhilda4 {
+    }
+    boolean OtherBlueCelinka2 {
+    }
+    json IrrelevantPurpleNanette5 {
+    }
+    serviceid RoastedWhiteWenona3 {
+    }
+    hidden_boolean GrimScarletRonnica3 {
+    }
+    boolean FinalBrownDalenna4 {
+    }
+    serviceid_number OpenBronzeCleo3 {
+    }
+    json RobustYellowWileen4 {
+    }
+    boolean FriendlyVioletTrudie4 {
+    }
+    dummy.LiberalCyanFarra2 ExcitedBlackCarissa3 {
+    }
+    hidden_boolean AverageAmaranthAaren4 {
+    }
+    string GladGoldGlynda3 {
+    }
+    boolean LeadingCrimsonEm2 {
+    }
+    dummy.HomelessAzureBliss CostlySapphireReeva2 {
+    }
+    serviceid_number AverageCoralElysee4 {
+    }
+    boolean BlueCoffeeDiana2 {
+    }
+    dummy.StatutoryGrayHarriette LeftCoffeeDennie3 {
+    }
+    boolean VaryingPurpleNelli2 {
+    }
+  }
+  WearyBeigeBrunhilda4 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  OtherBlueCelinka2 = false
+  IrrelevantPurpleNanette5 = "Dad Im hungry  Hi hungry Im dad"
+  RoastedWhiteWenona3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  FinalBrownDalenna4 = true
+  OpenBronzeCleo3 = 430
+  RobustYellowWileen4 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  FriendlyVioletTrudie4 = false
+  GladGoldGlynda3 = "What creature is smarter than a talking parrot? A spelling bee."
+  LeadingCrimsonEm2 = true
+  AverageCoralElysee4 = 433
+  BlueCoffeeDiana2 = false
+  LeftCoffeeDennie3 = true
+  VaryingPurpleNelli2 = true
+  _alias = "ExistingCoffeeDeva3_alias"
+}

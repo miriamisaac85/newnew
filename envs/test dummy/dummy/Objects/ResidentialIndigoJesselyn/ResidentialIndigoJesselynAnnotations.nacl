@@ -1,0 +1,60 @@
+type dummy.ResidentialIndigoJesselyn {
+  annotations {
+    serviceid_number DistinctTurquoiseTatum3 {
+    }
+    boolean DifficultTealSimonette2 {
+    }
+    hidden_boolean ThenSalmonPhoebe5 {
+    }
+    hidden_boolean FullBlushChristi {
+    }
+    boolean EstimatedOrangeMargit2 {
+    }
+    json ComparativePlumMitzi3 {
+    }
+    json UltimateJadeKamillah3 {
+    }
+    serviceid ImplicitSapphireReyna2 {
+    }
+    dummy.ElectricGreenIngrid2 EstablishedMagentaLeigh4 {
+    }
+    dummy.CuddlyAmberAlberta2 KindOrangeMaribeth4 {
+    }
+    hidden_boolean ExtendedPlumMilissent3 {
+    }
+    serviceid_number ProspectiveRedNetty2 {
+    }
+    serviceid CourageousBeigeCammie {
+    }
+    json ReducedPinkMeta {
+    }
+    string PracticalCopperDoris3 {
+    }
+    serviceid_number ModernAmethystAmelina3 {
+    }
+    number SilkyAquaBabs3 {
+    }
+    serviceid_number FinalBrownDalenna3 {
+    }
+    boolean SweetGreenHollyanne3 {
+    }
+    serviceid OtherBlueCelinda {
+    }
+  }
+  DistinctTurquoiseTatum3 = 52
+  DifficultTealSimonette2 = false
+  EstimatedOrangeMargit2 = false
+  ComparativePlumMitzi3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  UltimateJadeKamillah3 = "What do you call two barracuda fish?  A Pairacuda!"
+  ImplicitSapphireReyna2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ProspectiveRedNetty2 = 873
+  CourageousBeigeCammie = "Why was it called the dark ages? Because of all the knights. "
+  ReducedPinkMeta = "Why was it called the dark ages? Because of all the knights. "
+  PracticalCopperDoris3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  ModernAmethystAmelina3 = 762
+  SilkyAquaBabs3 = 606
+  FinalBrownDalenna3 = 784
+  SweetGreenHollyanne3 = false
+  OtherBlueCelinda = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _alias = "ResidentialIndigoJesselyn_alias"
+}

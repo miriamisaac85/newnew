@@ -1,0 +1,53 @@
+type dummy.ProudHarlequinJan2 {
+  annotations {
+    serviceid_number ConservationPlumMollee2 {
+    }
+    number DeliberateRedNoellyn4 {
+    }
+    json IndirectPeachMarya3 {
+    }
+    dummy.AncientEmeraldFlora2 AnxiousHarlequinJannelle2 {
+    }
+    hidden_boolean HostileOrangeMariel6 {
+    }
+    hidden_boolean DeterminedBeigeCandie2 {
+    }
+    json IraqiOliveMadelle5 {
+    }
+    dummy.DiverseRedNicola2 StupidGreenIzabel2 {
+    }
+    dummy.TechnicalCopperEdee2 SuperTomatoSusana4 {
+    }
+    string TallAmaranthAggy3 {
+    }
+    boolean DiverseRedNickie2 {
+    }
+    dummy.AgreeableBeigeBunnie3 TallAmaranthAgna {
+    }
+    number SpatialSalmonPerle3 {
+    }
+    number MarkedMagentaLauraine3 {
+    }
+    serviceid MeltedAquaAurel5 {
+    }
+    number ProtestantScarletRobinet {
+    }
+    string LinearRedNessy3 {
+    }
+    serviceid_number BlindIvoryJudith {
+    }
+  }
+  ConservationPlumMollee2 = 470
+  DeliberateRedNoellyn4 = 496
+  IndirectPeachMarya3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  IraqiOliveMadelle5 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  TallAmaranthAggy3 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  DiverseRedNickie2 = false
+  SpatialSalmonPerle3 = 300
+  MarkedMagentaLauraine3 = 338
+  MeltedAquaAurel5 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ProtestantScarletRobinet = 856
+  LinearRedNessy3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  BlindIvoryJudith = 417
+  _alias = "ProudHarlequinJan2_alias"
+}

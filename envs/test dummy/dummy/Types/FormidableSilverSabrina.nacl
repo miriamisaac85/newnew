@@ -1,0 +1,32 @@
+type dummy.FormidableSilverSabrina {
+  annotations {
+    dummy.DEFAULT FavourablePinkMercie4 {
+    }
+    hidden_boolean RequiredMaroonLethia4 {
+    }
+    number IncredibleRosePattie5 {
+    }
+    hidden_boolean BumpyAmaranthAilene2 {
+    }
+    json GradualSilverSalli2 {
+    }
+  }
+  string CausalSapphireRenee {
+    _hidden_value = true
+  }
+  boolean DramaticGoldHaily3 {
+    _hidden_value = true
+  }
+  serviceid NoisyApricotAnnemarie4 {
+    _hidden_value = true
+  }
+  "List<number>" CurrentBrownCynthie {
+    _hidden_value = true
+  }
+  FavourablePinkMercie4 = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  IncredibleRosePattie5 = 579
+  GradualSilverSalli2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

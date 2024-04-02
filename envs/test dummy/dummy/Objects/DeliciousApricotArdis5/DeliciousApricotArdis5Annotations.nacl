@@ -1,0 +1,68 @@
+type dummy.DeliciousApricotArdis5 {
+  annotations {
+    string OverseasIvoryJudy4 {
+    }
+    serviceid WorkingCrimsonEmma2 {
+    }
+    serviceid_number ComingSilverSandi4 {
+    }
+    boolean NursingSalmonPetunia2 {
+    }
+    dummy.OccupationalOliveMadel CarefulCyanFerdinande5 {
+    }
+    serviceid DefiantAzureBetteann {
+    }
+    serviceid FlexibleLavenderKathryn {
+    }
+    dummy.SteepAmberAlyce PracticalCopperDorisa {
+    }
+    dummy.AcuteLavenderKeri FlyingMoccasinLorelei4 {
+    }
+    string CleverTealSibel2 {
+    }
+    hidden_boolean LiberalCyanFarand3 {
+    }
+    number SevereEmeraldGabrielle3 {
+    }
+    serviceid SolarRosePamella4 {
+    }
+    boolean DrunkPeachMarleah2 {
+    }
+    json AncientAmethystAmabelle6 {
+    }
+    string SovietChocolateDarelle {
+    }
+    serviceid StormyTurquoiseTim5 {
+    }
+    number CooingAmethystAngelita4 {
+    }
+    hidden_boolean SocialistHarlequinJacquelynn2 {
+    }
+    number SolidGreenIbby {
+    }
+    hidden_boolean NumerousHarlequinJandy2 {
+    }
+    serviceid_number AlertTomatoSydney2 {
+    }
+  }
+  OverseasIvoryJudy4 = "Dad Im hungry  Hi hungry Im dad"
+  WorkingCrimsonEmma2 = "Why did the kid cross the playground? To get to the other slide."
+  ComingSilverSandi4 = 37
+  NursingSalmonPetunia2 = false
+  CarefulCyanFerdinande5 = true
+  DefiantAzureBetteann = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  FlexibleLavenderKathryn = "Im only familiar with 25 letters in the English language. I dont know why."
+  PracticalCopperDorisa = true
+  FlyingMoccasinLorelei4 = 514
+  CleverTealSibel2 = "What do you call two barracuda fish?  A Pairacuda!"
+  SevereEmeraldGabrielle3 = 125
+  SolarRosePamella4 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  DrunkPeachMarleah2 = false
+  AncientAmethystAmabelle6 = "Why didnt the skeleton cross the road? Because he had no guts."
+  SovietChocolateDarelle = "What did one nut say as he chased another nut?  I'm a cashew!"
+  StormyTurquoiseTim5 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  CooingAmethystAngelita4 = 244
+  SolidGreenIbby = 857
+  AlertTomatoSydney2 = 301
+  _alias = "DeliciousApricotArdis5_alias"
+}

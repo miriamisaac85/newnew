@@ -1,0 +1,64 @@
+type dummy.RoastedWhiteWendy {
+  annotations {
+    dummy.AdverseSapphireRanna ZanyBlueCelie3 {
+    }
+    boolean FancyTurquoiseTedi7 {
+    }
+    dummy.LongAmaranthAdina SillyBlueCathlene3 {
+    }
+    serviceid_number LostJadeKaralynn5 {
+    }
+    hidden_boolean BlankPinkMelodie {
+    }
+    dummy.AcuteLavenderKeri LoyalPurpleNatalee2 {
+    }
+    dummy.SelectiveRedNorrie2 OldBlueChandra2 {
+    }
+    json IntimateSilverRuthann4 {
+    }
+    string MightyWhiteVerena2 {
+    }
+    boolean ExplicitMaroonLise4 {
+    }
+    boolean SelectedPlumMillicent2 {
+    }
+    json SeriousBrownDani2 {
+    }
+    dummy.DisturbingTealSherill RomanticMagentaLeanna {
+    }
+    hidden_boolean RudeTanShaylah3 {
+    }
+    dummy.IllAzureBobbee ImplicitSapphireReyna3 {
+    }
+    hidden_boolean RadicalGrayHelen2 {
+    }
+    dummy.PersonalBronzeCordelia3 TartYellowWynny {
+    }
+    string UndergroundScarletRomonda4 {
+    }
+    dummy.NumerousHarlequinJandy ElatedBeigeCandy {
+    }
+    dummy.MobilePurpleMoselle MightyWhiteVerene3 {
+    }
+    dummy.SwissPlumMikaela UsefulChocolateDedra {
+    }
+    serviceid_number AwkwardPeachMarylee7 {
+    }
+  }
+  ZanyBlueCelie3 = 125
+  FancyTurquoiseTedi7 = false
+  SillyBlueCathlene3 = file("ExcessSilverSapphire4.txt")
+  LostJadeKaralynn5 = 117
+  LoyalPurpleNatalee2 = 614
+  IntimateSilverRuthann4 = "Why didnt the skeleton cross the road? Because he had no guts."
+  MightyWhiteVerena2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  ExplicitMaroonLise4 = true
+  SelectedPlumMillicent2 = false
+  SeriousBrownDani2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  ImplicitSapphireReyna3 = true
+  UndergroundScarletRomonda4 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ElatedBeigeCandy = 285
+  UsefulChocolateDedra = file("NotablePeachMartie4.txt")
+  AwkwardPeachMarylee7 = 27
+  _alias = "RoastedWhiteWendy_alias"
+}

@@ -1,0 +1,64 @@
+type dummy.LowAmberAllyn3 {
+  annotations {
+    string GeneticMoccasinLorianne3 {
+    }
+    serviceid LiberalCyanFarah {
+    }
+    dummy.RunningPlumMirabel4 AvailableBlushChrystel2 {
+    }
+    serviceid_number CommunistFuchsiaGisele {
+    }
+    serviceid_number ConventionalGoldGussie4 {
+    }
+    serviceid_number LateBlushChristabella6 {
+    }
+    serviceid_number TeenageScarletRobinetta4 {
+    }
+    boolean ObnoxiousAzureBrandi3 {
+    }
+    json PregnantLimeKlara3 {
+    }
+    hidden_boolean GreatVioletTwyla2 {
+    }
+    boolean AdequateGrayHildegarde {
+    }
+    serviceid_number ZanyYellowZulema5 {
+    }
+    boolean MagicOrangeMarabel {
+    }
+    hidden_boolean ComprehensiveGreenHyacintha2 {
+    }
+    serviceid NoisySilverSal3 {
+    }
+    boolean LivelyPeachMarylin4 {
+    }
+    boolean FancyTurquoiseTeirtza3 {
+    }
+    json SubsequentFuchsiaGilbertina {
+    }
+    hidden_boolean ComparableMoccasinLois2 {
+    }
+    json EerieAzureBeverly3 {
+    }
+    json GreenVioletUla3 {
+    }
+  }
+  GeneticMoccasinLorianne3 = "To be Frank, I'd have to change my name."
+  LiberalCyanFarah = "To be Frank, I'd have to change my name."
+  CommunistFuchsiaGisele = 78
+  ConventionalGoldGussie4 = 775
+  LateBlushChristabella6 = 251
+  TeenageScarletRobinetta4 = 314
+  ObnoxiousAzureBrandi3 = true
+  PregnantLimeKlara3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AdequateGrayHildegarde = true
+  ZanyYellowZulema5 = 48
+  MagicOrangeMarabel = true
+  NoisySilverSal3 = "To be Frank, I'd have to change my name."
+  LivelyPeachMarylin4 = false
+  FancyTurquoiseTeirtza3 = false
+  SubsequentFuchsiaGilbertina = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  EerieAzureBeverly3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  GreenVioletUla3 = "Why didnt the skeleton cross the road? Because he had no guts."
+  _alias = "LowAmberAllyn3_alias"
+}

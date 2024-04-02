@@ -1,0 +1,135 @@
+type dummy.CalmPurpleNancee2 {
+  annotations {
+    serviceid RussianCyanFelipa2 {
+    }
+    serviceid_number UgliestYellowZara {
+    }
+    serviceid_number TurkishPurpleMoyra2 {
+    }
+    number AwfulAquamarineBernete {
+    }
+    json HeavyChocolateDavina {
+    }
+    serviceid_number SplendidBlueCatie {
+    }
+    number CreativeJadeKania2 {
+    }
+  }
+  boolean MarkedMagentaLauraine {
+    _hidden_value = true
+  }
+  string SmoothIndigoJemmie {
+    _hidden_value = true
+  }
+  string OtherBlueCelinka {
+    _hidden_value = true
+  }
+  string OverallCrimsonEmmalynne {
+    _hidden_value = true
+  }
+  hidden_boolean FlakyAmberAli {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = false
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = false
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = false
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = false
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = true
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = true
+      },
+    ]
+  }
+  boolean BurningRedNiki {
+    _hidden_value = true
+  }
+  boolean GastricMagentaLavinia2 {
+    _hidden_value = true
+  }
+  json ForeignBronzeCoriss {
+    _hidden_value = true
+  }
+  serviceid_number HappyVioletVale {
+    _hidden_value = true
+  }
+  RussianCyanFelipa2 = "What creature is smarter than a talking parrot? A spelling bee."
+  UgliestYellowZara = 575
+  TurkishPurpleMoyra2 = 242
+  AwfulAquamarineBernete = 845
+  HeavyChocolateDavina = "Slept like a log last night  woke up in the fireplace."
+  SplendidBlueCatie = 285
+  CreativeJadeKania2 = 81
+  _hidden_value = true
+}

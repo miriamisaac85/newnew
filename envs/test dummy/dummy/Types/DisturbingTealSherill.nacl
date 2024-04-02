@@ -1,0 +1,219 @@
+type dummy.DisturbingTealSherill {
+  annotations {
+    hidden_boolean SeriousBrownDanella {
+    }
+    hidden_boolean HelpfulHarlequinJanette {
+    }
+    boolean GrubbyAquaAubrey {
+    }
+    number ManyWhiteVere {
+    }
+    hidden_boolean RichTomatoStoddard {
+    }
+    hidden_boolean ExtremeHarlequinJacinthe {
+    }
+  }
+  dummy.DEFAULT FluffyAmberAlia {
+    _hidden_value = true
+  }
+  boolean FarBlushChristie {
+    _hidden_value = true
+  }
+  dummy.CognitiveSalmonQuinn FellowJadeJustine {
+    GreatVioletTwyla = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    WorthwhilePinkMelita = "What creature is smarter than a talking parrot? A spelling bee."
+    GlamorousTurquoiseTeresina = "Why did the tomato blush? Because it saw the salad dressing."
+    AgriculturalGoldGoldi = 260
+    FreshCopperDyane = 95
+    _hidden_value = true
+  }
+  number FrightenedMagentaLaverne {
+    _hidden_value = true
+  }
+  string FavourablePinkMercie2 {
+    _hidden_value = true
+  }
+  serviceid RandomMoccasinLoren3 {
+    _hidden_value = true
+  }
+  string WoodenGreenHonoria {
+    _hidden_value = true
+  }
+  json LikelyBlushClari {
+    _hidden_value = true
+  }
+  "List<boolean>" HotCoffeeDeonne {
+    _hidden_value = true
+  }
+  boolean EquivalentJadeKaleena {
+    _hidden_value = true
+  }
+  "List<json>" FriendlyBlackCarlynne {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EasyTealSisely {
+    _hidden_value = true
+  }
+  dummy.LongAmaranthAdina LtdCoralElnora2 {
+    GrubbyAquaAubry = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    GloriousScarletRose2 = true
+    _hidden_value = true
+  }
+  json AwfulAquamarineBernelle {
+    _hidden_value = true
+  }
+  serviceid_number ModernTealStar2 {
+    _hidden_value = true
+  }
+  number ElatedBeigeCaralie {
+    _hidden_value = true
+  }
+  serviceid_number RottenApricotArielle2 {
+    _hidden_value = true
+  }
+  string LateAmethystAmargo {
+    _hidden_value = true
+  }
+  serviceid SteadyAquamarineBathsheba {
+    _hidden_value = true
+  }
+  number GrossLavenderKetti {
+    _hidden_value = true
+  }
+  json UncertainMagentaLelah {
+    _hidden_value = true
+  }
+  number InterestedCoffeeDierdre {
+    _hidden_value = true
+  }
+  serviceid_number QuietWhiteViviene2 {
+    _hidden_value = true
+  }
+  string TerribleBeigeBrinn2 {
+    _hidden_value = true
+  }
+  hidden_boolean MightyTanShandie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = false
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = false
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = true
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = true
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = false
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = true
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = false
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = true
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = false
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = false
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = false
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = false
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = false
+      },
+    ]
+  }
+  json DepressedAzureBettina {
+    _hidden_value = true
+  }
+  string SexualCopperDyna {
+    _hidden_value = true
+  }
+  GrubbyAquaAubrey = true
+  ManyWhiteVere = 73
+  _hidden_value = true
+}

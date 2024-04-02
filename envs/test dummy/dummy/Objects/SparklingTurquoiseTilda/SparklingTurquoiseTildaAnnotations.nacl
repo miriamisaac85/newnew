@@ -1,0 +1,59 @@
+type dummy.SparklingTurquoiseTilda {
+  annotations {
+    string CatholicHarlequinJami {
+    }
+    boolean BrokenAmaranthAilee3 {
+    }
+    string FantasticSapphireRegina4 {
+    }
+    boolean ThirstyAquaAstra2 {
+    }
+    string SharpFuchsiaGeralda {
+    }
+    hidden_boolean ObedientBlackCassie3 {
+    }
+    serviceid UglyTurquoiseTiphanie4 {
+    }
+    json TenseBeigeBrigitte2 {
+    }
+    serviceid HelpfulHarlequinJanetta {
+    }
+    serviceid_number TraditionalChocolateDeirdre4 {
+    }
+    string AmateurSalmonPia4 {
+    }
+    dummy.AmateurSalmonPier2 InstantSapphireRandie3 {
+    }
+    boolean DeepAmberAllene2 {
+    }
+    boolean NationalBlushCherida3 {
+    }
+    string UrgentLimeKrysta6 {
+    }
+    serviceid_number PaleGrayHarriet2 {
+    }
+    serviceid FlatGrayHannis3 {
+    }
+    dummy.FierceAzureBillye BoldPlumMinette4 {
+    }
+    number BizarreTanScarlett {
+    }
+  }
+  CatholicHarlequinJami = "What creature is smarter than a talking parrot? A spelling bee."
+  BrokenAmaranthAilee3 = false
+  FantasticSapphireRegina4 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ThirstyAquaAstra2 = false
+  SharpFuchsiaGeralda = "Why did the kid cross the playground? To get to the other slide."
+  UglyTurquoiseTiphanie4 = "Why is Peter Pan always flying? Because he Neverlands."
+  TenseBeigeBrigitte2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  HelpfulHarlequinJanetta = "Im only familiar with 25 letters in the English language. I dont know why."
+  TraditionalChocolateDeirdre4 = 298
+  AmateurSalmonPia4 = "Slept like a log last night  woke up in the fireplace."
+  DeepAmberAllene2 = true
+  NationalBlushCherida3 = false
+  UrgentLimeKrysta6 = "I'll tell you what often gets over looked... garden fences."
+  PaleGrayHarriet2 = 99
+  FlatGrayHannis3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  BizarreTanScarlett = 476
+  _alias = "SparklingTurquoiseTilda_alias"
+}

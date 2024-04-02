@@ -1,0 +1,70 @@
+type dummy.ConfusedMaroonLil {
+  annotations {
+    boolean ShyTomatoStormie2 {
+    }
+    number ProbableSalmonPhyllys3 {
+    }
+    serviceid TotalBrownDaniella2 {
+    }
+    hidden_boolean SatisfiedHarlequinJeana4 {
+    }
+    hidden_boolean FunnyBlackCarmel {
+    }
+    dummy.DEFAULT ExtraCoffeeDiane2 {
+    }
+  }
+  json FlexibleLavenderKathlin {
+    _hidden_value = true
+  }
+  serviceid FriendlyBlackCarmel {
+    _hidden_value = true
+  }
+  boolean MonthlyMaroonLinnea2 {
+    _hidden_value = true
+  }
+  serviceid ArchitecturalRosePatrice {
+    _hidden_value = true
+  }
+  string AestheticSapphireRea2 {
+    _hidden_value = true
+  }
+  number OralLimeKylila2 {
+    _hidden_value = true
+  }
+  number MotionlessTurquoiseTheo {
+    _hidden_value = true
+  }
+  serviceid WarmCopperDulcy {
+    _hidden_value = true
+  }
+  dummy.LowBlushChristy RetiredSilverSarah2 {
+    ExplicitMaroonLisetta2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    UnevenAquamarineBeitris = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    TameTomatoSusette = "Why was it called the dark ages? Because of all the knights. "
+    KindOrangeMaribeth = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    BrokenAmaranthAilee = 633
+    RelievedSalmonPetronia = true
+    ComplexCopperDrucie = "What creature is smarter than a talking parrot? A spelling bee."
+    PublicBlushChrysler = true
+    AverageCoralElysha = "What do you call two barracuda fish?  A Pairacuda!"
+    EntireEmeraldFranciska = 873
+    CurrentBrownDacey = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  string FuriousRedNicolina2 {
+    _hidden_value = true
+  }
+  serviceid_number BizarreTanSeana2 {
+    _hidden_value = true
+  }
+  string VaguePinkMel {
+    _hidden_value = true
+  }
+  ShyTomatoStormie2 = true
+  ProbableSalmonPhyllys3 = 519
+  TotalBrownDaniella2 = "Slept like a log last night  woke up in the fireplace."
+  ExtraCoffeeDiane2 = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  _hidden_value = true
+}

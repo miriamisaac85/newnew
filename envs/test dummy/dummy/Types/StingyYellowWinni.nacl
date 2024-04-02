@@ -1,0 +1,189 @@
+type dummy.StingyYellowWinni {
+  annotations {
+    string MiniatureAmaranthAdriana4 {
+    }
+    hidden_boolean TraditionalChocolateDeirdre3 {
+    }
+    json IsraeliPinkMerilee3 {
+    }
+    number RainyWhiteWalliw2 {
+    }
+    string BadBlushCicily3 {
+    }
+    number WetAmberAlicea {
+    }
+    string DeadTealSile3 {
+    }
+  }
+  dummy.DEFAULT SpecialBronzeClea {
+    _hidden_value = true
+  }
+  json CleverJadeKarena {
+    _hidden_value = true
+  }
+  json MidPinkMelisent2 {
+    _hidden_value = true
+  }
+  dummy.ExtremeHarlequinJackelyn SelectiveRedNorrie3 {
+    IncCrimsonErmentrude = 193
+    AlliedPlumMisti = false
+    InternalCoralEdy = "Dad Im hungry  Hi hungry Im dad"
+    DevelopedPinkMerilyn = 937
+    CrookedAmberAlisha = "Why is Peter Pan always flying? Because he Neverlands."
+    AmericanBronzeCorrianne = 774
+    TragicRosePaulita = 643
+    ConceptualTanShelagh = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    StrangeTurquoiseTimmie = "Did you know that protons have mass? I didn't even know they were catholic."
+    NastyWhiteVeronica = "Did you know that protons have mass? I didn't even know they were catholic."
+    OldAmethystAmie = 491
+    _hidden_value = true
+  }
+  number LeftCoffeeDenys4 {
+    _hidden_value = true
+  }
+  serviceid_number DampMoccasinLorrin {
+    _hidden_value = true
+  }
+  serviceid ThickEmeraldFilide {
+    _hidden_value = true
+  }
+  number NearFuchsiaGerianne4 {
+    _hidden_value = true
+  }
+  hidden_boolean IdenticalLimeKorney3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = true
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = '''
+What do you do on a remote island? Try and find the TV island it belongs to.
+Dad Im hungry  Hi hungry Im dad
+Whoever invented the knock-knock joke should get a no bell prize.
+What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+'''
+        indexed = false
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = true
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = true
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = true
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = false
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+    ]
+  }
+  number FaintAmethystAnia2 {
+    _hidden_value = true
+  }
+  serviceid LongAmethystAme3 {
+    _hidden_value = true
+  }
+  string SmoothAquamarineBarbey3 {
+    _hidden_value = true
+  }
+  dummy.EntitledIvoryJuliann SubjectiveSapphireRhonda3 {
+    _hidden_value = true
+  }
+  boolean BlindIvoryJudi7 {
+    _hidden_value = true
+  }
+  json DeadTealSile4 {
+    _hidden_value = true
+  }
+  serviceid RealisticMoccasinLolly {
+    _hidden_value = true
+  }
+  MiniatureAmaranthAdriana4 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  IsraeliPinkMerilee3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  RainyWhiteWalliw2 = 948
+  BadBlushCicily3 = "Im only familiar with 25 letters in the English language. I dont know why."
+  WetAmberAlicea = 822
+  DeadTealSile3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

@@ -1,0 +1,375 @@
+type dummy.NumerousHarlequinJanaye {
+  annotations {
+    number IntimateSilverRuthe {
+    }
+    serviceid ImmediateCrimsonEmeline {
+    }
+    hidden_boolean FriendlyVioletTrudie2 {
+    }
+    serviceid_number GoodBlueCesya {
+    }
+    string FrightenedAzureBlaire2 {
+    }
+  }
+  boolean CompetentSalmonPepita {
+    _hidden_value = true
+  }
+  number DetailedCrimsonEmlynne {
+    _hidden_value = true
+  }
+  hidden_boolean LonelyAzureBobette2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = false
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = true
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = false
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = true
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = true
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = false
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = false
+      },
+    ]
+  }
+  string DisturbingTealSherie {
+    _hidden_value = true
+  }
+  json DisappointedMagentaLaurie {
+    _hidden_value = true
+  }
+  serviceid SillyIndigoJoeann {
+    _hidden_value = true
+  }
+  number MassGreenIlise2 {
+    _hidden_value = true
+  }
+  boolean AdvancedHarlequinJacinta {
+    _hidden_value = true
+  }
+  dummy.KeenGrayHannah TroubledBeigeBrittani2 {
+    ExoticScarletRina = false
+    LiquidRoseOttilie = 13
+    WidespreadHarlequinJacquie = "To be Frank, I'd have to change my name."
+    HolyIndigoJemie = 334
+    SlowAmethystAnalise = "What creature is smarter than a talking parrot? A spelling bee."
+    MarginalLimeKriste = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    AcuteLavenderKerianne = 583
+    HugeCoffeeDoralynne = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ShrillApricotAntonella = 541
+    PublicBlushChrysa = "Dad Im hungry  Hi hungry Im dad"
+    PleasantIvoryJosee = 645
+    ExcessiveOliveMadelena = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ScaredSalmonRafaelita2 = "Whoever invented the knock-knock joke should get a no bell prize."
+    IndustrialBrownDanny = 918
+    DoubtfulRosePansie = "A steak pun is a rare medium well done."
+    InteriorPurpleNathalie = 640
+    BlackVioletTonya = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    CurvedAmberAlix = 708
+    _hidden_value = true
+  }
+  hidden_boolean GleamingTurquoiseTeri3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = false
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = true
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = true
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = false
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = false
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = false
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = false
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = true
+      },
+    ]
+  }
+  hidden_boolean GrimScarletRonni {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = false
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = true
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = true
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = false
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = true
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = false
+      },
+    ]
+  }
+  serviceid BumpyAmaranthAilene {
+    _hidden_value = true
+  }
+  boolean RightBlushCherise {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula AdverseSapphireRanique {
+    _hidden_value = true
+  }
+  string SatisfactoryLimeKrissy2 {
+    _hidden_value = true
+  }
+  json LatinLimeKonstance2 {
+    _hidden_value = true
+  }
+  string ContinuousIvoryJsandye {
+    _hidden_value = true
+  }
+  number CommunistGoldGisella {
+    _hidden_value = true
+  }
+  serviceid_number FoolishAzureBinnie {
+    _hidden_value = true
+  }
+  string LiableLimeKimberlyn {
+    _hidden_value = true
+  }
+  boolean ItalianGoldGray {
+    _hidden_value = true
+  }
+  json ProperCoralElinore {
+    _hidden_value = true
+  }
+  json WelcomeIvoryJosy {
+    _hidden_value = true
+  }
+  number ApparentCyanFawnia {
+    _hidden_value = true
+  }
+  IntimateSilverRuthe = 658
+  ImmediateCrimsonEmeline = "What do you call two barracuda fish?  A Pairacuda!"
+  GoodBlueCesya = 111
+  FrightenedAzureBlaire2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

@@ -1,0 +1,225 @@
+type dummy.ScornfulBeigeBrianna4 {
+  serviceid StrategicHarlequinJeannie2 {
+  }
+  json SpecificChocolateDarby2 {
+  }
+  number SharedPinkMelessa2 {
+  }
+  string FriendlyVioletTrudy4 {
+  }
+  hidden_boolean EuropeanBronzeConchita2 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+    _important_values = [
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = true
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = false
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = false
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = true
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = false
+      },
+    ]
+  }
+  number IndependentChocolateDelinda4 {
+  }
+  number SpecifiedSalmonPris {
+  }
+  string AnnualCoffeeDonnamarie4 {
+  }
+  number SparklingTurquoiseTiffy4 {
+  }
+  serviceid_number AgreeableBeigeBunni2 {
+  }
+  dummy.AlrightGoldGoldina CreativeJadeKania4 {
+    RivalPurpleNara = 600
+    SingleBronzeCoral = 339
+    ProfoundPinkMerlina = 376
+    RelativeGoldGui = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    AngryFuchsiaGilli = "Whoever invented the knock-knock joke should get a no bell prize."
+    QuickestWhiteVyky = "A steak pun is a rare medium well done."
+    AgreedTanSelia = "What do you do on a remote island? Try and find the TV island it belongs to."
+    IntenseLavenderKattie = false
+    ExcitingGreenIvett = "A steak pun is a rare medium well done."
+  }
+  string NumerousAmethystAngelia {
+  }
+  string VerticalOliveLynsey3 {
+  }
+  serviceid MeanIvoryJulee6 {
+  }
+  number PinkIndigoJennica3 {
+  }
+  json ResultingPurpleNadeen2 {
+  }
+  number FunnyVioletTuesday {
+  }
+  hidden_boolean InterestedCoffeeDina4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = true
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = false
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = true
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = true
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = false
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = true
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = true
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = false
+      },
+    ]
+  }
+  boolean ClearBlushCindy3 {
+  }
+  dummy.SquareJadeKaia SwissPlumMikaela4 {
+    AwfulHarlequinJaquith = "What do you do on a remote island? Try and find the TV island it belongs to."
+    LightCopperDulciana = "Whoever invented the knock-knock joke should get a no bell prize."
+    EnviousAzureBiddie = 759
+    GeneralBlushChristean2 = 431
+    SilentGrayHarlene3 = "Why do birds fly south for the winter? Because it's too far to walk."
+    SelectiveRedNovelia = 541
+  }
+  string BlackVioletTonye5 {
+  }
+}

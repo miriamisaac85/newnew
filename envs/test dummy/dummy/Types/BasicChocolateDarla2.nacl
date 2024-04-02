@@ -1,0 +1,154 @@
+type dummy.BasicChocolateDarla2 {
+  annotations {
+    hidden_boolean HardBronzeCordie2 {
+    }
+    dummy.ExtremeHarlequinJackelyn PassivePurpleMyranda {
+    }
+    serviceid_number CleverJadeKari2 {
+    }
+    number QuietCoralEirena {
+    }
+    string OverallCrimsonEmmalynne4 {
+    }
+    number GreatBlueChantalle2 {
+    }
+    boolean MiserableSalmonRachael3 {
+    }
+    serviceid_number WateryYellowZena {
+    }
+  }
+  number MightyTanShandra {
+    _hidden_value = true
+  }
+  serviceid_number MutualLimeKimberly3 {
+    _hidden_value = true
+  }
+  serviceid EfficientGoldGrethel {
+    _hidden_value = true
+  }
+  serviceid ConvenientMagentaLegra {
+    _hidden_value = true
+  }
+  boolean DepressedAzureBetti {
+    _hidden_value = true
+  }
+  number VeryCoralEleonore {
+    _hidden_value = true
+  }
+  boolean EnviousAzureBiddy3 {
+    _hidden_value = true
+  }
+  string AfricanFuchsiaGiacinta {
+    _hidden_value = true
+  }
+  hidden_boolean ActiveCopperDreddy3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = true
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = false
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = true
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = false
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = false
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = true
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = true
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+    ]
+  }
+  serviceid_number UnfairMaroonLilas {
+    _hidden_value = true
+  }
+  boolean RapidGrayHilda2 {
+    _hidden_value = true
+  }
+  serviceid_number DecentMoccasinLonni {
+    _hidden_value = true
+  }
+  PassivePurpleMyranda = false
+  CleverJadeKari2 = 542
+  QuietCoralEirena = 606
+  OverallCrimsonEmmalynne4 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  GreatBlueChantalle2 = 178
+  MiserableSalmonRachael3 = true
+  WateryYellowZena = 513
+  _hidden_value = true
+}

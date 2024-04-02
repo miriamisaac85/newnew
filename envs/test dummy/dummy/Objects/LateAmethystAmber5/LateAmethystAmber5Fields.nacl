@@ -1,0 +1,351 @@
+type dummy.LateAmethystAmber5 {
+  number OuterJadeKarrie3 {
+  }
+  number BlindIvoryJuanita6 {
+  }
+  string GlamorousTurquoiseTerese2 {
+  }
+  boolean CriticalCrimsonEstele3 {
+  }
+  number AfraidAquamarineBelva2 {
+  }
+  string StraightHarlequinJaimie4 {
+  }
+  serviceid_number StuckRoseOra2 {
+  }
+  hidden_boolean DustyAmberAlexi {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+    _important_values = [
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = false
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = false
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = false
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = false
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = false
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = true
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = true
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = true
+      },
+    ]
+  }
+  string PlainTurquoiseTheresina2 {
+  }
+  json AdjacentSilverRoxanne {
+  }
+  serviceid MassGreenIlla3 {
+  }
+  json StillIndigoJinny4 {
+  }
+  serviceid_number LoudApricotAnnadiane7 {
+  }
+  dummy.MildOliveMadalyn3 LazyWhiteVanna2 {
+    DearGoldGloria2 = 105
+    DifficultBronzeClemence2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+    LikelyBlushClaribel3 = 356
+    VerticalOliveLynsey = false
+    JuicyApricotArdyth = 913
+    AccessibleOrangeMarilin2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    MedicalCoffeeDevora3 = 707
+  }
+  dummy.BindingSalmonPeta ActiveCopperDreddy4 {
+    UsedFuchsiaGeorgeanne = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ExplicitMaroonLisbeth = false
+    RelievedSalmonPetronilla = false
+    ModestLavenderKelsey = "Why is Peter Pan always flying? Because he Neverlands."
+    SwiftAmethystAnastasie = 202
+    WarmCopperDusty = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ComfortableGoldGriselda = {
+      legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+    }
+    RetiredSilverSarah = 353
+    EducationalCrimsonErnestine = 309
+    MobilePurpleMorna = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    BoringPeachMarnie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    BizarreTanSeka = "Did you know that protons have mass? I didn't even know they were catholic."
+    LovelyBlackCassandre = "To be Frank, I'd have to change my name."
+    FellowJadeJustinn = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ColourfulScarletRosalia = "A steak pun is a rare medium well done."
+    RelaxedPlumMinnnie = "Why did the tomato blush? Because it saw the salad dressing."
+    GeneralBlushChristan = true
+  }
+  hidden_boolean IncreasingCyanEvvy3 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+    _important_values = [
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = false
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = false
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = false
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+    ]
+  }
+  boolean PoisedTurquoiseThomasa8 {
+  }
+  number SmartPeachMarje2 {
+  }
+  dummy.ExtraCoffeeDianemarie TanYellowYetty3 {
+  }
+  serviceid_number WorldwideTanShannen2 {
+  }
+  number RevolutionaryJadeKary2 {
+  }
+  json AverageTomatoTabbie3 {
+  }
+  hidden_boolean LongVioletVanessa {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+    _important_values = [
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = true
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = true
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = true
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = true
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = false
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = false
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = true
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = true
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = true
+      },
+    ]
+  }
+  boolean VulnerableJadeKarna3 {
+  }
+  boolean SymbolicPurpleNadia2 {
+  }
+  json SupremeGreenIsabelle3 {
+  }
+  serviceid_number OrganicLimeLaina2 {
+  }
+  serviceid_number IsolatedPeachMarla2 {
+  }
+  string BottomMoccasinLouise2 {
+  }
+  serviceid WiseLavenderKatherina5 {
+  }
+  json TopChocolateDarda3 {
+  }
+}

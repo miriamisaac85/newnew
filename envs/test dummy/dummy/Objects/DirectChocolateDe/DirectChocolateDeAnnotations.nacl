@@ -1,0 +1,64 @@
+type dummy.DirectChocolateDe {
+  annotations {
+    number VerbalPinkMaxi5 {
+    }
+    hidden_boolean FrenchBrownCynde3 {
+    }
+    json ShockedPinkMelisande3 {
+    }
+    json KindVioletValma3 {
+    }
+    string CheerfulSapphireRhona {
+    }
+    string CoolGreenInna3 {
+    }
+    hidden_boolean OralLimeKylila3 {
+    }
+    json SmoothIndigoJemmy2 {
+    }
+    serviceid AnxiousHarlequinJanna3 {
+    }
+    boolean AlertTomatoTabatha4 {
+    }
+    serviceid_number AnxiousAquamarineBenoite4 {
+    }
+    serviceid_number TallYellowXylina4 {
+    }
+    serviceid_number JointCoralElita4 {
+    }
+    serviceid_number ThirstyAquaAstra3 {
+    }
+    dummy.ExtraCoffeeDianemarie HardAquaAudra3 {
+    }
+    hidden_boolean DualSapphireRheba {
+    }
+    hidden_boolean OralLimeKylila4 {
+    }
+    json ChineseGoldGuendolen2 {
+    }
+    string MisleadingRoseOrelie2 {
+    }
+    string IndependentChocolateDella5 {
+    }
+    boolean InvisibleRoseOrelia2 {
+    }
+  }
+  VerbalPinkMaxi5 = 53
+  ShockedPinkMelisande3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  KindVioletValma3 = "Why was it called the dark ages? Because of all the knights. "
+  CheerfulSapphireRhona = "I'll tell you what often gets over looked... garden fences."
+  CoolGreenInna3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  SmoothIndigoJemmy2 = "What creature is smarter than a talking parrot? A spelling bee."
+  AnxiousHarlequinJanna3 = "Why was it called the dark ages? Because of all the knights. "
+  AlertTomatoTabatha4 = true
+  AnxiousAquamarineBenoite4 = 541
+  TallYellowXylina4 = 269
+  JointCoralElita4 = 561
+  ThirstyAquaAstra3 = 80
+  HardAquaAudra3 = false
+  ChineseGoldGuendolen2 = "Why is Peter Pan always flying? Because he Neverlands."
+  MisleadingRoseOrelie2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  IndependentChocolateDella5 = "Why did the tomato blush? Because it saw the salad dressing."
+  InvisibleRoseOrelia2 = false
+  _alias = "DirectChocolateDe_alias"
+}

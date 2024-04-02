@@ -1,0 +1,5 @@
+dummy.OutsideGrayHelenka6 PalestinianTanShandee2 {
+  DampAmberAlejandrina = 209
+  _parent = dummy.DeadTealSileas2
+  _alias = "PalestinianTanShandee2_alias"
+}

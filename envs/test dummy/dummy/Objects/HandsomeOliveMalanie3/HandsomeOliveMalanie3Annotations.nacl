@@ -1,0 +1,65 @@
+type dummy.HandsomeOliveMalanie3 {
+  annotations {
+    hidden_boolean UnchangedSilverRubetta4 {
+    }
+    string TiredGoldGrete7 {
+    }
+    string MaleCoffeeDiannne3 {
+    }
+    hidden_boolean NarrowCyanFanny2 {
+    }
+    hidden_boolean ConceptualTanShelba {
+    }
+    string ThunderingApricotArabele {
+    }
+    serviceid_number CollectiveLavenderKathryn {
+    }
+    dummy.ProbableSalmonPhyllys2 BroadAmberAlika4 {
+    }
+    string SkilledMoccasinLucia2 {
+    }
+    boolean ProbableSalmonPhyllys6 {
+    }
+    serviceid_number CasualOliveLurline3 {
+    }
+    number ExceptionalOliveMadonna2 {
+    }
+    serviceid VoicelessApricotArdath3 {
+    }
+    serviceid_number CleverTealSibeal5 {
+    }
+    dummy.FatAmaranthAbigale3 NumerousAmethystAngele3 {
+    }
+    boolean WittyBlueCelene5 {
+    }
+    boolean DeliciousScarletRoda {
+    }
+    hidden_boolean QualifiedPinkMelli3 {
+    }
+    dummy.JealousAzureBobby2 DamagedAmberAlejandra2 {
+    }
+    json FoolishSapphireReiko5 {
+    }
+    hidden_boolean RapidAmethystAna3 {
+    }
+    hidden_boolean UnwillingTanShelby2 {
+    }
+    boolean OpenTealStarr3 {
+    }
+  }
+  TiredGoldGrete7 = "Why was it called the dark ages? Because of all the knights. "
+  MaleCoffeeDiannne3 = "Why did the tomato blush? Because it saw the salad dressing."
+  ThunderingApricotArabele = "To be Frank, I'd have to change my name."
+  CollectiveLavenderKathryn = 756
+  SkilledMoccasinLucia2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ProbableSalmonPhyllys6 = false
+  CasualOliveLurline3 = 629
+  ExceptionalOliveMadonna2 = 442
+  VoicelessApricotArdath3 = "Dad Im hungry  Hi hungry Im dad"
+  CleverTealSibeal5 = 388
+  WittyBlueCelene5 = false
+  DeliciousScarletRoda = true
+  FoolishSapphireReiko5 = "How come the stadium got hot after the game? Because all of the fans left."
+  OpenTealStarr3 = false
+  _alias = "HandsomeOliveMalanie3_alias"
+}

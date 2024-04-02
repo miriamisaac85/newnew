@@ -1,0 +1,241 @@
+type dummy.AfraidCrimsonEmogene {
+  annotations {
+    dummy.SwissPlumMikaela GayOrangeMariette3 {
+    }
+    serviceid_number InteriorPurpleNatka {
+    }
+    serviceid StormyTurquoiseTilly {
+    }
+    boolean PrimaryCoffeeDody {
+    }
+    serviceid TeenageScarletRobinetta3 {
+    }
+    json JollyVioletValina3 {
+    }
+  }
+  hidden_boolean SpiritualLavenderKatrine4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = false
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = false
+      },
+    ]
+  }
+  hidden_boolean ModernAmethystAmelina2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = true
+      },
+      {
+        value = "Why did the kid cross the playground? To get to the other slide."
+        indexed = true
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = true
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = false
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = true
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = false
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = true
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = false
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = false
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = false
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = true
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+    ]
+  }
+  dummy.DEFAULT WrongTomatoSybil {
+    _hidden_value = true
+  }
+  json BadBlushCilka {
+    _hidden_value = true
+  }
+  boolean WorthyRoseOdille2 {
+    _hidden_value = true
+  }
+  json DistinctiveLimeKristen3 {
+    _hidden_value = true
+  }
+  json FavourablePinkMerci2 {
+    _hidden_value = true
+  }
+  string AliveFuchsiaGilly {
+    _hidden_value = true
+  }
+  string HiddenRedOdelle3 {
+    _hidden_value = true
+  }
+  number QuietWhiteVivienne {
+    _hidden_value = true
+  }
+  json LongVioletVanda3 {
+    _hidden_value = true
+  }
+  boolean HorizontalSalmonPrudence3 {
+    _hidden_value = true
+  }
+  serviceid_number SkinnyAmberAlta3 {
+    _hidden_value = true
+  }
+  boolean ExperimentalLavenderKatlin {
+    _hidden_value = true
+  }
+  boolean AnonymousSapphireRaye3 {
+    _hidden_value = true
+  }
+  boolean ExplicitMaroonLisbeth3 {
+    _hidden_value = true
+  }
+  json VastEmeraldFreddi2 {
+    _hidden_value = true
+  }
+  json InterimOrangeMalvina {
+    _hidden_value = true
+  }
+  serviceid ObligedOrangeMarcellina2 {
+    _hidden_value = true
+  }
+  serviceid ComparativePlumModestia2 {
+    _hidden_value = true
+  }
+  number SoftCoralElana3 {
+    _hidden_value = true
+  }
+  string WanderingTomatoSuzette {
+    _hidden_value = true
+  }
+  json WorthyRedOdilia3 {
+    _hidden_value = true
+  }
+  number GenuineGreenIsobel2 {
+    _hidden_value = true
+  }
+  string WelshGrayHazel {
+    _hidden_value = true
+  }
+  serviceid FrailVioletTrude2 {
+    _hidden_value = true
+  }
+  boolean AddedPinkMelicent3 {
+    _hidden_value = true
+  }
+  boolean ExcessSilverSapphire3 {
+    _hidden_value = true
+  }
+  serviceid_number LiableLimeKimberlyn4 {
+    _hidden_value = true
+  }
+  dummy.AcceptedTanSerena GentleBlackCarmen {
+    HarshOliveMaia = "Dad Im hungry  Hi hungry Im dad"
+    EvolutionarySilverRuby = "Why do birds fly south for the winter? Because it's too far to walk."
+    SoundAmethystAngelika = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ExtraCoffeeDiandra = "I'll tell you what often gets over looked... garden fences."
+    QuaintWhiteVivianna = "What did one nut say as he chased another nut?  I'm a cashew!"
+    _hidden_value = true
+  }
+  string PromisingRedNonie2 {
+    _hidden_value = true
+  }
+  GayOrangeMariette3 = "Why is Peter Pan always flying? Because he Neverlands."
+  InteriorPurpleNatka = 644
+  StormyTurquoiseTilly = "Dad Im hungry  Hi hungry Im dad"
+  PrimaryCoffeeDody = false
+  TeenageScarletRobinetta3 = "Why did the tomato blush? Because it saw the salad dressing."
+  JollyVioletValina3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

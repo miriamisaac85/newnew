@@ -1,0 +1,204 @@
+type dummy.CentralBronzeConsolata {
+  annotations {
+    json CombativeAquamarineBerte {
+    }
+    number ThoroughScarletRona2 {
+    }
+    json TerribleEmeraldFredia {
+    }
+    string ProfessionalChocolateDdene {
+    }
+    number SymbolicPurpleNadiya2 {
+    }
+  }
+  dummy.BindingSalmonPeta TastyAquaAshlie2 {
+    UsedFuchsiaGeorgeanne = "Did you know that protons have mass? I didn't even know they were catholic."
+    ExplicitMaroonLisbeth = true
+    RelievedSalmonPetronilla = true
+    ModestLavenderKelsey = "Why do birds fly south for the winter? Because it's too far to walk."
+    SwiftAmethystAnastasie = 463
+    WarmCopperDusty = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ComfortableGoldGriselda = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    RetiredSilverSarah = 3
+    EducationalCrimsonErnestine = 179
+    MobilePurpleMorna = "What do you do on a remote island? Try and find the TV island it belongs to."
+    BoringPeachMarnie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    BizarreTanSeka = "Slept like a log last night  woke up in the fireplace."
+    LovelyBlackCassandre = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    FellowJadeJustinn = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ColourfulScarletRosalia = "Im only familiar with 25 letters in the English language. I dont know why."
+    RelaxedPlumMinnnie = "Whoever invented the knock-knock joke should get a no bell prize."
+    GeneralBlushChristan = false
+    _hidden_value = true
+  }
+  string AdministrativeGreenHoney {
+    _hidden_value = true
+  }
+  hidden_boolean SaltyApricotArlena {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = true
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = true
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = true
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = true
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = true
+      },
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = false
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = false
+      },
+    ]
+  }
+  json ConfusedAquamarineBertine2 {
+    _hidden_value = true
+  }
+  serviceid ArchitecturalRosePatrica3 {
+    _hidden_value = true
+  }
+  json FantasticBlackCarlotta {
+    _hidden_value = true
+  }
+  json EthnicLavenderKayla {
+    _hidden_value = true
+  }
+  serviceid AshamedAquamarineBernadette {
+    _hidden_value = true
+  }
+  serviceid RegulatorySalmonQuintana4 {
+    _hidden_value = true
+  }
+  string ReligiousCoralElectra {
+    _hidden_value = true
+  }
+  serviceid_number RapidGrayHilda {
+    _hidden_value = true
+  }
+  serviceid_number ForthcomingPeachMarrissa2 {
+    _hidden_value = true
+  }
+  number RapidAmethystAmmamaria {
+    _hidden_value = true
+  }
+  hidden_boolean PlainIndigoJewel {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = true
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = false
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = true
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = true
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+    ]
+  }
+  number OutdoorSilverSarita {
+    _hidden_value = true
+  }
+  CombativeAquamarineBerte = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ThoroughScarletRona2 = 75
+  TerribleEmeraldFredia = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ProfessionalChocolateDdene = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SymbolicPurpleNadiya2 = 826
+  _hidden_value = true
+}

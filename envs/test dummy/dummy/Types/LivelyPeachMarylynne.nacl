@@ -1,0 +1,36 @@
+type dummy.LivelyPeachMarylynne {
+  annotations {
+    dummy.DEFAULT AwfulAquamarineBernelle3 {
+    }
+    serviceid JollyBlackCaron {
+    }
+    dummy.DEFAULT AwkwardPeachMarylee3 {
+    }
+    number BloodyCyanFedora2 {
+    }
+  }
+  dummy.FancyTurquoiseTeirtza RandomMoccasinLorena4 {
+    TallYellowXylia = "What creature is smarter than a talking parrot? A spelling bee."
+    CheapCopperEdita = "To be Frank, I'd have to change my name."
+    SharedPinkMelicent = 467
+    StuckRoseOralee = 424
+    SorryBrownDanyelle = 610
+    GoverningTanSelle = 600
+    JointCoralEliza = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    SorryBrownDanyelle2 = 798
+    PainfulMaroonLilly = "Why did the tomato blush? Because it saw the salad dressing."
+    RichTomatoStorm = "Why did the kid cross the playground? To get to the other slide."
+    ImplicitSapphireRhea = 349
+    FlyingMoccasinLoralyn = false
+    _hidden_value = true
+  }
+  AwfulAquamarineBernelle3 = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  JollyBlackCaron = "Dad Im hungry  Hi hungry Im dad"
+  AwkwardPeachMarylee3 = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  BloodyCyanFedora2 = 879
+  _hidden_value = true
+}

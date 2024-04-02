@@ -1,0 +1,25 @@
+type dummy.DampAmberAlena2 {
+  annotations {
+    dummy.FarBlushChristin JoyousBlackCarry3 {
+    }
+    dummy.DEFAULT SweetGreenHollie {
+    }
+    string CivicTanShelley2 {
+    }
+    string IllEmeraldGael2 {
+    }
+  }
+  dummy.DEFAULT ConsistentHarlequinJanis {
+    _hidden_value = true
+  }
+  "List<number>" RoughAquaAustina {
+    _hidden_value = true
+  }
+  JoyousBlackCarry3 = false
+  SweetGreenHollie = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  CivicTanShelley2 = "What do you call two barracuda fish?  A Pairacuda!"
+  IllEmeraldGael2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

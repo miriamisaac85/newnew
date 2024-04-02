@@ -1,0 +1,59 @@
+type dummy.ValuableGoldGypsy {
+  annotations {
+    serviceid_number KoreanSapphireRasia5 {
+    }
+    serviceid_number BasicChocolateDarice6 {
+    }
+    dummy.SmallBlueCharlean DryAmberAlexandra3 {
+    }
+    number CommonBronzeConsuela2 {
+    }
+    serviceid VisitingScarletRoana {
+    }
+    serviceid_number GiantAmaranthAda2 {
+    }
+    dummy.EntitledIvoryJuliann ThickEmeraldFina {
+    }
+    json HissingApricotAnna {
+    }
+    dummy.ObjectiveOrangeMame2 PatientPurpleNanice2 {
+    }
+    number LuckyBlackCassaundra5 {
+    }
+    boolean MutualLimeKimberley3 {
+    }
+    json ElectoralLimeKristin3 {
+    }
+    serviceid_number MarriedCyanFannie3 {
+    }
+    number DearGoldGlennis2 {
+    }
+    dummy.CharmingBeigeCallida PlasticAquaAurelia4 {
+    }
+    json ConstantEmeraldFred {
+    }
+    json JealousAzureBobby3 {
+    }
+    dummy.RationalLavenderKay GradualSilverSalli3 {
+    }
+    string DeadTealSile5 {
+    }
+  }
+  KoreanSapphireRasia5 = 730
+  BasicChocolateDarice6 = 824
+  CommonBronzeConsuela2 = 562
+  VisitingScarletRoana = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  GiantAmaranthAda2 = 39
+  ThickEmeraldFina = file("PrimitiveOrangeMarga3.txt")
+  HissingApricotAnna = "Im only familiar with 25 letters in the English language. I dont know why."
+  LuckyBlackCassaundra5 = 805
+  MutualLimeKimberley3 = true
+  ElectoralLimeKristin3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  MarriedCyanFannie3 = 588
+  DearGoldGlennis2 = 945
+  PlasticAquaAurelia4 = file("WrittenGreenIvie.txt")
+  ConstantEmeraldFred = "My first time using an elevator was an uplifting experience. The second time let me down."
+  JealousAzureBobby3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DeadTealSile5 = "I'll tell you what often gets over looked... garden fences."
+  _alias = "ValuableGoldGypsy_alias"
+}

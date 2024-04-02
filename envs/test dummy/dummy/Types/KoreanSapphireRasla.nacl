@@ -1,0 +1,159 @@
+type dummy.KoreanSapphireRasla {
+  annotations {
+    serviceid RoundAmberAlmeta2 {
+    }
+    boolean TameYellowYasmin {
+    }
+    serviceid_number GrubbyAquaAudi3 {
+    }
+    number SoftApricotAnya2 {
+    }
+    string FewAmethystAndria2 {
+    }
+  }
+  json StrangeCoralEdna {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EasternCrimsonEricka2 {
+    _hidden_value = true
+  }
+  string NearbyLimeKoo {
+    _hidden_value = true
+  }
+  string NervousAzureBrande {
+    _hidden_value = true
+  }
+  serviceid HandicappedTanShanon {
+    _hidden_value = true
+  }
+  serviceid_number PerfectCyanEtty2 {
+    _hidden_value = true
+  }
+  boolean BriefAmethystAmalita2 {
+    _hidden_value = true
+  }
+  json HappyBlackCarolan {
+    _hidden_value = true
+  }
+  serviceid_number CreepyAmberAlaine6 {
+    _hidden_value = true
+  }
+  serviceid ValidLavenderKerry {
+    _hidden_value = true
+  }
+  number NervousAzureBrandea2 {
+    _hidden_value = true
+  }
+  number BreezyAmaranthAidan3 {
+    _hidden_value = true
+  }
+  serviceid RecentBronzeCornela {
+    _hidden_value = true
+  }
+  boolean DangerousAquamarineBethany {
+    _hidden_value = true
+  }
+  string ImmenseAmaranthAdelice2 {
+    _hidden_value = true
+  }
+  json VariedRedNorah2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BottomMoccasinLouise {
+    _hidden_value = true
+  }
+  hidden_boolean OkayOliveMaggie2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = false
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = false
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = true
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+      {
+        value = "What creature is smarter than a talking parrot? A spelling bee."
+        indexed = true
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = false
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = false
+      },
+    ]
+  }
+  serviceid_number BrokenIndigoJocelyne {
+    _hidden_value = true
+  }
+  RoundAmberAlmeta2 = "What creature is smarter than a talking parrot? A spelling bee."
+  TameYellowYasmin = true
+  GrubbyAquaAudi3 = 744
+  SoftApricotAnya2 = 447
+  FewAmethystAndria2 = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

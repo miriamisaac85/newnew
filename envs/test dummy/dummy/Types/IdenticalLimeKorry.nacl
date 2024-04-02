@@ -1,0 +1,46 @@
+type dummy.IdenticalLimeKorry {
+  annotations {
+    boolean LivelyPeachMarylin {
+    }
+    number CrudePlumMil3 {
+    }
+    serviceid SharedPinkMelessa {
+    }
+    hidden_boolean RequiredMaroonLeticia2 {
+    }
+    hidden_boolean ImaginativeTanSeline4 {
+    }
+    serviceid NastyWhiteVeronica3 {
+    }
+  }
+  json CasualOliveLusa3 {
+    _hidden_value = true
+  }
+  number FoolishSapphireReina4 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" ScaredSalmonRafaelita3 {
+    _hidden_value = true
+  }
+  dummy.ExtremeHarlequinJackelyn MaximumGreenImelda {
+    IncCrimsonErmentrude = 909
+    AlliedPlumMisti = true
+    InternalCoralEdy = "What do you call two barracuda fish?  A Pairacuda!"
+    DevelopedPinkMerilyn = 720
+    CrookedAmberAlisha = "A steak pun is a rare medium well done."
+    AmericanBronzeCorrianne = 971
+    TragicRosePaulita = 219
+    ConceptualTanShelagh = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    StrangeTurquoiseTimmie = "Why was it called the dark ages? Because of all the knights. "
+    NastyWhiteVeronica = "Why did the kid cross the playground? To get to the other slide."
+    OldAmethystAmie = 704
+    _hidden_value = true
+  }
+  LivelyPeachMarylin = true
+  CrudePlumMil3 = 905
+  SharedPinkMelessa = "Why do birds fly south for the winter? Because it's too far to walk."
+  NastyWhiteVeronica3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

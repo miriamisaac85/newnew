@@ -1,0 +1,168 @@
+type dummy.ReligiousCoralElena {
+  annotations {
+    string IncredibleRosePaula2 {
+    }
+    number ContinuingGreenIrita2 {
+    }
+    json KeenGrayHanna {
+    }
+    serviceid DisastrousScarletRochelle {
+    }
+    json HelpfulBlackCaroljean3 {
+    }
+  }
+  string GloriousBlackCarmencita {
+    _hidden_value = true
+  }
+  dummy.RussianCyanFelicity ExcessSilverSara2 {
+    RapidAmethystAmy = {
+      legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    }
+    GlobalGrayHermine = "Did you know that protons have mass? I didn't even know they were catholic."
+    BrainyTealSherry = false
+    SoundRoseOlga = 955
+    LevelJadeKally = false
+    WideAmethystAmabel = 274
+    CautiousScarletRivy = false
+    RandomMoccasinLoren = 865
+    AssociatedMaroonLindsey = true
+    FamiliarCrimsonEthel = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    MinorEmeraldGabriel = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    SurroundingOrangeMarget = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    FatalPurpleMyrtice = "What creature is smarter than a talking parrot? A spelling bee."
+    _hidden_value = true
+  }
+  boolean CreepyAmberAlaine3 {
+    _hidden_value = true
+  }
+  dummy.LongAmaranthAdina SilkyAquaBamby {
+    GrubbyAquaAubry = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    GloriousScarletRose2 = false
+    _hidden_value = true
+  }
+  json DefensiveRoseOnida {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TallYellowXylina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ElectricalLavenderKerrin {
+    _hidden_value = true
+  }
+  number MammothAmaranthAdora2 {
+    _hidden_value = true
+  }
+  serviceid HorizontalSalmonPrissie {
+    _hidden_value = true
+  }
+  serviceid JewishLimeKissie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConvincingSalmonPeggy {
+    _hidden_value = true
+  }
+  hidden_boolean BackMoccasinLoni {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = true
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = true
+      },
+      {
+        value = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = true
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = true
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Why didnt the skeleton cross the road? Because he had no guts."
+        indexed = false
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = false
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = false
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = true
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = false
+      },
+      {
+        value = "Im only familiar with 25 letters in the English language. I dont know why."
+        indexed = true
+      },
+    ]
+  }
+  boolean CreepyAmberAjay {
+    _hidden_value = true
+  }
+  serviceid_number PrettyIndigoJennine {
+    _hidden_value = true
+  }
+  serviceid_number BalancedSilverRoslyn {
+    _hidden_value = true
+  }
+  json LowAmberAlly {
+    _hidden_value = true
+  }
+  json SpontaneousTanShauna {
+    _hidden_value = true
+  }
+  number SufficientCrimsonEolanda {
+    _hidden_value = true
+  }
+  number ElegantTurquoiseTeddie {
+    _hidden_value = true
+  }
+  IncredibleRosePaula2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ContinuingGreenIrita2 = 840
+  KeenGrayHanna = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  DisastrousScarletRochelle = "What do you do on a remote island? Try and find the TV island it belongs to."
+  HelpfulBlackCaroljean3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

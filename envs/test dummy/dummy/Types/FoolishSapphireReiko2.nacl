@@ -1,0 +1,142 @@
+type dummy.FoolishSapphireReiko2 {
+  annotations {
+    serviceid UnawareSapphireReeta {
+    }
+    json MiniatureAmaranthAdriaens {
+    }
+    hidden_boolean HugeAmaranthAdelaida {
+    }
+    serviceid FaintAmethystAnita {
+    }
+    serviceid_number WetAquamarineBella {
+    }
+    number DisgustedAzureBev2 {
+    }
+  }
+  string PassingSalmonPolly2 {
+    _hidden_value = true
+  }
+  serviceid SupremeGreenIsabelita {
+    _hidden_value = true
+  }
+  serviceid_number ElectoralLimeKristina {
+    _hidden_value = true
+  }
+  serviceid RelievedBlueCatherine {
+    _hidden_value = true
+  }
+  serviceid_number RelaxedPlumMinnie {
+    _hidden_value = true
+  }
+  serviceid ProminentLavenderKelcey {
+    _hidden_value = true
+  }
+  hidden_boolean HelpfulHarlequinJanette2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = true
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+      {
+        value = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = false
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = true
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = true
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+      {
+        value = "Why was it called the dark ages? Because of all the knights. "
+        indexed = true
+      },
+    ]
+  }
+  string ComfortableBeigeCamellia {
+    _hidden_value = true
+  }
+  string FreeBronzeCody2 {
+    _hidden_value = true
+  }
+  number FrightenedMagentaLaverne2 {
+    _hidden_value = true
+  }
+  string FinancialBronzeCorette {
+    _hidden_value = true
+  }
+  json AcceptableGrayHelli {
+    _hidden_value = true
+  }
+  serviceid ExcessiveOliveMadelene {
+    _hidden_value = true
+  }
+  json SupportingSilverSamantha {
+    _hidden_value = true
+  }
+  UnawareSapphireReeta = "Slept like a log last night  woke up in the fireplace."
+  MiniatureAmaranthAdriaens = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  FaintAmethystAnita = "To be Frank, I'd have to change my name."
+  WetAquamarineBella = 800
+  DisgustedAzureBev2 = 493
+  _hidden_value = true
+}

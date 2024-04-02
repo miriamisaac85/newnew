@@ -1,0 +1,64 @@
+type dummy.NarrowCyanFara2 {
+  annotations {
+    boolean BrightVioletTory5 {
+    }
+    json RepulsiveBeigeBrena3 {
+    }
+    dummy.NervousHarlequinJanot AwfulHarlequinJaquelyn2 {
+    }
+    dummy.DarkTurquoiseTaryn3 ProminentLavenderKelcey3 {
+    }
+    serviceid UnableCoralEloisa2 {
+    }
+    serviceid WorriedGrayHarmonie {
+    }
+    dummy.RoastedWhiteWenonah PassingSalmonPippa {
+    }
+    hidden_boolean HandsomeOliveMalanie {
+    }
+    string WetAmberAlicia5 {
+    }
+    number ApplicablePlumMiriam {
+    }
+    string SimilarBronzeConsolata4 {
+    }
+    number ShyScarletRosetta {
+    }
+    boolean LeadingCrimsonEma {
+    }
+    json PanickyAzureBreena2 {
+    }
+    hidden_boolean WoodenAquamarineBelle3 {
+    }
+    serviceid UnconsciousSapphireRaychel4 {
+    }
+    serviceid DesirableMagentaLanny2 {
+    }
+    json ChangingJadeKassandra5 {
+    }
+    json FavourablePinkMerci4 {
+    }
+    serviceid ScaryBeigeBria5 {
+    }
+    string EfficientGoldGretna2 {
+    }
+  }
+  BrightVioletTory5 = true
+  RepulsiveBeigeBrena3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  UnableCoralEloisa2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  WorriedGrayHarmonie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  PassingSalmonPippa = file("StrictLavenderKatharine4.txt")
+  WetAmberAlicia5 = "What do you call two barracuda fish?  A Pairacuda!"
+  ApplicablePlumMiriam = 949
+  SimilarBronzeConsolata4 = "Why did the kid cross the playground? To get to the other slide."
+  ShyScarletRosetta = 428
+  LeadingCrimsonEma = false
+  PanickyAzureBreena2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  UnconsciousSapphireRaychel4 = "Why didnt the skeleton cross the road? Because he had no guts."
+  DesirableMagentaLanny2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  ChangingJadeKassandra5 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  FavourablePinkMerci4 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ScaryBeigeBria5 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  EfficientGoldGretna2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _alias = "NarrowCyanFara2_alias"
+}

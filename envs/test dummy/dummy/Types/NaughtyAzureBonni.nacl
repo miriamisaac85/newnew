@@ -1,0 +1,166 @@
+type dummy.NaughtyAzureBonni {
+  annotations {
+    serviceid_number SwiftAmethystAnastasie4 {
+    }
+    serviceid_number BizarreTanSean3 {
+    }
+    string SubsequentFuchsiaGilemette {
+    }
+    serviceid PoliteSalmonRafaelia2 {
+    }
+    number LonelyAzureBobette3 {
+    }
+    number RenewedSilverSandra2 {
+    }
+    string CuddlyAmberAlayne2 {
+    }
+  }
+  serviceid_number MiserableSalmonRachel {
+    _hidden_value = true
+  }
+  serviceid WorriedBeigeBrynna {
+    _hidden_value = true
+  }
+  dummy.SpectacularMaroonLibbie BeautifulCoffeeDixie {
+    FriendlyBlackCarma = 68
+    FrightenedMagentaLavena = 33
+    RepulsiveBeigeBrena = "My first time using an elevator was an uplifting experience. The second time let me down."
+    UptightBeigeBrittni = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    ExactLimeKordula2 = 206
+    LocalBlueCharmian = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    SensibleIvoryJordana = "A steak pun is a rare medium well done."
+    MonetaryIvoryJoey = "Why was it called the dark ages? Because of all the knights. "
+    WickedBeigeBryna = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    AshamedScarletRosamund = 294
+    ChillyAmaranthAilsun = 252
+    CooingAmethystAngelique = 550
+    FatalPurpleMyrtle = 151
+    ThoughtlessBeigeBrinna = "Why did the kid cross the playground? To get to the other slide."
+    EvilAzureBili = 361
+    RelievedBlueCathie = false
+    CleverTealSibeal = "Why did the kid cross the playground? To get to the other slide."
+    GrowingCrimsonEnrichetta = 988
+    _hidden_value = true
+  }
+  number DisappointedMagentaLaurianne {
+    _hidden_value = true
+  }
+  string FuriousRedNicoline {
+    _hidden_value = true
+  }
+  hidden_boolean DisgustedAzureBettye3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "What do you call two barracuda fish?  A Pairacuda!"
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = true
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = true
+      },
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = false
+      },
+      {
+        value = "Dad Im hungry  Hi hungry Im dad"
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = true
+      },
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = true
+      },
+      {
+        value = "Whoever invented the knock-knock joke should get a no bell prize."
+        indexed = false
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = false
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = true
+      },
+      {
+        value = "Did you hear the joke about the wandering nun? She was a roman catholic."
+        indexed = false
+      },
+      {
+        value = "To be Frank, I'd have to change my name."
+        indexed = true
+      },
+    ]
+  }
+  string BalancedSilverRosita2 {
+    _hidden_value = true
+  }
+  serviceid BadAquamarineBernette {
+    _hidden_value = true
+  }
+  serviceid_number ViolentIvoryJolene2 {
+    _hidden_value = true
+  }
+  string PlainTurquoiseTherine {
+    _hidden_value = true
+  }
+  boolean RoughGreenIdelle3 {
+    _hidden_value = true
+  }
+  "Map<serviceid_number>" PatientPurpleNanine {
+    _hidden_value = true
+  }
+  SwiftAmethystAnastasie4 = 134
+  BizarreTanSean3 = 304
+  SubsequentFuchsiaGilemette = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  PoliteSalmonRafaelia2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  LonelyAzureBobette3 = 28
+  RenewedSilverSandra2 = 512
+  CuddlyAmberAlayne2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

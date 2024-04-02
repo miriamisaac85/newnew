@@ -1,0 +1,209 @@
+type dummy.BroadAmberAlidia2 {
+  annotations {
+    dummy.BindingSalmonPeta SoftAquamarineBarbie2 {
+    }
+    string SilkyAquaBamby2 {
+    }
+    hidden_boolean CuriousLimeKirbie3 {
+    }
+    number ExtendedPlumMilissent2 {
+    }
+    serviceid_number BadVioletToinette3 {
+    }
+  }
+  serviceid SmallAmaranthAgathe4 {
+    _hidden_value = true
+  }
+  string AwkwardPeachMarylee5 {
+    _hidden_value = true
+  }
+  string HardAquaAudre3 {
+    _hidden_value = true
+  }
+  json VictoriousBlueCecil2 {
+    _hidden_value = true
+  }
+  json InformalLavenderKathi {
+    _hidden_value = true
+  }
+  boolean MagicOrangeManya5 {
+    _hidden_value = true
+  }
+  serviceid ConvincedJadeKarine2 {
+    _hidden_value = true
+  }
+  string RedWhiteWendie4 {
+    _hidden_value = true
+  }
+  hidden_boolean StraightforwardMaroonLexy3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = true
+      },
+      {
+        value = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+        indexed = true
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+        indexed = false
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = false
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = false
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+    ]
+  }
+  dummy.SteepAmberAlyce SportingSilverRuthy2 {
+    ChangingJadeKassia = "Why was it called the dark ages? Because of all the knights. "
+    RightBlushCherish = "Dad Im hungry  Hi hungry Im dad"
+    PreviousBrownDania = true
+    ClosedMagentaLeilah = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    SuperTomatoSusanna = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    ZanyYellowZulema = false
+    ChubbyAmberAline = false
+    CheerfulBeigeCalypso = 521
+    SympatheticPinkMead2 = "Dad Im hungry  Hi hungry Im dad"
+    FuzzyAquaAuberta = "Why didnt the skeleton cross the road? Because he had no guts."
+    GoverningTanSelma = "Im only familiar with 25 letters in the English language. I dont know why."
+    MinorEmeraldGabriel2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    _hidden_value = true
+  }
+  number ThoughtfulBlueCaye2 {
+    _hidden_value = true
+  }
+  serviceid MarineMagentaLeona {
+    _hidden_value = true
+  }
+  hidden_boolean ElectricalLavenderKerrie3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+    _important_values = [
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = true
+      },
+      {
+        value = "What did one nut say as he chased another nut?  I'm a cashew!"
+        indexed = false
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = false
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = false
+      },
+      {
+        value = "What do you do on a remote island? Try and find the TV island it belongs to."
+        indexed = true
+      },
+      {
+        value = "How come the stadium got hot after the game? Because all of the fans left."
+        indexed = true
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = true
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = false
+      },
+      {
+        value = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+        indexed = false
+      },
+      {
+        value = "Slept like a log last night  woke up in the fireplace."
+        indexed = false
+      },
+      {
+        value = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+        indexed = false
+      },
+    ]
+    _self_important_values = [
+      {
+        value = "Why did the tomato blush? Because it saw the salad dressing."
+        indexed = false
+      },
+      {
+        value = "Why do birds fly south for the winter? Because it's too far to walk."
+        indexed = true
+      },
+      {
+        value = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+        indexed = false
+      },
+      {
+        value = "I'll tell you what often gets over looked... garden fences."
+        indexed = false
+      },
+      {
+        value = "A steak pun is a rare medium well done."
+        indexed = false
+      },
+      {
+        value = "Chances are if you' ve seen one shopping center, you've seen a mall."
+        indexed = true
+      },
+      {
+        value = "Did you know that protons have mass? I didn't even know they were catholic."
+        indexed = false
+      },
+      {
+        value = "My first time using an elevator was an uplifting experience. The second time let me down."
+        indexed = false
+      },
+      {
+        value = "Why is Peter Pan always flying? Because he Neverlands."
+        indexed = false
+      },
+    ]
+  }
+  json ArtisticPeachMarysa {
+    _hidden_value = true
+  }
+  SoftAquamarineBarbie2 = "What creature is smarter than a talking parrot? A spelling bee."
+  SilkyAquaBamby2 = "Why did the tomato blush? Because it saw the salad dressing."
+  ExtendedPlumMilissent2 = 866
+  BadVioletToinette3 = 173
+  _hidden_value = true
+}
