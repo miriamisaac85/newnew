@@ -1,0 +1,4 @@
+dummy.FlyingVioletBrande ExperimentalIndigoKendre {
+  _parent = dummy.SelectCoffeeGretel
+  _alias = "ExperimentalIndigoKendre_alias"
+}
