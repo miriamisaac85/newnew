@@ -1,0 +1,59 @@
+type dummy.AbleAmethystChelsae {
+  annotations {
+    hidden_boolean InteriorAmaranthNada {
+    }
+    string GrossAmaranthArdeen {
+    }
+    hidden_boolean MereApricotEran {
+    }
+    boolean ControversialCrimsonCathrin {
+    }
+    string OpenJadeMargarete {
+    }
+    dummy.YawningTomatoBlaire GreasyCrimsonAngelina {
+    }
+    boolean UnemployedCyanViviyan {
+    }
+    dummy.EmotionalOrangeGena TallMagentaJen {
+    }
+    serviceid DecisiveCrimsonJoela {
+    }
+    hidden_boolean UnitedScarletDonia {
+    }
+    number WorkingOrangeJoell {
+    }
+    json CollectiveOliveVivi {
+    }
+    serviceid PayableGreenKelly {
+    }
+    json SuitableBeigeAbbi {
+    }
+    number UncomfortableSilverNicki {
+    }
+    dummy.TremendousYellowMarguerite PanickyGrayUlrikaumeko {
+    }
+    number MathematicalIvoryMuffin {
+    }
+    hidden_boolean BindingSapphireLaina {
+    }
+    serviceid UnacceptableLimeKeeley {
+    }
+    json CompetitiveGrayBerget {
+    }
+  }
+  GrossAmaranthArdeen = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ControversialCrimsonCathrin = false
+  OpenJadeMargarete = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  GreasyCrimsonAngelina = file("JustChocolateBarbabra.txt")
+  UnemployedCyanViviyan = true
+  DecisiveCrimsonJoela = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  WorkingOrangeJoell = 338
+  CollectiveOliveVivi = "I'll tell you what often gets over looked... garden fences."
+  PayableGreenKelly = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SuitableBeigeAbbi = "Why was it called the dark ages? Because of all the knights. "
+  UncomfortableSilverNicki = 234
+  MathematicalIvoryMuffin = 866
+  UnacceptableLimeKeeley = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CompetitiveGrayBerget = "I'll tell you what often gets over looked... garden fences."
+  _alias = "AbleAmethystChelsae_alias"
+}
